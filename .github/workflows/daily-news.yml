@@ -1,0 +1,38 @@
+name: Daily News Collection
+
+on:
+  schedule:
+    - cron: '0 9 * * *'  # Runs at 9:00 AM UTC daily
+  workflow_dispatch:  # Allow manual trigger
+
+jobs:
+  scrape-news:
+    runs-on: ubuntu-latest
+    
+    permissions:
+      contents: write
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+      
+      - name: Run news scraper
+        run: |
+          python scraper.py
+      
+      - name: Commit and push updates
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "Intelligence Bot"
+          git add NEWS.md
+          git diff --quiet && git diff --staged --quiet || (git commit -m "📰 Daily Intel Update: $(date -u +%Y-%m-%d)" && git push)
