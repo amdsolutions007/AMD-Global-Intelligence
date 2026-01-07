@@ -2,43 +2,44 @@
 
 **Automated News Collection - Updated Daily**
 
-**Last Update:** 2026-01-06 09:06:35 UTC
+**Last Update:** 2026-01-07 09:07:44 UTC
 
 ---
 
-## 🔥 Latest Headlines (January 06, 2026)
+## 🔥 Latest Headlines (January 07, 2026)
 
 
 ### Hacker News
 
+- [AWS raises GPU prices 15% on a Saturday, hopes you weren't paying attention](https://www.theregister.com/2026/01/05/aws_price_increase/)
 - [Anna's Archive loses .org domain after surprise suspension](https://torrentfreak.com/annas-archive-loses-org-domain-after-surprise-suspension/)
-- [Web development is fun again](https://ma.ttias.be/web-development-is-fun-again/)
+- [Opus 4.5 is not the normal AI agent experience that I have had thus far](https://burkeholland.github.io/posts/opus-4-5-change-everything/)
 - [Murder-suicide case shows OpenAI selectively hides data after users die](https://arstechnica.com/tech-policy/2025/12/openai-refuses-to-say-where-chatgpt-logs-go-when-users-die/)
-- [RevisionDojo, a YC startup, is running astroturfing campaigns targeting kids](https://news.ycombinator.com/item?id=46499976)
+- [RevisionDojo, a YC startup, is running astroturfing campaigns targeting kids?](https://news.ycombinator.com/item?id=46499976)
 
 ### ArXiv
 
 - [Semantic Alignment of Multilingual Knowledge Graphs via Contextualized Vector Projections](https://arxiv.org/abs/2601.00814)
 - [MathLedger: A Verifiable Learning Substrate with Ledger-Attested Feedback](https://arxiv.org/abs/2601.00816)
 - [Agentic AI for Autonomous, Explainable, and Real-Time Credit Risk Decision-Making](https://arxiv.org/abs/2601.00818)
-- [CogCanvas: Compression-Resistant Cognitive Artifacts for Long LLM Conversations](https://arxiv.org/abs/2601.00821)
+- [CogCanvas: Verbatim-Grounded Artifact Extraction for Long LLM Conversations](https://arxiv.org/abs/2601.00821)
 - [Energy-Aware Routing to Large Reasoning Models](https://arxiv.org/abs/2601.00823)
 
 ### TechCrunch
 
+- [CES 2026: Everything revealed, from Nvidia’s debuts to AMD’s new chips to Razer’s AI oddities](https://techcrunch.com/2026/01/06/ces-2026-everything-revealed-from-nvidias-debuts-to-amds-new-chips-to-razers-ai-oddities/)
+- [A viral Reddit post alleging fraud from a food delivery app turned out to be AI-generated](https://techcrunch.com/2026/01/06/a-viral-reddit-post-alleging-fraud-from-a-food-delivery-app-turned-out-to-be-ai-generated/)
+- [xAI says it raised $20B in Series E funding](https://techcrunch.com/2026/01/06/xai-says-it-raised-20b-in-series-e-funding/)
+- [California lawmaker proposes a four-year ban on AI chatbots in kids’ toys](https://techcrunch.com/2026/01/06/california-lawmaker-proposes-a-four-year-ban-on-ai-chatbots-in-kids-toys/)
 - [Narwal adds AI to its vacuum cleaners to monitor pets and find jewelry](https://techcrunch.com/2026/01/05/narwal-adds-ai-to-its-vacuum-cleaners-to-monitor-pets-and-find-jewelry/)
-- [AMD unveils new AI PC processors for general use and gaming at CES](https://techcrunch.com/2026/01/05/amd-unveils-new-ai-pc-processors-for-general-use-and-gaming-at-ces/)
-- [Microsoft’s Nadella wants us to stop thinking of AI as ‘slop’](https://techcrunch.com/2026/01/05/microsofts-nadella-wants-us-to-stop-thinking-of-ai-as-slop/)
-- [Nvidia launches Alpamayo, open AI models that allow autonomous vehicles to ‘think like a human’](https://techcrunch.com/2026/01/05/nvidia-launches-alpamayo-open-ai-models-that-allow-autonomous-vehicles-to-think-like-a-human/)
-- [China’s Hesai will double production as lidar sensor industry shakes out](https://techcrunch.com/2026/01/05/chinas-hesai-will-double-production-as-lidar-sensor-industry-shakes-out/)
 
 ---
 
 ## 📊 Intelligence Summary
 
-- **Total Headlines Collected:** 14
+- **Total Headlines Collected:** 15
 - **Sources Active:** 3
-- **Collection Time:** 2026-01-06 09:06:35 UTC
+- **Collection Time:** 2026-01-07 09:07:44 UTC
 - **Status:** ✅ Operational
 
 ---
