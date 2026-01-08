@@ -2,44 +2,43 @@
 
 **Automated News Collection - Updated Daily**
 
-**Last Update:** 2026-01-07 09:07:44 UTC
+**Last Update:** 2026-01-08 09:07:12 UTC
 
 ---
 
-## 🔥 Latest Headlines (January 07, 2026)
+## 🔥 Latest Headlines (January 08, 2026)
 
 
 ### Hacker News
 
-- [AWS raises GPU prices 15% on a Saturday, hopes you weren't paying attention](https://www.theregister.com/2026/01/05/aws_price_increase/)
-- [Anna's Archive loses .org domain after surprise suspension](https://torrentfreak.com/annas-archive-loses-org-domain-after-surprise-suspension/)
+- [Creators of Tailwind laid off 75% of their engineering team](https://github.com/tailwindlabs/tailwindcss.com/pull/2388)
 - [Opus 4.5 is not the normal AI agent experience that I have had thus far](https://burkeholland.github.io/posts/opus-4-5-change-everything/)
-- [Murder-suicide case shows OpenAI selectively hides data after users die](https://arstechnica.com/tech-policy/2025/12/openai-refuses-to-say-where-chatgpt-logs-go-when-users-die/)
-- [RevisionDojo, a YC startup, is running astroturfing campaigns targeting kids?](https://news.ycombinator.com/item?id=46499976)
+- [AWS raises GPU prices 15% on a Saturday, hopes you weren't paying attention](https://www.theregister.com/2026/01/05/aws_price_increase/)
+- [Why is the Gmail app 700 MB?](https://akr.am/blog/posts/why-is-the-gmail-app-700-mb)
 
 ### ArXiv
 
-- [Semantic Alignment of Multilingual Knowledge Graphs via Contextualized Vector Projections](https://arxiv.org/abs/2601.00814)
-- [MathLedger: A Verifiable Learning Substrate with Ledger-Attested Feedback](https://arxiv.org/abs/2601.00816)
-- [Agentic AI for Autonomous, Explainable, and Real-Time Credit Risk Decision-Making](https://arxiv.org/abs/2601.00818)
-- [CogCanvas: Verbatim-Grounded Artifact Extraction for Long LLM Conversations](https://arxiv.org/abs/2601.00821)
-- [Energy-Aware Routing to Large Reasoning Models](https://arxiv.org/abs/2601.00823)
+- [Mastering the Game of Go with Self-play Experience Replay](https://arxiv.org/abs/2601.03306)
+- [Digital Red Queen: Adversarial Program Evolution in Core War with LLMs](https://arxiv.org/abs/2601.03335)
+- [Enhancing LLM Instruction Following: An Evaluation-Driven Multi-Agentic Workflow for Prompt Instructions Optimization](https://arxiv.org/abs/2601.03359)
+- [Exploration Through Introspection: A Self-Aware Reward Model](https://arxiv.org/abs/2601.03389)
+- [Toward Maturity-Based Certification of Embodied AI: Quantifying Trustworthiness Through Measurement Mechanisms](https://arxiv.org/abs/2601.03470)
 
 ### TechCrunch
 
-- [CES 2026: Everything revealed, from Nvidia’s debuts to AMD’s new chips to Razer’s AI oddities](https://techcrunch.com/2026/01/06/ces-2026-everything-revealed-from-nvidias-debuts-to-amds-new-chips-to-razers-ai-oddities/)
-- [A viral Reddit post alleging fraud from a food delivery app turned out to be AI-generated](https://techcrunch.com/2026/01/06/a-viral-reddit-post-alleging-fraud-from-a-food-delivery-app-turned-out-to-be-ai-generated/)
-- [xAI says it raised $20B in Series E funding](https://techcrunch.com/2026/01/06/xai-says-it-raised-20b-in-series-e-funding/)
-- [California lawmaker proposes a four-year ban on AI chatbots in kids’ toys](https://techcrunch.com/2026/01/06/california-lawmaker-proposes-a-four-year-ban-on-ai-chatbots-in-kids-toys/)
-- [Narwal adds AI to its vacuum cleaners to monitor pets and find jewelry](https://techcrunch.com/2026/01/05/narwal-adds-ai-to-its-vacuum-cleaners-to-monitor-pets-and-find-jewelry/)
+- [Google and Character.AI negotiate first major settlements in teen chatbot death cases](https://techcrunch.com/2026/01/07/google-and-character-ai-negotiate-first-major-settlements-in-teen-chatbot-death-cases/)
+- [Ford has an AI assistant and new hands-free BlueCruise tech on the way](https://techcrunch.com/2026/01/07/ford-has-an-ai-assistant-and-new-hands-free-bluecruise-tech-on-the-way/)
+- [Yes, LinkedIn banned AI agent startup Artisan, but now it’s back](https://techcrunch.com/2026/01/07/yes-linkedin-banned-ai-agent-startup-artisan-but-now-its-back/)
+- [OpenAI unveils ChatGPT Health, says 230 million users ask about health each week](https://techcrunch.com/2026/01/07/openai-unveils-chatgpt-health-says-230-million-users-ask-about-health-each-week/)
+- [Shopify competitor Swap raises $100M six months after raising $40M](https://techcrunch.com/2026/01/07/shopify-competitor-swap-raises-100m-six-months-after-raising-40m/)
 
 ---
 
 ## 📊 Intelligence Summary
 
-- **Total Headlines Collected:** 15
+- **Total Headlines Collected:** 14
 - **Sources Active:** 3
-- **Collection Time:** 2026-01-07 09:07:44 UTC
+- **Collection Time:** 2026-01-08 09:07:12 UTC
 - **Status:** ✅ Operational
 
 ---
