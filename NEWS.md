@@ -2,18 +2,18 @@
 
 **Automated News Collection - Updated Daily**
 
-**Last Update:** 2026-01-12 09:08:28 UTC
+**Last Update:** 2026-01-13 09:06:50 UTC
 
 ---
 
-## 🔥 Latest Headlines (January 12, 2026)
+## 🔥 Latest Headlines (January 13, 2026)
 
 
 ### Hacker News
 
 - [Don't fall into the anti-AI hype](https://antirez.com/news/158)
+- [TimeCapsuleLLM: LLM trained only on data from 1800-1875](https://github.com/haykgrigo3/TimeCapsuleLLM)
 - [Statement by Federal Reserve Chair Jerome F. Powell [video]](https://www.youtube.com/watch?v=KckGHaBLSn4)
-- [AI is a business model stress test](https://dri.es/ai-is-a-business-model-stress-test)
 
 ### ArXiv
 
@@ -25,11 +25,11 @@
 
 ### TechCrunch
 
-- [These Gen Zers just raised $11.75M to put Africa’s defense back in the hands of Africans](https://techcrunch.com/2026/01/12/these-gen-zers-just-raised-11-75m-to-put-africas-defense-back-in-the-hands-of-africans/)
-- [Motional puts AI at center of robotaxi reboot as it targets 2026 for driverless service](https://techcrunch.com/2026/01/11/motional-puts-ai-at-center-of-robotaxi-reboot-as-it-targets-2026-for-driverless-service/)
-- [Google removes AI Overviews for certain medical queries](https://techcrunch.com/2026/01/11/google-removes-ai-overviews-for-certain-medical-queries/)
-- [Google announces a new protocol to facilitate commerce using AI agents](https://techcrunch.com/2026/01/11/google-announces-a-new-protocol-to-facilitate-commerce-using-ai-agents/)
-- [OpenAI is reportedly asking contractors to upload real work from past jobs](https://techcrunch.com/2026/01/10/openai-is-reportedly-asking-contractors-to-upload-real-work-from-past-jobs/)
+- [Meta-backed Hupo finds growth after pivot to AI sales coaching from mental wellness](https://techcrunch.com/2026/01/12/meta-backed-hupo-finds-growth-after-pivot-to-ai-sales-coaching-from-mental-wellness/)
+- [OpenAI buys tiny health records startup Torch for, reportedly, $100M](https://techcrunch.com/2026/01/12/openai-buys-tiny-health-records-startup-torch-for-reportedly-100m/)
+- [Hands-on with Bee, Amazon’s latest AI wearable](https://techcrunch.com/2026/01/12/hands-on-with-bee-amazons-latest-ai-wearable/)
+- [Why Amazon bought Bee, an AI wearable](https://techcrunch.com/2026/01/12/why-amazon-bought-bee-an-ai-wearable/)
+- [Mark Zuckerberg says Meta is launching its own AI infrastructure initiative](https://techcrunch.com/2026/01/12/mark-zuckerberg-says-meta-is-launching-its-own-ai-infrastructure-initiative/)
 
 ---
 
@@ -37,7 +37,7 @@
 
 - **Total Headlines Collected:** 13
 - **Sources Active:** 3
-- **Collection Time:** 2026-01-12 09:08:28 UTC
+- **Collection Time:** 2026-01-13 09:06:50 UTC
 - **Status:** ✅ Operational
 
 ---
