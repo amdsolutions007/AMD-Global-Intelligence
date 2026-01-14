@@ -2,42 +2,43 @@
 
 **Automated News Collection - Updated Daily**
 
-**Last Update:** 2026-01-13 09:06:50 UTC
+**Last Update:** 2026-01-14 09:07:30 UTC
 
 ---
 
-## 🔥 Latest Headlines (January 13, 2026)
+## 🔥 Latest Headlines (January 14, 2026)
 
 
 ### Hacker News
 
-- [Don't fall into the anti-AI hype](https://antirez.com/news/158)
+- [AI generated music barred from Bandcamp](https://old.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/)
 - [TimeCapsuleLLM: LLM trained only on data from 1800-1875](https://github.com/haykgrigo3/TimeCapsuleLLM)
-- [Statement by Federal Reserve Chair Jerome F. Powell [video]](https://www.youtube.com/watch?v=KckGHaBLSn4)
+- [We can't have nice things because of AI scrapers](https://blog.metabrainz.org/2025/12/11/we-cant-have-nice-things-because-of-ai-scrapers/)
+- [Anthropic invests $1.5M in the Python Software Foundation](https://discuss.python.org/t/anthropic-has-made-a-large-contribution-to-the-python-software-foundation-and-open-source-security/105694)
 
 ### ArXiv
 
-- [Naiad: Novel Agentic Intelligent Autonomous System for Inland Water Monitoring](https://arxiv.org/abs/2601.05256)
-- [Mathematical Knowledge Graph-Driven Framework for Equation-Based Predictive and Reliable Additive Manufacturing](https://arxiv.org/abs/2601.05298)
-- [Effects of personality steering on cooperative behavior in Large Language Model agents](https://arxiv.org/abs/2601.05302)
-- [Improving Enzyme Prediction with Chemical Reaction Equations by Hypergraph-Enhanced Knowledge Graph Embeddings](https://arxiv.org/abs/2601.05330)
-- [The Persona Paradox: Medical Personas as Behavioral Priors in Clinical Language Models](https://arxiv.org/abs/2601.05376)
+- [Bridging the Trust Gap: Clinician-Validated Hybrid Explainable AI for Maternal Health Risk Assessment in Bangladesh](https://arxiv.org/abs/2601.07866)
+- [Executable Ontologies in Game Development: From Algorithmic Control to Semantic World Modeling](https://arxiv.org/abs/2601.07964)
+- [When Models Know When They Do Not Know: Calibration, Cascading, and Cleaning](https://arxiv.org/abs/2601.07965)
+- [Reasoning over Precedents Alongside Statutes: Case-Augmented Deliberative Alignment for LLM Safety](https://arxiv.org/abs/2601.08000)
+- [Internal Deployment Gaps in AI Regulation](https://arxiv.org/abs/2601.08005)
 
 ### TechCrunch
 
-- [Meta-backed Hupo finds growth after pivot to AI sales coaching from mental wellness](https://techcrunch.com/2026/01/12/meta-backed-hupo-finds-growth-after-pivot-to-ai-sales-coaching-from-mental-wellness/)
-- [OpenAI buys tiny health records startup Torch for, reportedly, $100M](https://techcrunch.com/2026/01/12/openai-buys-tiny-health-records-startup-torch-for-reportedly-100m/)
-- [Hands-on with Bee, Amazon’s latest AI wearable](https://techcrunch.com/2026/01/12/hands-on-with-bee-amazons-latest-ai-wearable/)
-- [Why Amazon bought Bee, an AI wearable](https://techcrunch.com/2026/01/12/why-amazon-bought-bee-an-ai-wearable/)
-- [Mark Zuckerberg says Meta is launching its own AI infrastructure initiative](https://techcrunch.com/2026/01/12/mark-zuckerberg-says-meta-is-launching-its-own-ai-infrastructure-initiative/)
+- [A consumer watchdog issued a warning about Google’s AI agent shopping protocol — Google says she’s wrong](https://techcrunch.com/2026/01/13/a-consumer-watchdog-issued-a-warning-about-googles-ai-agent-shopping-protocol-google-says-shes-wrong/)
+- [Ring founder details the camera company’s ‘intelligent assistant’ era](https://techcrunch.com/2026/01/13/ring-founder-details-the-camera-companys-intelligent-assistant-era/)
+- [Doctors think AI has a place in healthcare — but maybe not as a chatbot](https://techcrunch.com/2026/01/13/doctors-think-ai-has-a-place-in-healthcare-but-maybe-not-as-a-chatbot/)
+- [ElevenLabs CEO says the voice AI startup crossed $330M ARR last year](https://techcrunch.com/2026/01/13/elevenlabs-ceo-says-the-voice-ai-startup-crossed-330-million-arr-last-year/)
+- [Deepgram raises $130M at $1.3B valuation and buys a YC AI startup](https://techcrunch.com/2026/01/13/deepgram-raises-130m-at-1-3b-valuation-and-buys-a-yc-ai-startup/)
 
 ---
 
 ## 📊 Intelligence Summary
 
-- **Total Headlines Collected:** 13
+- **Total Headlines Collected:** 14
 - **Sources Active:** 3
-- **Collection Time:** 2026-01-13 09:06:50 UTC
+- **Collection Time:** 2026-01-14 09:07:30 UTC
 - **Status:** ✅ Operational
 
 ---
