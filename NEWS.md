@@ -2,17 +2,17 @@
 
 **Automated News Collection - Updated Daily**
 
-**Last Update:** 2026-01-14 09:07:30 UTC
+**Last Update:** 2026-01-15 09:06:55 UTC
 
 ---
 
-## 🔥 Latest Headlines (January 14, 2026)
+## 🔥 Latest Headlines (January 15, 2026)
 
 
 ### Hacker News
 
 - [AI generated music barred from Bandcamp](https://old.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/)
-- [TimeCapsuleLLM: LLM trained only on data from 1800-1875](https://github.com/haykgrigo3/TimeCapsuleLLM)
+- [FBI raids Washington Post reporter's home](https://www.theguardian.com/us-news/2026/jan/14/fbi-raid-washington-post-hannah-natanson)
 - [We can't have nice things because of AI scrapers](https://blog.metabrainz.org/2025/12/11/we-cant-have-nice-things-because-of-ai-scrapers/)
 - [Anthropic invests $1.5M in the Python Software Foundation](https://discuss.python.org/t/anthropic-has-made-a-large-contribution-to-the-python-software-foundation-and-open-source-security/105694)
 
@@ -26,11 +26,11 @@
 
 ### TechCrunch
 
-- [A consumer watchdog issued a warning about Google’s AI agent shopping protocol — Google says she’s wrong](https://techcrunch.com/2026/01/13/a-consumer-watchdog-issued-a-warning-about-googles-ai-agent-shopping-protocol-google-says-shes-wrong/)
-- [Ring founder details the camera company’s ‘intelligent assistant’ era](https://techcrunch.com/2026/01/13/ring-founder-details-the-camera-companys-intelligent-assistant-era/)
-- [Doctors think AI has a place in healthcare — but maybe not as a chatbot](https://techcrunch.com/2026/01/13/doctors-think-ai-has-a-place-in-healthcare-but-maybe-not-as-a-chatbot/)
-- [ElevenLabs CEO says the voice AI startup crossed $330M ARR last year](https://techcrunch.com/2026/01/13/elevenlabs-ceo-says-the-voice-ai-startup-crossed-330-million-arr-last-year/)
-- [Deepgram raises $130M at $1.3B valuation and buys a YC AI startup](https://techcrunch.com/2026/01/13/deepgram-raises-130m-at-1-3b-valuation-and-buys-a-yc-ai-startup/)
+- [Mira Murati’s startup, Thinking Machines Lab, is losing two of its co-founders to OpenAI](https://techcrunch.com/2026/01/14/mira-muratis-startup-thinking-machines-lab-is-losing-two-of-its-co-founders-to-openai/)
+- [The FTC’s data-sharing order against GM is finally settled](https://techcrunch.com/2026/01/14/the-ftcs-data-sharing-order-against-gm-is-finally-settled/)
+- [India’s Emversity doubles valuation as it scales workers AI can’t replace](https://techcrunch.com/2026/01/14/indias-emversity-doubles-valuation-as-it-scales-workers-ai-cant-replace/)
+- [OpenAI signs deal, worth $10B, for compute from Cerebras](https://techcrunch.com/2026/01/14/openai-signs-deal-reportedly-worth-10-billion-for-compute-from-cerebras/)
+- [App downloads declined again in 2025, but consumer spending soared to nearly $156B](https://techcrunch.com/2026/01/14/app-downloads-declined-again-in-2025-but-consumer-spending-soared-to-nearly-156b/)
 
 ---
 
@@ -38,7 +38,7 @@
 
 - **Total Headlines Collected:** 14
 - **Sources Active:** 3
-- **Collection Time:** 2026-01-14 09:07:30 UTC
+- **Collection Time:** 2026-01-15 09:06:55 UTC
 - **Status:** ✅ Operational
 
 ---
