@@ -2,18 +2,17 @@
 
 **Automated News Collection - Updated Daily**
 
-**Last Update:** 2026-01-17 09:03:42 UTC
+**Last Update:** 2026-01-18 09:03:56 UTC
 
 ---
 
-## 🔥 Latest Headlines (January 17, 2026)
+## 🔥 Latest Headlines (January 18, 2026)
 
 
 ### Hacker News
 
-- [The Palantir app helping ICE raids in Minneapolis](https://www.404media.co/elite-the-palantir-app-ice-uses-to-find-neighborhoods-to-raid/)
-- [‘ELITE’: The Palantir app ICE uses to find neighborhoods to raid](https://werd.io/elite-the-palantir-app-ice-uses-to-find-neighborhoods-to-raid/)
 - [6-Day and IP Address Certificates Are Generally Available](https://letsencrypt.org/2026/01/15/6day-and-ip-general-availability)
+- [Michelangelo's first painting, created when he was 12 or 13](https://www.openculture.com/2026/01/discover-michelangelos-first-painting.html)
 
 ### TechCrunch
 
@@ -27,9 +26,9 @@
 
 ## 📊 Intelligence Summary
 
-- **Total Headlines Collected:** 8
+- **Total Headlines Collected:** 7
 - **Sources Active:** 2
-- **Collection Time:** 2026-01-17 09:03:42 UTC
+- **Collection Time:** 2026-01-18 09:03:56 UTC
 - **Status:** ✅ Operational
 
 ---
