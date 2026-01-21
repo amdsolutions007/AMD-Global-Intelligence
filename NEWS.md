@@ -2,34 +2,41 @@
 
 **Automated News Collection - Updated Daily**
 
-**Last Update:** 2026-01-20 09:27:48 UTC
+**Last Update:** 2026-01-21 09:27:11 UTC
 
 ---
 
-## 🔥 Latest Headlines (January 20, 2026)
+## 🔥 Latest Headlines (January 21, 2026)
 
 
 ### Hacker News
 
-- [Predicting OpenAI's ad strategy](https://ossa-ma.github.io/blog/openads)
-- [Radboud University selects Fairphone as standard smartphone for employees](https://www.ru.nl/en/staff/news/radboud-university-selects-fairphone-as-standard-smartphone-for-employees)
 - [Letter from a Birmingham Jail (1963)](https://www.africa.upenn.edu/Articles_Gen/Letter_Birmingham.html)
+- [A 26,000-year astronomical monument hidden in plain sight (2019)](https://longnow.org/ideas/the-26000-year-astronomical-monument-hidden-in-plain-sight/)
+
+### ArXiv
+
+- [MIMIC-RD: Can LLMs differentially diagnose rare diseases in real-world clinical settings?](https://arxiv.org/abs/2601.11559)
+- [A Mind Cannot Be Smeared Across Time](https://arxiv.org/abs/2601.11620)
+- [Dynamical Systems Analysis Reveals Functional Regimes in Large Language Models](https://arxiv.org/abs/2601.11622)
+- [Reasoning Stabilization Point: A Training-Time Signal for Stable Evidence and Shortcut Reliance](https://arxiv.org/abs/2601.11625)
+- [PRISM: Learning Design Knowledge from Data for Stylistic Design Improvement](https://arxiv.org/abs/2601.11747)
 
 ### TechCrunch
 
-- [Here are the 55 US AI startups that raised $100M or more in 2025](https://techcrunch.com/2026/01/19/here-are-the-49-us-ai-startups-that-have-raised-100m-or-more-in-2025/)
-- [Rogue agents and shadow AI: Why VCs are betting big on AI security](https://techcrunch.com/2026/01/19/rogue-agents-and-shadow-ai-why-vcs-are-betting-big-on-ai-security/)
-- [BioticsAI, which won Disrupt’s Battlefield competition in 2023, gains FDA approval for its AI-powered fetal ultrasound product](https://techcrunch.com/2026/01/19/biotics-ai-battlefield-2023-gains-fda-approval-for-its-ai-powered-fetal-ultrasound-product/)
-- [Sequoia to invest in Anthropic, breaking VC taboo on backing rivals: FT](https://techcrunch.com/2026/01/18/sequoia-to-invest-in-anthropic-breaking-vc-taboo-on-backing-rivals-ft/)
-- [TechCrunch Mobility: ‘Physical AI’ enters the hype machine](https://techcrunch.com/2026/01/18/techcrunch-mobility-physical-ai-enters-the-hype-machine/)
+- [Anthropic’s CEO stuns Davos with Nvidia criticism](https://techcrunch.com/2026/01/20/anthropics-ceo-stuns-davos-with-nvidia-criticism/)
+- [Netflix to redesign its app as it competes with social platforms for daily engagement](https://techcrunch.com/2026/01/20/netflix-to-redesign-its-app-as-it-competes-with-social-platforms-for-daily-engagement/)
+- [In an effort to protect young users, ChatGPT will now predict how old you are](https://techcrunch.com/2026/01/20/in-an-effort-to-protect-young-users-chatgpt-will-now-predict-how-old-you-are/)
+- [Elon Musk says Tesla’s restarted Dojo3 will be for ‘space-based AI compute’](https://techcrunch.com/2026/01/20/elon-musk-says-teslas-restarted-dojo3-will-be-for-space-based-ai-compute/)
+- [Ethernovia raises $90M as investors rush to fund ‘physical AI’](https://techcrunch.com/2026/01/20/ethernovia-raises-90m-as-investors-rush-to-fund-physical-ai/)
 
 ---
 
 ## 📊 Intelligence Summary
 
-- **Total Headlines Collected:** 8
-- **Sources Active:** 2
-- **Collection Time:** 2026-01-20 09:27:48 UTC
+- **Total Headlines Collected:** 12
+- **Sources Active:** 3
+- **Collection Time:** 2026-01-21 09:27:11 UTC
 - **Status:** ✅ Operational
 
 ---
