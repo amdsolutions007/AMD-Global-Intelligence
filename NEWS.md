@@ -2,41 +2,42 @@
 
 **Automated News Collection - Updated Daily**
 
-**Last Update:** 2026-01-22 09:27:43 UTC
+**Last Update:** 2026-01-23 09:24:42 UTC
 
 ---
 
-## 🔥 Latest Headlines (January 22, 2026)
+## 🔥 Latest Headlines (January 23, 2026)
 
 
 ### Hacker News
 
-- [Anthropic's original take home assignment open sourced](https://github.com/anthropics/original_performance_takehome)
-- [A 26,000-year astronomical monument hidden in plain sight (2019)](https://longnow.org/ideas/the-26000-year-astronomical-monument-hidden-in-plain-sight/)
+- [GPTZero finds 100 new hallucinations in NeurIPS 2025 accepted papers](https://gptzero.me/news/neurips/)
+- [Your brain on ChatGPT: Accumulation of cognitive debt when using an AI assistant](https://www.media.mit.edu/publications/your-brain-on-chatgpt/)
+- [Tell HN: Bending Spoons laid off almost everybody at Vimeo yesterday](https://news.ycombinator.com/item?id=46707699)
 
 ### ArXiv
 
-- [The Ontological Neutrality Theorem: Why Neutral Ontological Substrates Must Be Pre-Causal and Pre-Normative](https://arxiv.org/abs/2601.14271)
-- [Epistemic Constitutionalism Or: how to avoid coherence bias](https://arxiv.org/abs/2601.14295)
-- [VisTIRA: Closing the Image-Text Modality Gap in Visual Math Reasoning via Structured Tool Integration](https://arxiv.org/abs/2601.14440)
-- [On the Generalization Gap in LLM Planning: Tests and Verifier-Reward RL](https://arxiv.org/abs/2601.14456)
-- [Scalable Knee-Point Guided Activity Group Selection in Multi-Tree Genetic Programming for Dynamic Multi-Mode Project Scheduling](https://arxiv.org/abs/2601.14485)
+- [Gated Sparse Attention: Combining Computational Efficiency with Training Stability for Long-Context Language Models](https://arxiv.org/abs/2601.15305)
+- [Uncovering Latent Bias in LLM-Based Emergency Department Triage Through Proxy Variables](https://arxiv.org/abs/2601.15306)
+- [DeepSurvey-Bench: Evaluating Academic Value of Automatically Generated Scientific Survey](https://arxiv.org/abs/2601.15307)
+- [Aeon: High-Performance Neuro-Symbolic Memory Management for Long-Horizon LLM Agents](https://arxiv.org/abs/2601.15311)
+- [The Paradigm Shift: A Comprehensive Survey on Large Vision Language Models for Multimodal Fake News Detection](https://arxiv.org/abs/2601.15316)
 
 ### TechCrunch
 
-- [Not to be outdone by OpenAI, Apple is reportedly developing an AI wearable](https://techcrunch.com/2026/01/21/not-to-be-outdone-by-openai-apple-is-reportedly-developing-an-ai-wearable/)
-- [Todoist’s app now lets you add tasks to your to-do list by speaking to its AI](https://techcrunch.com/2026/01/21/todoists-app-now-lets-you-add-tasks-to-your-to-do-list-by-speaking-to-its-ai/)
-- [Apple plans to make Siri an AI chatbot, report says](https://techcrunch.com/2026/01/21/apple-plans-to-make-siri-an-ai-chatbot-report-says/)
-- [Anthropic revises Claude’s ‘Constitution,’ and hints at chatbot consciousness](https://techcrunch.com/2026/01/21/anthropic-revises-claudes-constitution-and-hints-at-chatbot-consciousness/)
-- [Irony alert: Hallucinated citations found in papers from NeurIPS, the prestigious AI conference](https://techcrunch.com/2026/01/21/irony-alert-hallucinated-citations-found-in-papers-from-neurips-the-prestigious-ai-conference/)
+- [Former Sequoia partner’s new startup uses AI to negotiate your calendar for you](https://techcrunch.com/2026/01/22/former-sequoia-partners-new-startup-uses-ai-to-negotiate-your-calendar-for-you/)
+- [OpenAI is coming for those sweet enterprise dollars in 2026](https://techcrunch.com/2026/01/22/openai-is-coming-for-those-sweet-enterprise-dollars-in-2026/)
+- [Voice AI engine and OpenAI partner LiveKit hits $1B valuation](https://techcrunch.com/2026/01/22/voice-ai-engine-and-openai-partner-livekit-hits-1b-valuation/)
+- [Inference startup Inferact lands $150M to commercialize vLLM](https://techcrunch.com/2026/01/22/inference-startup-inferact-lands-150m-to-commercialize-vllm/)
+- [Are AI agents ready for the workplace? A new benchmark raises doubts](https://techcrunch.com/2026/01/22/are-ai-agents-ready-for-the-workplace-a-new-benchmark-raises-doubts/)
 
 ---
 
 ## 📊 Intelligence Summary
 
-- **Total Headlines Collected:** 12
+- **Total Headlines Collected:** 13
 - **Sources Active:** 3
-- **Collection Time:** 2026-01-22 09:27:43 UTC
+- **Collection Time:** 2026-01-23 09:24:42 UTC
 - **Status:** ✅ Operational
 
 ---
