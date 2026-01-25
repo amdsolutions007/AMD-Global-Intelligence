@@ -2,25 +2,25 @@
 
 **Automated News Collection - Updated Daily**
 
-**Last Update:** 2026-01-24 09:15:20 UTC
+**Last Update:** 2026-01-25 09:16:34 UTC
 
 ---
 
-## 🔥 Latest Headlines (January 24, 2026)
+## 🔥 Latest Headlines (January 25, 2026)
 
 
 ### Hacker News
 
-- [GPTZero finds 100 new hallucinations in NeurIPS 2025 accepted papers](https://gptzero.me/news/neurips/)
-- [Proton spam and the AI consent problem](https://dbushell.com/2026/01/22/proton-spam/)
 - [AI Usage Policy](https://github.com/ghostty-org/ghostty/blob/main/AI_POLICY.md)
+- [Adoption of EVs tied to real-world reductions in air pollution: study](https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/)
 
 ### TechCrunch
 
-- [Legal AI giant Harvey acquires Hexus as competition heats up in legal tech](https://techcrunch.com/2026/01/23/legal-ai-giant-harvey-acquires-hexus-as-competition-heats-up-in-legal-tech/)
-- [Meta pauses teen access to AI characters ahead of new version](https://techcrunch.com/2026/01/23/meta-pauses-teen-access-to-ai-characters-ahead-of-new-version/)
-- [OpenAI chief Sam Altman plans India visit as AI leaders converge in New Delhi: sources](https://techcrunch.com/2026/01/23/openai-chief-sam-altman-plans-india-visit-as-ai-leaders-converge-in-new-delhi-sources/)
-- [Former Sequoia partner’s new startup uses AI to negotiate your calendar for you](https://techcrunch.com/2026/01/22/former-sequoia-partners-new-startup-uses-ai-to-negotiate-your-calendar-for-you/)
+- [Gmail is having issues with spam and misclassification](https://techcrunch.com/2026/01/24/gmail-is-having-issues-with-spam-and-misclassification/)
+- [Tech CEOs boast and bicker about AI at Davos](https://techcrunch.com/2026/01/24/tech-ceos-boast-and-bicker-about-ai-at-davos/)
+- [Former Googlers seek to captivate kids with an AI-powered learning app](https://techcrunch.com/2026/01/24/former-google-trio-is-building-an-interactive-ai-powered-learning-app-for-kids/)
+- [SEC drops lawsuit against Winklevoss twins’ Gemini crypto exchange](https://techcrunch.com/2026/01/24/sec-drops-lawsuit-against-winklevoss-twins-gemini-crypto-exchange/)
+- [A new test for AI labs: Are you even trying to make money?](https://techcrunch.com/2026/01/24/a-new-test-for-ai-labs-are-you-even-trying-to-make-money/)
 
 ---
 
@@ -28,7 +28,7 @@
 
 - **Total Headlines Collected:** 7
 - **Sources Active:** 2
-- **Collection Time:** 2026-01-24 09:15:20 UTC
+- **Collection Time:** 2026-01-25 09:16:34 UTC
 - **Status:** ✅ Operational
 
 ---
