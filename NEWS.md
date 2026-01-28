@@ -2,42 +2,43 @@
 
 **Automated News Collection - Updated Daily**
 
-**Last Update:** 2026-01-27 09:27:23 UTC
+**Last Update:** 2026-01-28 09:28:50 UTC
 
 ---
 
-## 🔥 Latest Headlines (January 27, 2026)
+## 🔥 Latest Headlines (January 28, 2026)
 
 
 ### Hacker News
 
-- [ICE using Palantir tool that feeds on Medicaid data](https://www.eff.org/deeplinks/2026/01/report-ice-using-palantir-tool-feeds-medicaid-data)
 - [France Aiming to Replace Zoom, Google Meet, Microsoft Teams, etc.](https://twitter.com/lellouchenico/status/2015775970330882319)
 - [Apple introduces new AirTag with longer range and improved findability](https://www.apple.com/newsroom/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/)
+- [Cloudflare claimed they implemented Matrix on Cloudflare workers. They didn't](https://tech.lgbt/@JadedBlueEyes/115967791152135761)
+- [ChatGPT Containers can now run bash, pip/npm install packages and download files](https://simonwillison.net/2026/Jan/26/chatgpt-containers/)
 
 ### ArXiv
 
-- [When Agents Fail to Act: A Diagnostic Framework for Tool Invocation Reliability in Multi-Agent LLM Systems](https://arxiv.org/abs/2601.16280)
-- [SemanticALLI: Caching Reasoning, Not Just Responses, in Agentic Systems](https://arxiv.org/abs/2601.16286)
-- [DSGym: A Holistic Framework for Evaluating and Training Data Science Agents](https://arxiv.org/abs/2601.16344)
-- [Doc2AHP: Inferring Structured Multi-Criteria Decision Models via Semantic Trees with LLMs](https://arxiv.org/abs/2601.16479)
-- [SycoEval-EM: Sycophancy Evaluation of Large Language Models in Simulated Clinical Encounters for Emergency Care](https://arxiv.org/abs/2601.16529)
+- [Agentic Business Process Management Systems](https://arxiv.org/abs/2601.18833)
+- [LLM Driven Design of Continuous Optimization Problems with Controllable High-level Properties](https://arxiv.org/abs/2601.18846)
+- [Explainable Uncertainty Quantification for Wastewater Treatment Energy Prediction via Interval Type-2 Neuro-Fuzzy System](https://arxiv.org/abs/2601.18897)
+- [RIFT: Reordered Instruction Following Testbed To Evaluate Instruction Following in Singular Multistep Prompt Structures](https://arxiv.org/abs/2601.18924)
+- [Neural Theorem Proving for Verification Conditions: A Real-World Benchmark](https://arxiv.org/abs/2601.18944)
 
 ### TechCrunch
 
-- [South Korea’s Edenlux set for U.S. debut of eye-strain wellness device](https://techcrunch.com/2026/01/26/south-koreas-edenlux-set-for-u-s-debut-of-eye-strain-wellness-device/)
-- [Qualcomm backs SpotDraft to scale on-device contract AI with valuation doubling toward $400M](https://techcrunch.com/2026/01/26/qualcomm-backs-spotdraft-to-scale-on-device-contract-ai-with-valuation-doubling-toward-400m/)
-- [Google pays $68M to settle claims its voice assistant spied on users](https://techcrunch.com/2026/01/26/google-pays-68-million-to-settle-claims-its-voice-assistant-spied-on-users/)
-- [AI chip startup Ricursive hits $4B valuation two months after launch](https://techcrunch.com/2026/01/26/ai-chip-startup-ricursive-hits-4b-valuation-two-months-after-launch/)
-- [YouTubers sue Snap for alleged copyright infringement in training its AI models](https://techcrunch.com/2026/01/26/youtubers-sue-snap-for-alleged-copyright-infringement-in-training-its-ai-models/)
+- [Everything you need to know about viral personal AI assistant Clawdbot (now Moltbot)](https://techcrunch.com/2026/01/27/everything-you-need-to-know-about-viral-personal-ai-assistant-clawdbot-now-moltbot/)
+- [Anthropic reportedly upped its latest raise to $20B](https://techcrunch.com/2026/01/27/anthropic-reportedly-upped-its-latest-raise-to-20b/)
+- [Anthropic and OpenAI CEOs condemn ICE violence, praise Trump](https://techcrunch.com/2026/01/27/anthropic-and-openai-ceos-condemn-ice-violence-praise-trump/)
+- [Google’s more affordable AI Plus plan rolls out to all markets, including the US](https://techcrunch.com/2026/01/27/googles-ai-plus-plan-rolls-out-to-all-markets-including-the-u-s/)
+- [OpenAI launches Prism, a new AI workspace for scientists](https://techcrunch.com/2026/01/27/openai-launches-prism-a-new-ai-workspace-for-scientists/)
 
 ---
 
 ## 📊 Intelligence Summary
 
-- **Total Headlines Collected:** 13
+- **Total Headlines Collected:** 14
 - **Sources Active:** 3
-- **Collection Time:** 2026-01-27 09:27:23 UTC
+- **Collection Time:** 2026-01-28 09:28:50 UTC
 - **Status:** ✅ Operational
 
 ---
