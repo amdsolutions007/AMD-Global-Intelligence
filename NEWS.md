@@ -2,35 +2,35 @@
 
 **Automated News Collection - Updated Daily**
 
-**Last Update:** 2026-01-28 09:28:50 UTC
+**Last Update:** 2026-01-29 09:35:59 UTC
 
 ---
 
-## 🔥 Latest Headlines (January 28, 2026)
+## 🔥 Latest Headlines (January 29, 2026)
 
 
 ### Hacker News
 
-- [France Aiming to Replace Zoom, Google Meet, Microsoft Teams, etc.](https://twitter.com/lellouchenico/status/2015775970330882319)
-- [Apple introduces new AirTag with longer range and improved findability](https://www.apple.com/newsroom/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/)
+- [Please don't say mean things about the AI I just invested a billion dollars in](https://www.mcsweeneys.net/articles/please-dont-say-mean-things-about-the-ai-that-i-just-invested-a-billion-dollars-in)
 - [Cloudflare claimed they implemented Matrix on Cloudflare workers. They didn't](https://tech.lgbt/@JadedBlueEyes/115967791152135761)
-- [ChatGPT Containers can now run bash, pip/npm install packages and download files](https://simonwillison.net/2026/Jan/26/chatgpt-containers/)
+- [Airfoil (2024)](https://ciechanow.ski/airfoil/)
+- [Celebrities say they are being censored by TikTok after speaking out against ICE](https://www.pride.com/culture/celebrities/tiktok-censoring-megan-stalter-and-finneas)
 
 ### ArXiv
 
-- [Agentic Business Process Management Systems](https://arxiv.org/abs/2601.18833)
-- [LLM Driven Design of Continuous Optimization Problems with Controllable High-level Properties](https://arxiv.org/abs/2601.18846)
-- [Explainable Uncertainty Quantification for Wastewater Treatment Energy Prediction via Interval Type-2 Neuro-Fuzzy System](https://arxiv.org/abs/2601.18897)
-- [RIFT: Reordered Instruction Following Testbed To Evaluate Instruction Following in Singular Multistep Prompt Structures](https://arxiv.org/abs/2601.18924)
-- [Neural Theorem Proving for Verification Conditions: A Real-World Benchmark](https://arxiv.org/abs/2601.18944)
+- [NeuroAI and Beyond](https://arxiv.org/abs/2601.19955)
+- [Teaching LLMs to Ask: Self-Querying Category-Theoretic Planning for Under-Specified Reasoning](https://arxiv.org/abs/2601.20014)
+- [Fuzzy Categorical Planning: Autonomous Goal Satisfaction with Graded Semantic Constraints](https://arxiv.org/abs/2601.20021)
+- [Insight Agents: An LLM-Based Multi-Agent System for Data Insights](https://arxiv.org/abs/2601.20048)
+- [Should I Have Expressed a Different Intent? Counterfactual Generation for LLM-Based Autonomous Control](https://arxiv.org/abs/2601.20090)
 
 ### TechCrunch
 
-- [Everything you need to know about viral personal AI assistant Clawdbot (now Moltbot)](https://techcrunch.com/2026/01/27/everything-you-need-to-know-about-viral-personal-ai-assistant-clawdbot-now-moltbot/)
-- [Anthropic reportedly upped its latest raise to $20B](https://techcrunch.com/2026/01/27/anthropic-reportedly-upped-its-latest-raise-to-20b/)
-- [Anthropic and OpenAI CEOs condemn ICE violence, praise Trump](https://techcrunch.com/2026/01/27/anthropic-and-openai-ceos-condemn-ice-violence-praise-trump/)
-- [Google’s more affordable AI Plus plan rolls out to all markets, including the US](https://techcrunch.com/2026/01/27/googles-ai-plus-plan-rolls-out-to-all-markets-including-the-u-s/)
-- [OpenAI launches Prism, a new AI workspace for scientists](https://techcrunch.com/2026/01/27/openai-launches-prism-a-new-ai-workspace-for-scientists/)
+- [Deezer makes it easier for rival platforms to take a stance against AI-generated music](https://techcrunch.com/2026/01/29/deezer-makes-it-easier-for-rival-platforms-to-take-a-stance-against-ai-generated-music/)
+- [Zuckerberg teases agentic commerce tools and major AI rollout in 2026](https://techcrunch.com/2026/01/28/zuckerberg-teases-agentic-commerce-tools-and-major-ai-rollout-in-2026/)
+- [Microsoft gained $7.6B from OpenAI last quarter](https://techcrunch.com/2026/01/28/microsoft-earnings-7-6-billion-openai/)
+- [Tesla to invest $2B in Elon Musk’s xAI](https://techcrunch.com/2026/01/28/tesla-invested-2b-in-elon-musks-xai/)
+- [AI security startup Outtake raises $40M from Iconiq, Satya Nadella, Bill Ackman, and other big names](https://techcrunch.com/2026/01/28/ai-security-startup-outtake-raises-40m-from-iconiq-satya-nadella-bill-ackman-and-other-big-names/)
 
 ---
 
@@ -38,7 +38,7 @@
 
 - **Total Headlines Collected:** 14
 - **Sources Active:** 3
-- **Collection Time:** 2026-01-28 09:28:50 UTC
+- **Collection Time:** 2026-01-29 09:35:59 UTC
 - **Status:** ✅ Operational
 
 ---
