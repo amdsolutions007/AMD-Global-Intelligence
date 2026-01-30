@@ -2,19 +2,20 @@
 
 **Automated News Collection - Updated Daily**
 
-**Last Update:** 2026-01-29 09:35:59 UTC
+**Last Update:** 2026-01-30 09:32:36 UTC
 
 ---
 
-## 🔥 Latest Headlines (January 29, 2026)
+## 🔥 Latest Headlines (January 30, 2026)
 
 
 ### Hacker News
 
+- [Claude Code daily benchmarks for degradation tracking](https://marginlab.ai/trackers/claude-code/)
 - [Please don't say mean things about the AI I just invested a billion dollars in](https://www.mcsweeneys.net/articles/please-dont-say-mean-things-about-the-ai-that-i-just-invested-a-billion-dollars-in)
-- [Cloudflare claimed they implemented Matrix on Cloudflare workers. They didn't](https://tech.lgbt/@JadedBlueEyes/115967791152135761)
+- [We can’t send mail farther than 500 miles (2002)](https://web.mit.edu/jemorris/humor/500-miles)
 - [Airfoil (2024)](https://ciechanow.ski/airfoil/)
-- [Celebrities say they are being censored by TikTok after speaking out against ICE](https://www.pride.com/culture/celebrities/tiktok-censoring-megan-stalter-and-finneas)
+- [US cybersecurity chief leaked sensitive government files to ChatGPT: Report](https://www.dexerto.com/entertainment/us-cybersecurity-chief-leaked-sensitive-government-files-to-chatgpt-report-3311462/)
 
 ### ArXiv
 
@@ -26,19 +27,19 @@
 
 ### TechCrunch
 
-- [Deezer makes it easier for rival platforms to take a stance against AI-generated music](https://techcrunch.com/2026/01/29/deezer-makes-it-easier-for-rival-platforms-to-take-a-stance-against-ai-generated-music/)
-- [Zuckerberg teases agentic commerce tools and major AI rollout in 2026](https://techcrunch.com/2026/01/28/zuckerberg-teases-agentic-commerce-tools-and-major-ai-rollout-in-2026/)
-- [Microsoft gained $7.6B from OpenAI last quarter](https://techcrunch.com/2026/01/28/microsoft-earnings-7-6-billion-openai/)
-- [Tesla to invest $2B in Elon Musk’s xAI](https://techcrunch.com/2026/01/28/tesla-invested-2b-in-elon-musks-xai/)
-- [AI security startup Outtake raises $40M from Iconiq, Satya Nadella, Bill Ackman, and other big names](https://techcrunch.com/2026/01/28/ai-security-startup-outtake-raises-40m-from-iconiq-satya-nadella-bill-ackman-and-other-big-names/)
+- [Guys, I don’t think Tim Cook knows how to monetize AI](https://techcrunch.com/2026/01/29/guys-i-dont-think-tim-cook-knows-how-to-monetize-ai/)
+- [Elon Musk’s SpaceX, Tesla, and xAI in talks to merge, according to reports](https://techcrunch.com/2026/01/29/elon-musk-spacex-tesla-xai-merger-talks-ipo-reuters/)
+- [Amazon is reportedly in talks to invest $50B in OpenAI](https://techcrunch.com/2026/01/29/amazon-is-reportedly-in-talks-to-invest-50-billion-in-openai/)
+- [Microsoft won’t stop buying AI chips from Nvidia, AMD, even after launching its own, Nadella says](https://techcrunch.com/2026/01/29/microsoft-wont-stop-buying-ai-chips-from-nvidia-amd-even-after-launching-its-own-nadella-says/)
+- [Satya Nadella insists people are using Microsoft’s Copilot AI a lot](https://techcrunch.com/2026/01/29/satya-nadella-insists-people-are-using-microsofts-copilot-ai-a-lot/)
 
 ---
 
 ## 📊 Intelligence Summary
 
-- **Total Headlines Collected:** 14
+- **Total Headlines Collected:** 15
 - **Sources Active:** 3
-- **Collection Time:** 2026-01-29 09:35:59 UTC
+- **Collection Time:** 2026-01-30 09:32:36 UTC
 - **Status:** ✅ Operational
 
 ---
