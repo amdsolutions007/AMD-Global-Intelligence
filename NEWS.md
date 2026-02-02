@@ -2,33 +2,43 @@
 
 **Automated News Collection - Updated Daily**
 
-**Last Update:** 2026-02-01 09:24:51 UTC
+**Last Update:** 2026-02-02 09:16:38 UTC
 
 ---
 
-## 🔥 Latest Headlines (February 01, 2026)
+## 🔥 Latest Headlines (February 02, 2026)
 
 
 ### Hacker News
 
-- [Show HN: I trained a 9M speech model to fix my Mandarin tones](https://simedw.com/2026/01/31/ear-pronunication-via-ctc/)
-- [The $100B megadeal between OpenAI and Nvidia is on ice](https://www.wsj.com/tech/ai/the-100-billion-megadeal-between-openai-and-nvidia-is-on-ice-aa3025e3)
+- [Show HN: NanoClaw – “Clawdbot” in 500 lines of TS with Apple container isolation](https://github.com/gavrielc/nanoclaw)
+- [List animals until failure](https://rose.systems/animalist/)
+- [In praise of –dry-run](https://henrikwarne.com/2026/01/31/in-praise-of-dry-run/)
+- [My iPhone 16 Pro Max produces garbage output when running MLX LLMs](https://journal.rafaelcosta.me/my-thousand-dollar-iphone-cant-do-math/)
+
+### ArXiv
+
+- [JAF: Judge Agent Forest](https://arxiv.org/abs/2601.22269)
+- [The Six Sigma Agent: Achieving Enterprise-Grade Reliability in LLM Systems Through Consensus-Driven Decomposed Execution](https://arxiv.org/abs/2601.22290)
+- [Why Reasoning Fails to Plan: A Planning-Centric Analysis of Long-Horizon Decision Making in LLM Agents](https://arxiv.org/abs/2601.22311)
+- [Sparks of Rationality: Do Reasoning LLMs Align with Human Judgment and Choice?](https://arxiv.org/abs/2601.22329)
+- [Learning Provably Correct Distributed Protocols Without Human Knowledge](https://arxiv.org/abs/2601.22369)
 
 ### TechCrunch
 
+- [These AI notetaking devices can help you record and transcribe your meetings](https://techcrunch.com/2026/02/02/ai-notetaker-hardware-devices-pins-pendants-record-transcribe/)
+- [AI layoffs or ‘AI-washing’?](https://techcrunch.com/2026/02/01/ai-layoffs-or-ai-washing/)
+- [India offers zero taxes through 2047 to lure global AI workloads](https://techcrunch.com/2026/02/01/india-offers-zero-taxes-through-2047-to-lure-global-ai-workloads/)
 - [Waymo reportedly raising a $16B funding round](https://techcrunch.com/2026/01/31/waymo-reportedly-raising-a-16-billion-funding-round/)
 - [Nvidia CEO pushes back against report that his company’s $100B OpenAI investment has stalled](https://techcrunch.com/2026/01/31/nvidia-ceo-pushes-back-against-report-that-his-companys-100b-openai-investment-has-stalled/)
-- [A peek inside Physical Intelligence, the startup building Silicon Valley’s buzziest robot brains](https://techcrunch.com/2026/01/30/physical-intelligence-stripe-veteran-lachy-grooms-latest-bet-is-building-silicon-valleys-buzziest-robot-brains/)
-- [OpenClaw’s AI assistants are now building their own social network](https://techcrunch.com/2026/01/30/openclaws-ai-assistants-are-now-building-their-own-social-network/)
-- [Anthropic brings agentic plug-ins to Cowork](https://techcrunch.com/2026/01/30/anthropic-brings-agentic-plugins-to-cowork/)
 
 ---
 
 ## 📊 Intelligence Summary
 
-- **Total Headlines Collected:** 7
-- **Sources Active:** 2
-- **Collection Time:** 2026-02-01 09:24:51 UTC
+- **Total Headlines Collected:** 14
+- **Sources Active:** 3
+- **Collection Time:** 2026-02-02 09:16:38 UTC
 - **Status:** ✅ Operational
 
 ---
