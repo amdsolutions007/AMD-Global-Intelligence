@@ -2,19 +2,17 @@
 
 **Automated News Collection - Updated Daily**
 
-**Last Update:** 2026-02-03 09:12:40 UTC
+**Last Update:** 2026-02-04 09:14:46 UTC
 
 ---
 
-## 🔥 Latest Headlines (February 03, 2026)
+## 🔥 Latest Headlines (February 04, 2026)
 
 
 ### Hacker News
 
 - [xAI joins SpaceX](https://www.spacex.com/updates#xai-joins-spacex)
-- [Show HN: NanoClaw – “Clawdbot” in 500 lines of TS with Apple container isolation](https://github.com/gavrielc/nanoclaw)
 - [Todd C. Miller – Sudo maintainer for over 30 years](https://www.millert.dev/)
-- [My iPhone 16 Pro Max produces garbage output when running MLX LLMs](https://journal.rafaelcosta.me/my-thousand-dollar-iphone-cant-do-math/)
 
 ### ArXiv
 
@@ -26,19 +24,19 @@
 
 ### TechCrunch
 
-- [Waymo raises $16B to scale robotaxi fleet internationally](https://techcrunch.com/2026/02/02/waymo-raises-16-billion-round-to-scale-robotaxi-fleet-london-tokyo/)
-- [Elon Musk’s SpaceX officially acquires Elon Musk’s xAI, with plan to build data centers in space](https://techcrunch.com/2026/02/02/elon-musk-spacex-acquires-xai-data-centers-space-merger/)
-- [China is leading the fight against hidden car door handles](https://techcrunch.com/2026/02/02/china-is-leading-the-fight-against-hidden-car-door-handles/)
-- [Adobe Animate is shutting down as company focuses on AI](https://techcrunch.com/2026/02/02/adobe-animate-is-shutting-down-as-company-focuses-on-ai/)
-- [What Snowflake’s deal with OpenAI tells us about the enterprise AI race](https://techcrunch.com/2026/02/02/what-snowflakes-deal-with-openai-tells-us-about-the-enterprise-ai-race/)
+- [Exclusive: Positron raises $230M Series B to take on Nvidia’s AI chips](https://techcrunch.com/2026/02/04/exclusive-positron-raises-230m-series-b-to-take-on-nvidias-ai-chips/)
+- [Xcode moves into agentic coding with deeper OpenAI and Anthropic integrations](https://techcrunch.com/2026/02/03/xcode-moves-into-agentic-coding-with-deeper-openai-and-anthropic-integrations/)
+- [Lotus Health nabs $35M for AI doctor that sees patients for free](https://techcrunch.com/2026/02/03/lotus-health-nabs-35m-for-ai-doctor-that-sees-patients-for-free/)
+- [What tech CEOs and executives have said about ICE’s actions in Minnesota](https://techcrunch.com/2026/02/03/what-tech-ceos-and-executives-have-said-about-ice-in-minnesota/)
+- [Fitbit founders launch AI platform to help families monitor their health](https://techcrunch.com/2026/02/03/fitbit-founders-launch-ai-platform-to-help-families-monitor-their-health/)
 
 ---
 
 ## 📊 Intelligence Summary
 
-- **Total Headlines Collected:** 14
+- **Total Headlines Collected:** 12
 - **Sources Active:** 3
-- **Collection Time:** 2026-02-03 09:12:40 UTC
+- **Collection Time:** 2026-02-04 09:14:46 UTC
 - **Status:** ✅ Operational
 
 ---
