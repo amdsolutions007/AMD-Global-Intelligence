@@ -2,17 +2,17 @@
 
 **Automated News Collection - Updated Daily**
 
-**Last Update:** 2026-02-05 09:15:50 UTC
+**Last Update:** 2026-02-06 09:15:36 UTC
 
 ---
 
-## 🔥 Latest Headlines (February 05, 2026)
+## 🔥 Latest Headlines (February 06, 2026)
 
 
 ### Hacker News
 
-- [X offices raided in France as UK opens fresh investigation into Grok](https://www.bbc.com/news/articles/ce3ex92557jo)
-- [Notepad++ supply chain attack breakdown](https://securelist.com/notepad-supply-chain-attack/118708/)
+- [GPT-5.3-Codex](https://openai.com/index/introducing-gpt-5-3-codex/)
+- [My AI Adoption Journey](https://mitchellh.com/writing/my-ai-adoption-journey)
 - [AI is killing B2B SaaS](https://nmn.gl/blog/ai-killing-b2b-saas)
 
 ### ArXiv
@@ -25,11 +25,11 @@
 
 ### TechCrunch
 
-- [As it preps Specs for the masses, Snap’s Q4 shows revenue growth but fewer daily users](https://techcrunch.com/2026/02/04/as-it-preps-specs-for-the-masses-snaps-q4-shows-revenue-growth-but-fewer-daily-users/)
-- [Stripe alumni raise €30M Series A for Duna, backed by Stripe and Adyen execs](https://techcrunch.com/2026/02/04/stripe-alumni-raise-e30m-series-a-for-duna-backed-by-stripe-and-adyen-execs/)
-- [Alphabet won’t talk about the Google-Apple AI deal, even to investors](https://techcrunch.com/2026/02/04/alphabet-wont-talk-about-the-google-apple-ai-deal-even-to-investors/)
-- [AI SRE Resolve AI confirms $125M raise, unicorn valuation](https://techcrunch.com/2026/02/04/ai-sre-resolve-ai-confirms-125m-raise-unicorn-valuation/)
-- [Amazon to begin testing AI tools for film and TV production next month](https://techcrunch.com/2026/02/04/amazon-to-begin-testing-ai-tools-for-film-and-tv-production-next-month/)
+- [Sapiom raises $15M to help AI agents buy their own tech tools](https://techcrunch.com/2026/02/05/sapiom-raises-15m-to-help-ai-agents-buy-their-own-tech-tools/)
+- [Reddit looks to AI search as its next big opportunity](https://techcrunch.com/2026/02/05/reddit-looks-to-ai-search-as-its-next-big-opportunity/)
+- [AWS revenue continues to soar as cloud demand remains high](https://techcrunch.com/2026/02/05/aws-revenue-continues-to-soar-as-cloud-demand-remains-high/)
+- [Amazon and Google are winning the AI capex race — but what’s the prize?](https://techcrunch.com/2026/02/05/amazon-and-google-are-winning-the-ai-capex-race-but-whats-the-prize/)
+- [OpenAI launches new agentic coding model only minutes after Anthropic drops its own](https://techcrunch.com/2026/02/05/openai-launches-new-agentic-coding-model-only-minutes-after-anthropic-drops-its-own/)
 
 ---
 
@@ -37,7 +37,7 @@
 
 - **Total Headlines Collected:** 13
 - **Sources Active:** 3
-- **Collection Time:** 2026-02-05 09:15:50 UTC
+- **Collection Time:** 2026-02-06 09:15:36 UTC
 - **Status:** ✅ Operational
 
 ---
