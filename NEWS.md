@@ -2,34 +2,34 @@
 
 **Automated News Collection - Updated Daily**
 
-**Last Update:** 2026-02-06 09:15:36 UTC
+**Last Update:** 2026-02-07 09:07:28 UTC
 
 ---
 
-## 🔥 Latest Headlines (February 06, 2026)
+## 🔥 Latest Headlines (February 07, 2026)
 
 
 ### Hacker News
 
 - [GPT-5.3-Codex](https://openai.com/index/introducing-gpt-5-3-codex/)
 - [My AI Adoption Journey](https://mitchellh.com/writing/my-ai-adoption-journey)
-- [AI is killing B2B SaaS](https://nmn.gl/blog/ai-killing-b2b-saas)
+- [A new bill in New York would require disclaimers on AI-generated news content](https://www.niemanlab.org/2026/02/a-new-bill-in-new-york-would-require-disclaimers-on-ai-generated-news-content/)
 
 ### ArXiv
 
-- [Knowledge Model Prompting Increases LLM Performance on Planning Tasks](https://arxiv.org/abs/2602.03900)
-- [Enhancing Mathematical Problem Solving in LLMs through Execution-Driven Reasoning Augmentation](https://arxiv.org/abs/2602.03950)
-- [AgentArk: Distilling Multi-Agent Intelligence into a Single LLM Agent](https://arxiv.org/abs/2602.03955)
-- [Active Epistemic Control for Query-Efficient Verified Planning](https://arxiv.org/abs/2602.03974)
-- [Adaptive Test-Time Compute Allocation via Learned Heuristics over Categorical Structure](https://arxiv.org/abs/2602.03975)
+- [Artificial Intelligence as Strange Intelligence: Against Linear Models of Intelligence](https://arxiv.org/abs/2602.04986)
+- [DeepRead: Document Structure-Aware Reasoning to Enhance Agentic Search](https://arxiv.org/abs/2602.05014)
+- [MINT: Minimal Information Neuro-Symbolic Tree for Objective-Driven Knowledge-Gap Reasoning and Active Elicitation](https://arxiv.org/abs/2602.05048)
+- [Evaluating Large Language Models on Solved and Unsolved Problems in Graph Theory: Implications for Computing Education](https://arxiv.org/abs/2602.05059)
+- [Towards Reducible Uncertainty Modeling for Reliable Large Language Model Agents](https://arxiv.org/abs/2602.05073)
 
 ### TechCrunch
 
-- [Sapiom raises $15M to help AI agents buy their own tech tools](https://techcrunch.com/2026/02/05/sapiom-raises-15m-to-help-ai-agents-buy-their-own-tech-tools/)
-- [Reddit looks to AI search as its next big opportunity](https://techcrunch.com/2026/02/05/reddit-looks-to-ai-search-as-its-next-big-opportunity/)
-- [AWS revenue continues to soar as cloud demand remains high](https://techcrunch.com/2026/02/05/aws-revenue-continues-to-soar-as-cloud-demand-remains-high/)
-- [Amazon and Google are winning the AI capex race — but what’s the prize?](https://techcrunch.com/2026/02/05/amazon-and-google-are-winning-the-ai-capex-race-but-whats-the-prize/)
-- [OpenAI launches new agentic coding model only minutes after Anthropic drops its own](https://techcrunch.com/2026/02/05/openai-launches-new-agentic-coding-model-only-minutes-after-anthropic-drops-its-own/)
+- [Benchmark raises $225M in special funds to double down on Cerebras](https://techcrunch.com/2026/02/06/benchmark-raises-225m-in-special-funds-to-double-down-on-cerebras/)
+- [An AI startup founder says he’s planning a ‘March for Billionaires’ in protest of California’s wealth tax](https://techcrunch.com/2026/02/06/an-ai-startup-founder-says-hes-planning-a-march-for-billionaires-in-protest-of-californias-wealth-tax/)
+- [Apple is working to make CarPlay compatible with AI chatbots like ChatGPT](https://techcrunch.com/2026/02/06/apple-is-working-to-make-carplay-compatible-with-ai-chatbots-like-chatgpt/)
+- [From Svedka to Anthropic, brands make bold plays with AI in Super Bowl ads](https://techcrunch.com/2026/02/06/super-bowl-60-ai-ads-svedka-anthropic-brands-commercials/)
+- [Maybe AI agents can be lawyers after all](https://techcrunch.com/2026/02/06/maybe-ai-agents-can-be-lawyers-after-all/)
 
 ---
 
@@ -37,7 +37,7 @@
 
 - **Total Headlines Collected:** 13
 - **Sources Active:** 3
-- **Collection Time:** 2026-02-06 09:15:36 UTC
+- **Collection Time:** 2026-02-07 09:07:28 UTC
 - **Status:** ✅ Operational
 
 ---
