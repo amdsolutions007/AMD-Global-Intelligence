@@ -2,43 +2,42 @@
 
 **Automated News Collection - Updated Daily**
 
-**Last Update:** 2026-02-09 09:20:39 UTC
+**Last Update:** 2026-02-10 09:20:09 UTC
 
 ---
 
-## 🔥 Latest Headlines (February 09, 2026)
+## 🔥 Latest Headlines (February 10, 2026)
 
 
 ### Hacker News
 
-- [AI fatigue is real and nobody talks about it](https://siddhantkhare.com/writing/ai-fatigue-is-real)
-- [The AI boom is causing shortages everywhere else](https://www.washingtonpost.com/technology/2026/02/07/ai-spending-economy-shortages/)
-- [Show HN: LocalGPT – A local-first AI assistant in Rust with persistent memory](https://github.com/localgpt-app/localgpt)
 - [AI makes the easy part easier and the hard part harder](https://www.blundergoat.com/articles/ai-makes-the-easy-part-easier-and-the-hard-part-harder)
+- [GitHub is down again](https://www.githubstatus.com/incidents/54hndjxft5bx)
+- [AI fatigue is real and nobody talks about it](https://siddhantkhare.com/writing/ai-fatigue-is-real)
 
 ### ArXiv
 
-- [Jackpot: Optimal Budgeted Rejection Sampling for Extreme Actor-Policy Mismatch Reinforcement Learning](https://arxiv.org/abs/2602.06107)
-- [Large Language Model Reasoning Failures](https://arxiv.org/abs/2602.06176)
-- [Do It for HER: First-Order Temporal Logic Reward Specification in Reinforcement Learning (Extended Version)](https://arxiv.org/abs/2602.06227)
-- [Do LLMs Act Like Rational Agents? Measuring Belief Coherence in Probabilistic Decision Making](https://arxiv.org/abs/2602.06286)
-- [Exposing Weaknesses of Large Reasoning Models through Graph Algorithm Problems](https://arxiv.org/abs/2602.06319)
+- [LLM-FSM: Scaling Large Language Models for Finite-State Reasoning in RTL Code Generation](https://arxiv.org/abs/2602.07032)
+- [ST-Raptor: An Agentic System for Semi-Structured Table QA](https://arxiv.org/abs/2602.07034)
+- [DLLM-Searcher: Adapting Diffusion Large Language Model for Search Agents](https://arxiv.org/abs/2602.07035)
+- [Aster: Autonomous Scientific Discovery over 20x Faster Than Existing Methods](https://arxiv.org/abs/2602.07040)
+- [Theory of Space: Can Foundation Models Construct Spatial Beliefs through Active Exploration?](https://arxiv.org/abs/2602.07055)
 
 ### TechCrunch
 
-- [Crypto.com places $70M bet on AI.com domain ahead of Super Bowl](https://techcrunch.com/2026/02/08/crypto-com-places-70m-bet-on-ai-com-domain-ahead-of-super-bowl/)
-- [Okay, I’m slightly less mad about that ‘Magnificent Ambersons’ AI project](https://techcrunch.com/2026/02/08/okay-im-slightly-less-mad-about-that-magnificent-ambersons-ai-project/)
-- [San Francisco’s pro-billionaire march draws dozens](https://techcrunch.com/2026/02/08/san-franciscos-pro-billionaire-march-draws-dozens/)
-- [From Svedka to Anthropic, brands make bold plays with AI in Super Bowl ads](https://techcrunch.com/2026/02/08/super-bowl-60-ai-ads-svedka-anthropic-brands-commercials/)
-- [Benchmark raises $225M in special funds to double down on Cerebras](https://techcrunch.com/2026/02/06/benchmark-raises-225m-in-special-funds-to-double-down-on-cerebras/)
+- [The first signs of burnout are coming from the people who embrace AI the most](https://techcrunch.com/2026/02/09/the-first-signs-of-burnout-are-coming-from-the-people-who-embrace-ai-the-most/)
+- [Tem raises $75M to remake electricity markets using AI](https://techcrunch.com/2026/02/09/tem-raises-75m-to-remake-electricity-markets-using-ai/)
+- [India makes Aadhaar more ubiquitous, but critics say security and privacy concerns remain](https://techcrunch.com/2026/02/09/india-makes-aadhaar-more-ubiquitous-but-critics-say-privacy-concerns-remain/)
+- [Databricks CEO says SaaS isn’t dead, but AI will soon make it irrelevant](https://techcrunch.com/2026/02/09/databricks-ceo-says-saas-isnt-dead-but-ai-will-soon-make-it-irrelevant/)
+- [Anthropic’s India expansion collides with a local company that already had the name](https://techcrunch.com/2026/02/09/anthropics-india-expansion-collides-with-a-local-company-that-already-had-the-name/)
 
 ---
 
 ## 📊 Intelligence Summary
 
-- **Total Headlines Collected:** 14
+- **Total Headlines Collected:** 13
 - **Sources Active:** 3
-- **Collection Time:** 2026-02-09 09:20:39 UTC
+- **Collection Time:** 2026-02-10 09:20:09 UTC
 - **Status:** ✅ Operational
 
 ---
