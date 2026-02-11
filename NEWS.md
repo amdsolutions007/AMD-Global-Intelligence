@@ -2,18 +2,19 @@
 
 **Automated News Collection - Updated Daily**
 
-**Last Update:** 2026-02-10 09:20:09 UTC
+**Last Update:** 2026-02-11 09:18:17 UTC
 
 ---
 
-## 🔥 Latest Headlines (February 10, 2026)
+## 🔥 Latest Headlines (February 11, 2026)
 
 
 ### Hacker News
 
-- [AI makes the easy part easier and the hard part harder](https://www.blundergoat.com/articles/ai-makes-the-easy-part-easier-and-the-hard-part-harder)
+- [Oxide raises $200M Series C](https://oxide.computer/blog/our-200m-series-c)
+- [Frontier AI agents violate ethical constraints 30–50% of time, pressured by KPIs](https://arxiv.org/abs/2512.20798)
 - [GitHub is down again](https://www.githubstatus.com/incidents/54hndjxft5bx)
-- [AI fatigue is real and nobody talks about it](https://siddhantkhare.com/writing/ai-fatigue-is-real)
+- [Ex-GitHub CEO launches a new developer platform for AI agents](https://entire.io/blog/hello-entire-world/)
 
 ### ArXiv
 
@@ -25,19 +26,19 @@
 
 ### TechCrunch
 
-- [The first signs of burnout are coming from the people who embrace AI the most](https://techcrunch.com/2026/02/09/the-first-signs-of-burnout-are-coming-from-the-people-who-embrace-ai-the-most/)
-- [Tem raises $75M to remake electricity markets using AI](https://techcrunch.com/2026/02/09/tem-raises-75m-to-remake-electricity-markets-using-ai/)
-- [India makes Aadhaar more ubiquitous, but critics say security and privacy concerns remain](https://techcrunch.com/2026/02/09/india-makes-aadhaar-more-ubiquitous-but-critics-say-privacy-concerns-remain/)
-- [Databricks CEO says SaaS isn’t dead, but AI will soon make it irrelevant](https://techcrunch.com/2026/02/09/databricks-ceo-says-saas-isnt-dead-but-ai-will-soon-make-it-irrelevant/)
-- [Anthropic’s India expansion collides with a local company that already had the name](https://techcrunch.com/2026/02/09/anthropics-india-expansion-collides-with-a-local-company-that-already-had-the-name/)
+- [OpenAI policy exec who opposed chatbot’s “adult mode” reportedly fired on discrimination claim](https://techcrunch.com/2026/02/10/openai-policy-exec-who-opposed-chatbots-adult-mode-reportedly-fired-on-discrimination-claim/)
+- [Okay, now exactly half of xAI’s founding team has left the company](https://techcrunch.com/2026/02/10/nearly-half-of-xais-founding-team-has-now-left-the-company/)
+- [Amazon may launch a marketplace where media sites can sell their content to AI companies](https://techcrunch.com/2026/02/10/amazon-may-launch-a-marketplace-where-media-sites-can-sell-their-content-to-ai-companies/)
+- [An ice dance duo skated to AI music at the Olympics](https://techcrunch.com/2026/02/10/olympics-czech-ice-dancers-duo-ai-music/)
+- [VC Masha Bucher, Epstein associate and Day One founder, explains herself](https://techcrunch.com/2026/02/10/vc-masha-bucher-epstein-associate-and-day-one-founder-explains-herself/)
 
 ---
 
 ## 📊 Intelligence Summary
 
-- **Total Headlines Collected:** 13
+- **Total Headlines Collected:** 14
 - **Sources Active:** 3
-- **Collection Time:** 2026-02-10 09:20:09 UTC
+- **Collection Time:** 2026-02-11 09:18:17 UTC
 - **Status:** ✅ Operational
 
 ---
