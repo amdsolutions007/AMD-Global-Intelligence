@@ -2,43 +2,41 @@
 
 **Automated News Collection - Updated Daily**
 
-**Last Update:** 2026-02-11 09:18:17 UTC
+**Last Update:** 2026-02-12 09:16:56 UTC
 
 ---
 
-## 🔥 Latest Headlines (February 11, 2026)
+## 🔥 Latest Headlines (February 12, 2026)
 
 
 ### Hacker News
 
-- [Oxide raises $200M Series C](https://oxide.computer/blog/our-200m-series-c)
-- [Frontier AI agents violate ethical constraints 30–50% of time, pressured by KPIs](https://arxiv.org/abs/2512.20798)
-- [GitHub is down again](https://www.githubstatus.com/incidents/54hndjxft5bx)
 - [Ex-GitHub CEO launches a new developer platform for AI agents](https://entire.io/blog/hello-entire-world/)
+- [Oxide raises $200M Series C](https://oxide.computer/blog/our-200m-series-c)
 
 ### ArXiv
 
-- [LLM-FSM: Scaling Large Language Models for Finite-State Reasoning in RTL Code Generation](https://arxiv.org/abs/2602.07032)
-- [ST-Raptor: An Agentic System for Semi-Structured Table QA](https://arxiv.org/abs/2602.07034)
-- [DLLM-Searcher: Adapting Diffusion Large Language Model for Search Agents](https://arxiv.org/abs/2602.07035)
-- [Aster: Autonomous Scientific Discovery over 20x Faster Than Existing Methods](https://arxiv.org/abs/2602.07040)
-- [Theory of Space: Can Foundation Models Construct Spatial Beliefs through Active Exploration?](https://arxiv.org/abs/2602.07055)
+- [Discovering Differences in Strategic Behavior Between Humans and LLMs](https://arxiv.org/abs/2602.10324)
+- [LiveMedBench: A Contamination-Free Medical Benchmark for LLMs with Automated Rubric Evaluation](https://arxiv.org/abs/2602.10367)
+- [Found-RL: foundation model-enhanced reinforcement learning for autonomous driving](https://arxiv.org/abs/2602.10458)
+- [MERIT Feedback Elicits Better Bargaining in LLM Negotiators](https://arxiv.org/abs/2602.10467)
+- [Abstraction Generation for Generalized Planning with Pretrained Large Language Models](https://arxiv.org/abs/2602.10485)
 
 ### TechCrunch
 
-- [OpenAI policy exec who opposed chatbot’s “adult mode” reportedly fired on discrimination claim](https://techcrunch.com/2026/02/10/openai-policy-exec-who-opposed-chatbots-adult-mode-reportedly-fired-on-discrimination-claim/)
-- [Okay, now exactly half of xAI’s founding team has left the company](https://techcrunch.com/2026/02/10/nearly-half-of-xais-founding-team-has-now-left-the-company/)
-- [Amazon may launch a marketplace where media sites can sell their content to AI companies](https://techcrunch.com/2026/02/10/amazon-may-launch-a-marketplace-where-media-sites-can-sell-their-content-to-ai-companies/)
-- [An ice dance duo skated to AI music at the Olympics](https://techcrunch.com/2026/02/10/olympics-czech-ice-dancers-duo-ai-music/)
-- [VC Masha Bucher, Epstein associate and Day One founder, explains herself](https://techcrunch.com/2026/02/10/vc-masha-bucher-epstein-associate-and-day-one-founder-explains-herself/)
+- [xAI lays out interplanetary ambitions in public all-hands](https://techcrunch.com/2026/02/11/xai-lays-out-interplanetary-ambitions-in-public-all-hands/)
+- [AI inference startup Modal Labs in talks to raise at $2.5B valuation, sources say](https://techcrunch.com/2026/02/11/ai-inference-startup-modal-labs-in-talks-to-raise-at-2-5b-valuation-sources-say/)
+- [OpenAI disbands mission alignment team](https://techcrunch.com/2026/02/11/openai-disbands-mission-alignment-team-which-focused-on-safe-and-trustworthy-ai-development/)
+- [Apple’s Siri revamp reportedly delayed… again](https://techcrunch.com/2026/02/11/apples-siri-revamp-reportedly-delayed-again/)
+- [Uber Eats launches AI assistant to help with grocery cart creation](https://techcrunch.com/2026/02/11/uber-eats-launches-ai-assistant-to-help-with-grocery-cart-creation/)
 
 ---
 
 ## 📊 Intelligence Summary
 
-- **Total Headlines Collected:** 14
+- **Total Headlines Collected:** 12
 - **Sources Active:** 3
-- **Collection Time:** 2026-02-11 09:18:17 UTC
+- **Collection Time:** 2026-02-12 09:16:56 UTC
 - **Status:** ✅ Operational
 
 ---
