@@ -2,11 +2,11 @@
 
 **Automated News Collection - Updated Daily**
 
-**Last Update:** 2026-02-13 09:15:50 UTC
+**Last Update:** 2026-02-14 09:07:49 UTC
 
 ---
 
-## 🔥 Latest Headlines (February 13, 2026)
+## 🔥 Latest Headlines (February 14, 2026)
 
 
 ### Hacker News
@@ -17,29 +17,21 @@
 - [Improving 15 LLMs at Coding in One Afternoon. Only the Harness Changed](http://blog.can.ac/2026/02/12/the-harness-problem/)
 - [ai;dr](https://www.0xsid.com/blog/aidr)
 
-### ArXiv
-
-- [Explaining AI Without Code: A User Study on Explainable AI](https://arxiv.org/abs/2602.11159)
-- [Latent Generative Solvers for Generalizable Long-Term Physics Simulation](https://arxiv.org/abs/2602.11229)
-- [On Decision-Valued Maps and Representational Dependence](https://arxiv.org/abs/2602.11295)
-- [Voxtral Realtime](https://arxiv.org/abs/2602.11298)
-- [The PBSAI Governance Ecosystem: A Multi-Agent AI Reference Architecture for Securing Enterprise AI Estates](https://arxiv.org/abs/2602.11301)
-
 ### TechCrunch
 
-- [For $1M, you can pay Bryan Johnson (or BryanAI?) to teach you how to live longer](https://techcrunch.com/2026/02/12/for-1-million-you-can-pay-bryan-johnson-or-bryanai-to-teach-you-how-to-live-longer/)
-- [Amid disappointing earnings, Pinterest claims it sees more searches than ChatGPT](https://techcrunch.com/2026/02/12/amid-disappointing-earnings-pinterest-claims-it-sees-more-searches-than-chatgpt/)
-- [IBM will hire your entry-level talent in the age of AI](https://techcrunch.com/2026/02/12/ibm-will-hire-your-entry-level-talent-in-the-age-of-ai/)
-- [Musk needed a new vision for SpaceX and xAI. He landed on Moonbase Alpha.](https://techcrunch.com/2026/02/12/musk-needed-a-new-vision-for-spacex-and-xai-he-landed-on-moonbase-alpha/)
-- [Anthropic raises another $30B in Series G, with a new value of $380B](https://techcrunch.com/2026/02/12/anthropic-raises-another-30-billion-in-series-g-with-a-new-value-of-380-billion/)
+- [Nothing opens its first retail store in India](https://techcrunch.com/2026/02/13/nothing-opens-its-first-retail-store-in-india/)
+- [Indian pharmacy chain giant exposed customer data and internal systems](https://techcrunch.com/2026/02/13/indias-major-pharmacy-chain-exposed-customer-data-and-internal-systems/)
+- [Airbnb plans to bake in AI features for search, discovery and support](https://techcrunch.com/2026/02/13/airbnb-plans-to-bake-in-ai-features-for-search-discovery-and-support/)
+- [Airbnb says a third of its customer support is now handled by AI in the US and Canada](https://techcrunch.com/2026/02/13/airbnb-says-a-third-of-its-customer-support-is-now-handled-by-ai-in-the-u-s-and-canada/)
+- [Why top talent is walking away from OpenAI and xAI](https://techcrunch.com/video/why-top-talent-is-walking-away-from-openai-and-xai/)
 
 ---
 
 ## 📊 Intelligence Summary
 
-- **Total Headlines Collected:** 15
-- **Sources Active:** 3
-- **Collection Time:** 2026-02-13 09:15:50 UTC
+- **Total Headlines Collected:** 10
+- **Sources Active:** 2
+- **Collection Time:** 2026-02-14 09:07:49 UTC
 - **Status:** ✅ Operational
 
 ---
