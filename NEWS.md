@@ -2,44 +2,42 @@
 
 **Automated News Collection - Updated Daily**
 
-**Last Update:** 2026-02-16 09:17:53 UTC
+**Last Update:** 2026-02-17 09:17:15 UTC
 
 ---
 
-## 🔥 Latest Headlines (February 16, 2026)
+## 🔥 Latest Headlines (February 17, 2026)
 
 
 ### Hacker News
 
 - [I’m joining OpenAI](https://steipete.me/posts/2026/openclaw)
-- [I love the work of the ArchWiki maintainers](https://k7r.eu/i-love-the-work-of-the-archwiki-maintainers/)
-- [My smart sleep mask broadcasts users' brainwaves to an open MQTT broker](https://aimilios.bearblog.dev/reverse-engineering-sleep-mask/)
-- [News publishers limit Internet Archive access due to AI scraping concerns](https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/)
-- [Ars Technica makes up quotes from Matplotlib maintainer; pulls story](https://infosec.exchange/@mttaggart/116065340523529645)
+- [Oat – Ultra-lightweight, zero dependency, semantic HTML, CSS, JS UI library](https://oat.ink/)
+- [Anthropic tries to hide Claude's AI actions. Devs hate it](https://www.theregister.com/2026/02/16/anthropic_claude_ai_edits/)
 
 ### ArXiv
 
-- [GT-HarmBench: Benchmarking AI Safety Risks Through the Lens of Game Theory](https://arxiv.org/abs/2602.12316)
-- [A Theoretical Framework for Adaptive Utility-Weighted Benchmarking](https://arxiv.org/abs/2602.12356)
-- [Evolving Beyond Snapshots: Harmonizing Structure and Sequence via Entity State Tuning for Temporal Knowledge Graph Forecasting](https://arxiv.org/abs/2602.12389)
-- [Intent-Driven Smart Manufacturing Integrating Knowledge Graphs and Large Language Models](https://arxiv.org/abs/2602.12419)
-- [Scaling Web Agent Training through Automatic Data Generation and Fine-grained Evaluation](https://arxiv.org/abs/2602.12544)
+- [Agentic AI for Commercial Insurance Underwriting with Adversarial Self-Critique](https://arxiv.org/abs/2602.13213)
+- [BotzoneBench: Scalable LLM Evaluation via Graded AI Anchors](https://arxiv.org/abs/2602.13214)
+- [When to Think Fast and Slow? AMOR: Entropy-Based Metacognitive Gate for Dynamic SSM-Attention Switching](https://arxiv.org/abs/2602.13215)
+- [VeRA: Verified Reasoning Data Augmentation at Scale](https://arxiv.org/abs/2602.13217)
+- [Scaling the Scaling Logic: Agentic Meta-Synthesis of Logic Reasoning](https://arxiv.org/abs/2602.13218)
 
 ### TechCrunch
 
-- [African defensetech Terra Industries, founded by two Gen Zers, raises additional $22M in a month](https://techcrunch.com/2026/02/16/terra-industries-raises-22-million/)
-- [As AI data centers hit power limits, Peak XV backs Indian startup C2i to fix the bottleneck](https://techcrunch.com/2026/02/15/as-ai-data-centers-hit-power-limits-peak-xv-backs-indian-startup-c2i-to-fix-the-bottleneck/)
-- [Blackstone backs Neysa in up to $1.2B financing as India pushes to build domestic AI infrastructure](https://techcrunch.com/2026/02/15/blackstone-backs-neysa-in-up-to-1-2b-financing-as-india-pushes-to-build-domestic-ai-compute/)
-- [OpenClaw creator Peter Steinberger joins OpenAI](https://techcrunch.com/2026/02/15/openclaw-creator-peter-steinberger-joins-openai/)
-- [Anthropic and the Pentagon are reportedly arguing over Claude usage](https://techcrunch.com/2026/02/15/anthropic-and-the-pentagon-are-reportedly-arguing-over-claude-usage/)
+- [How Ricursive Intelligence raised $335M at a $4B valuation in 4 months](https://techcrunch.com/2026/02/16/how-ricursive-intelligence-raised-335m-at-a-4b-valuation-in-4-months/)
+- [Flapping Airplanes on the future of AI: ‘We want to try really radically different things’](https://techcrunch.com/2026/02/16/flapping-airplanes-on-the-future-of-ai-we-want-to-try-really-radically-different-things/)
+- [After all the hype, some AI experts don’t think OpenClaw is all that exciting](https://techcrunch.com/2026/02/16/after-all-the-hype-some-ai-experts-dont-think-openclaw-is-all-that-exciting/)
+- [Fractal Analytics’ muted IPO debut signals persistent AI fears in India](https://techcrunch.com/2026/02/16/fractal-analytics-muted-ipo-debut-signals-persistent-ai-fears-in-india/)
+- [All the important news from the ongoing India AI Impact Summit](https://techcrunch.com/2026/02/16/all-the-important-news-from-the-ongoing-india-ai-summit/)
 
 ---
 
 ## 📊 Intelligence Summary
 
-- **Total Headlines Collected:** 15
+- **Total Headlines Collected:** 13
 - **Sources Active:** 3
-- **Collection Time:** 2026-02-16 09:17:53 UTC
+- **Collection Time:** 2026-02-17 09:17:15 UTC
 - **Status:** ✅ Operational
 
 ---
