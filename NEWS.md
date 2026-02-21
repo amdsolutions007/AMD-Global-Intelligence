@@ -2,44 +2,36 @@
 
 **Automated News Collection - Updated Daily**
 
-**Last Update:** 2026-02-20 09:34:41 UTC
+**Last Update:** 2026-02-21 09:23:44 UTC
 
 ---
 
-## 🔥 Latest Headlines (February 20, 2026)
+## 🔥 Latest Headlines (February 21, 2026)
 
 
 ### Hacker News
 
-- [Anthropic officially bans using subscription auth for third party use](https://code.claude.com/docs/en/legal-and-compliance)
+- [Ggml.ai joins Hugging Face to ensure the long-term progress of Local AI](https://github.com/ggml-org/llama.cpp/discussions/19759)
+- [The path to ubiquitous AI (17k tokens/sec)](https://taalas.com/the-path-to-ubiquitous-ai/)
 - [AI makes you boring](https://www.marginalia.nu/log/a_132_ai_bores/)
-- [Tailscale Peer Relays is now generally available](https://tailscale.com/blog/peer-relays-ga)
-- [We're no longer attracting top talent: the brain drain killing American science](https://www.theguardian.com/us-news/2026/feb/19/trump-science-funding-cuts)
 - [An AI Agent Published a Hit Piece on Me – The Operator Came Forward](https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/)
-
-### ArXiv
-
-- [AIdentifyAGE Ontology for Decision Support in Forensic Dental Age Assessment](https://arxiv.org/abs/2602.16714)
-- [Retrieval Augmented (Knowledge Graph), and Large Language Model-Driven Design Structure Matrix (DSM) Generation of Cyber-Physical Systems](https://arxiv.org/abs/2602.16715)
-- [Contextuality from Single-State Representations: An Information-Theoretic Principle for Adaptive Intelligence](https://arxiv.org/abs/2602.16716)
-- [Mobility-Aware Cache Framework for Scalable LLM-Based Human Mobility Simulation](https://arxiv.org/abs/2602.16727)
-- [When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation](https://arxiv.org/abs/2602.16763)
+- [We're no longer attracting top talent: the brain drain killing American science](https://www.theguardian.com/us-news/2026/feb/19/trump-science-funding-cuts)
 
 ### TechCrunch
 
-- [Google’s new Gemini Pro model has record benchmark scores — again](https://techcrunch.com/2026/02/19/googles-new-gemini-pro-model-has-record-benchmark-scores-again/)
-- [Nvidia deepens early-stage push into India’s AI startup ecosystem](https://techcrunch.com/2026/02/19/nvidia-deepens-early-stage-push-into-indias-ai-startup-ecosystem/)
-- [Google says its AI systems helped deter Play Store malware in 2025](https://techcrunch.com/2026/02/19/google-says-its-ai-systems-helped-deter-play-store-malware-in-2025/)
-- [An AI data center boom is fueling Redwood’s energy storage business](https://techcrunch.com/2026/02/19/an-ai-data-center-boom-is-fueling-redwoods-energy-storage-business/)
-- [Why these startup CEOs don’t think AI will replace human roles](https://techcrunch.com/2026/02/19/web-summit-qatar-read-ai-lucidya-notetakers-customer-support/)
+- [India’s Sarvam launches Indus AI chat app as competition heats up](https://techcrunch.com/2026/02/20/indias-sarvam-launches-indus-ai-chat-app-as-competition-heats-up/)
+- [The creator economy’s ad revenue problem and India’s AI ambitions](https://techcrunch.com/video/the-creator-economys-ad-revenue-problem-and-indias-ai-ambitions/)
+- [Remember HQ? ‘Quiz Daddy’ Scott Rogowsky is back with TextSavvy, a daily mobile game show](https://techcrunch.com/2026/02/20/remember-hq-quiz-daddy-scott-rogowsky-is-back-with-textsavvy-a-daily-mobile-game-show/)
+- [Anthropic-funded group backs candidate attacked by rival AI super PAC](https://techcrunch.com/2026/02/20/anthropic-funded-group-backs-candidate-attacked-by-rival-ai-super-pac/)
+- [Apple’s iOS 26.4 arrives in public beta with AI music playlists, video podcasts, and more](https://techcrunch.com/2026/02/20/apples-ios-26-4-arrives-in-public-beta-with-ai-music-playlists-video-podcasts-and-more/)
 
 ---
 
 ## 📊 Intelligence Summary
 
-- **Total Headlines Collected:** 15
-- **Sources Active:** 3
-- **Collection Time:** 2026-02-20 09:34:41 UTC
+- **Total Headlines Collected:** 10
+- **Sources Active:** 2
+- **Collection Time:** 2026-02-21 09:23:44 UTC
 - **Status:** ✅ Operational
 
 ---
