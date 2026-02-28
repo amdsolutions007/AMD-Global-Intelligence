@@ -2,20 +2,20 @@
 
 **Automated News Collection - Updated Daily**
 
-**Last Update:** 2026-02-27 09:34:46 UTC
+**Last Update:** 2026-02-28 09:05:32 UTC
 
 ---
 
-## 🔥 Latest Headlines (February 27, 2026)
+## 🔥 Latest Headlines (February 28, 2026)
 
 
 ### Hacker News
 
-- [Never buy a .online domain](https://www.0xsid.com/blog/online-tld-is-pain)
+- [I am directing the Department of War to designate Anthropic a supply-chain risk](https://twitter.com/secwar/status/2027507717469049070)
+- [How do I cancel my ChatGPT subscription?](https://help.openai.com/en/articles/7232927-how-do-i-cancel-my-chatgpt-subscription)
 - [Tell HN: YC companies scrape GitHub activity, send spam emails to users](https://news.ycombinator.com/item?id=47163885)
 - [Nano Banana 2: Google's latest AI image generation model](https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/)
-- [Anthropic ditches its core safety promise](https://www.cnn.com/2026/02/25/tech/anthropic-safety-policy-change)
-- [How will OpenAI compete?](https://www.ben-evans.com/benedictevans/2026/2/19/how-will-openai-compete-nkg2x)
+- [OpenAI agrees with Dept. of War to deploy models in their classified network](https://twitter.com/sama/status/2027578652477821175)
 
 ### ArXiv
 
@@ -27,11 +27,11 @@
 
 ### TechCrunch
 
-- [Plaid valued at $8B in employee share sale](https://techcrunch.com/2026/02/26/plaid-valued-at-8b-in-employee-share-sale/)
-- [Anthropic CEO stands firm as Pentagon deadline looms](https://techcrunch.com/2026/02/26/anthropic-ceo-stands-firm-as-pentagon-deadline-looms/)
-- [Google paid startup Form Energy $1B for its massive 100-hour battery](https://techcrunch.com/2026/02/26/google-paid-startup-form-energy-1b-for-its-massive-100-hour-battery/)
-- [So, we’re getting Prada Meta AI glasses, right?](https://techcrunch.com/2026/02/26/so-were-getting-prada-meta-ai-glasses-right/)
-- [Sophia Space raises $10M seed to demo novel space computers](https://techcrunch.com/2026/02/26/sophia-space-raises-10m-seed-to-demo-novel-space-computers/)
+- [OpenAI fires employee for using confidential info on prediction markets](https://techcrunch.com/2026/02/27/openai-fires-employee-for-using-confidential-info-on-prediction-markets/)
+- [Pentagon moves to designate Anthropic as a supply-chain risk](https://techcrunch.com/2026/02/27/pentagon-moves-to-designate-anthropic-as-a-supply-chain-risk/)
+- [Musk bashes OpenAI in deposition, saying ‘nobody committed suicide because of Grok’](https://techcrunch.com/2026/02/27/musk-bashes-openai-in-deposition-saying-nobody-committed-suicide-because-of-grok/)
+- [Anthropic vs. the Pentagon: What’s actually at stake?](https://techcrunch.com/2026/02/27/anthropic-vs-the-pentagon-whats-actually-at-stake/)
+- [ChatGPT reaches 900M weekly active users](https://techcrunch.com/2026/02/27/chatgpt-reaches-900m-weekly-active-users/)
 
 ---
 
@@ -39,7 +39,7 @@
 
 - **Total Headlines Collected:** 15
 - **Sources Active:** 3
-- **Collection Time:** 2026-02-27 09:34:46 UTC
+- **Collection Time:** 2026-02-28 09:05:32 UTC
 - **Status:** ✅ Operational
 
 ---
