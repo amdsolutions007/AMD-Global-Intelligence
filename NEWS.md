@@ -2,36 +2,36 @@
 
 **Automated News Collection - Updated Daily**
 
-**Last Update:** 2026-03-02 09:16:23 UTC
+**Last Update:** 2026-03-03 09:13:50 UTC
 
 ---
 
-## 🔥 Latest Headlines (March 02, 2026)
+## 🔥 Latest Headlines (March 03, 2026)
 
 
 ### Hacker News
 
-- [OpenAI – How to delete your account](https://help.openai.com/en/articles/6378407-how-to-delete-your-account)
-- [Microgpt](http://karpathy.github.io/2026/02/12/microgpt/)
-- [We do not think Anthropic should be designated as a supply chain risk](https://twitter.com/OpenAI/status/2027846016423321831)
+- [Meta’s AI smart glasses and data privacy concerns](https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything)
 - [I built a demo of what AI chat will look like when it's “free” and ad-supported](https://99helpers.com/tools/ad-supported-chat)
+- [If AI writes code, should the session be part of the commit?](https://github.com/mandel-macaque/memento)
 - [AI Made Writing Code Easier. It Made Being an Engineer Harder](https://www.ivanturkovic.com/2026/02/25/ai-made-writing-code-easier-engineering-harder/)
+- [New iPad Air, powered by M4](https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-ipad-air-powered-by-m4/)
 
 ### ArXiv
 
-- [HumanMCP: A Human-Like Query Dataset for Evaluating MCP Tool Retrieval Performance](https://arxiv.org/abs/2602.23367)
-- [An Agentic LLM Framework for Adverse Media Screening in AML Compliance](https://arxiv.org/abs/2602.23373)
-- [Causal Identification from Counterfactual Data: Completeness and Bounding Results](https://arxiv.org/abs/2602.23541)
-- [Planning under Distribution Shifts with Causal POMDPs](https://arxiv.org/abs/2602.23545)
-- [Construct, Merge, Solve & Adapt with Reinforcement Learning for the min-max Multiple Traveling Salesman Problem](https://arxiv.org/abs/2602.23579)
+- [Multi-Sourced, Multi-Agent Evidence Retrieval for Fact-Checking](https://arxiv.org/abs/2603.00267)
+- [TraderBench: How Robust Are AI Agents in Adversarial Capital Markets?](https://arxiv.org/abs/2603.00285)
+- [DIG to Heal: Scaling General-purpose Agent Collaboration via Explainable Dynamic Decision Paths](https://arxiv.org/abs/2603.00309)
+- [How Well Do Multimodal Models Reason on ECG Signals?](https://arxiv.org/abs/2603.00312)
+- [EmCoop: A Framework and Benchmark for Embodied Cooperation Among LLM Agents](https://arxiv.org/abs/2603.00349)
 
 ### TechCrunch
 
-- [Investors spill what they aren’t looking for anymore in AI SaaS companies](https://techcrunch.com/2026/03/01/investors-spill-what-they-arent-looking-for-anymore-in-ai-saas-companies/)
-- [OpenAI reveals more details about its agreement with the Pentagon](https://techcrunch.com/2026/03/01/openai-shares-more-details-about-its-agreement-with-the-pentagon/)
-- [Anthropic’s Claude rises to No. 1 in the App Store following Pentagon dispute](https://techcrunch.com/2026/03/01/anthropics-claude-rises-to-no-2-in-the-app-store-following-pentagon-dispute/)
-- [The trap Anthropic built for itself](https://techcrunch.com/2026/02/28/the-trap-anthropic-built-for-itself/)
-- [The billion-dollar infrastructure deals powering the AI boom](https://techcrunch.com/2026/02/28/billion-dollar-infrastructure-deals-ai-boom-data-centers-openai-oracle-nvidia-microsoft-google-meta/)
+- [ChatGPT uninstalls surged by 295% after DoD deal](https://techcrunch.com/2026/03/02/chatgpt-uninstalls-surged-by-295-after-dod-deal/)
+- [Stripe wants to turn your AI costs into a profit center](https://techcrunch.com/2026/03/02/stripe-wants-to-turn-your-ai-costs-into-a-profit-center/)
+- [No one has a good plan for how AI companies should work with the government](https://techcrunch.com/2026/03/02/openai-anthropic-department-of-defense-war-hegseth-ai-companies-work-with-us-government/)
+- [Users are ditching ChatGPT for Claude — here’s how to make the switch](https://techcrunch.com/2026/03/02/users-are-ditching-chatgpt-for-claude-heres-how-to-make-the-switch/)
+- [Tech workers urge DOD, Congress to withdraw Anthropic label as a supply-chain risk](https://techcrunch.com/2026/03/02/tech-workers-urge-dod-congress-to-withdraw-anthropic-label-as-a-supply-chain-risk/)
 
 ---
 
@@ -39,7 +39,7 @@
 
 - **Total Headlines Collected:** 15
 - **Sources Active:** 3
-- **Collection Time:** 2026-03-02 09:16:23 UTC
+- **Collection Time:** 2026-03-03 09:13:50 UTC
 - **Status:** ✅ Operational
 
 ---
