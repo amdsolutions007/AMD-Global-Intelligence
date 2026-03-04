@@ -2,19 +2,17 @@
 
 **Automated News Collection - Updated Daily**
 
-**Last Update:** 2026-03-03 09:13:50 UTC
+**Last Update:** 2026-03-04 09:12:59 UTC
 
 ---
 
-## 🔥 Latest Headlines (March 03, 2026)
+## 🔥 Latest Headlines (March 04, 2026)
 
 
 ### Hacker News
 
 - [Meta’s AI smart glasses and data privacy concerns](https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything)
-- [I built a demo of what AI chat will look like when it's “free” and ad-supported](https://99helpers.com/tools/ad-supported-chat)
-- [If AI writes code, should the session be part of the commit?](https://github.com/mandel-macaque/memento)
-- [AI Made Writing Code Easier. It Made Being an Engineer Harder](https://www.ivanturkovic.com/2026/02/25/ai-made-writing-code-easier-engineering-harder/)
+- [Ars Technica fires reporter after AI controversy involving fabricated quotes](https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes)
 - [New iPad Air, powered by M4](https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-ipad-air-powered-by-m4/)
 
 ### ArXiv
@@ -27,19 +25,19 @@
 
 ### TechCrunch
 
-- [ChatGPT uninstalls surged by 295% after DoD deal](https://techcrunch.com/2026/03/02/chatgpt-uninstalls-surged-by-295-after-dod-deal/)
-- [Stripe wants to turn your AI costs into a profit center](https://techcrunch.com/2026/03/02/stripe-wants-to-turn-your-ai-costs-into-a-profit-center/)
-- [No one has a good plan for how AI companies should work with the government](https://techcrunch.com/2026/03/02/openai-anthropic-department-of-defense-war-hegseth-ai-companies-work-with-us-government/)
-- [Users are ditching ChatGPT for Claude — here’s how to make the switch](https://techcrunch.com/2026/03/02/users-are-ditching-chatgpt-for-claude-heres-how-to-make-the-switch/)
-- [Tech workers urge DOD, Congress to withdraw Anthropic label as a supply-chain risk](https://techcrunch.com/2026/03/02/tech-workers-urge-dod-congress-to-withdraw-anthropic-label-as-a-supply-chain-risk/)
+- [Why AI startups are selling the same equity at two different prices](https://techcrunch.com/2026/03/03/why-ai-startups-are-selling-the-same-equity-at-two-different-prices/)
+- [Alibaba’s Qwen tech lead steps down after major AI push](https://techcrunch.com/2026/03/03/alibabas-qwen-tech-lead-steps-down-after-major-ai-push/)
+- [AI companies are spending millions to thwart this former tech exec’s congressional bid](https://techcrunch.com/2026/03/03/ai-companies-are-spending-millions-to-thwart-this-former-tech-execs-congressional-bid/)
+- [ChatGPT’s new GPT-5.3 Instant model will stop telling you to calm down](https://techcrunch.com/2026/03/03/chatgpts-new-gpt-5-3-instant-model-will-stop-telling-you-to-calm-down/)
+- [Anduril aims at $60 billion valuation in new funding round](https://techcrunch.com/2026/03/03/anduril-aims-at-60-billion-valuation-in-new-funding-round/)
 
 ---
 
 ## 📊 Intelligence Summary
 
-- **Total Headlines Collected:** 15
+- **Total Headlines Collected:** 13
 - **Sources Active:** 3
-- **Collection Time:** 2026-03-03 09:13:50 UTC
+- **Collection Time:** 2026-03-04 09:12:59 UTC
 - **Status:** ✅ Operational
 
 ---
