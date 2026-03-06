@@ -2,40 +2,42 @@
 
 **Automated News Collection - Updated Daily**
 
-**Last Update:** 2026-03-05 09:14:17 UTC
+**Last Update:** 2026-03-06 09:11:15 UTC
 
 ---
 
-## 🔥 Latest Headlines (March 05, 2026)
+## 🔥 Latest Headlines (March 06, 2026)
 
 
 ### Hacker News
 
+- [GPT-5.4](https://openai.com/index/introducing-gpt-5-4/)
 - [Dario Amodei calls OpenAI’s messaging around military deal ‘straight up lies’](https://techcrunch.com/2026/03/04/anthropic-ceo-dario-amodei-calls-openais-messaging-around-military-deal-straight-up-lies-report-says/)
+- [The L in "LLM" Stands for Lying](https://acko.net/blog/the-l-in-llm-stands-for-lying/)
 
 ### ArXiv
 
-- [Asymmetric Goal Drift in Coding Agents Under Value Conflict](https://arxiv.org/abs/2603.03456)
-- [Build, Judge, Optimize: A Blueprint for Continuous Improvement of Multi-Agent Consumer Assistants](https://arxiv.org/abs/2603.03565)
-- [Mozi: Governed Autonomy for Drug Discovery LLM Agents](https://arxiv.org/abs/2603.03655)
-- [MAGE: Meta-Reinforcement Learning for Language Agents toward Strategic Exploration and Exploitation](https://arxiv.org/abs/2603.03680)
-- [AI4S-SDS: A Neuro-Symbolic Solvent Design System via Sparse MCTS and Differentiable Physics Alignment](https://arxiv.org/abs/2603.03686)
+- [SkillNet: Create, Evaluate, and Connect AI Skills](https://arxiv.org/abs/2603.04448)
+- [Capability Thresholds and Manufacturing Topology: How Embodied Intelligence Triggers Phase Transitions in Economic Geography](https://arxiv.org/abs/2603.04457)
+- [Progressive Refinement Regulation for Accelerating Diffusion Language Model Decoding](https://arxiv.org/abs/2603.04514)
+- [Discovering mathematical concepts through a multi-agent system](https://arxiv.org/abs/2603.04528)
+- [Adaptive Memory Admission Control for LLM Agents](https://arxiv.org/abs/2603.04549)
 
 ### TechCrunch
 
-- [Jensen Huang says Nvidia is pulling back from OpenAI and Anthropic, but his explanation raises more questions than it answers](https://techcrunch.com/2026/03/04/jensen-huang-says-nvidia-is-pulling-back-from-openai-and-anthropic-but-his-explanation-raises-more-questions-than-it-answers/)
-- [Anthropic CEO Dario Amodei calls OpenAI’s messaging around military deal ‘straight up lies,’ report says](https://techcrunch.com/2026/03/04/anthropic-ceo-dario-amodei-calls-openais-messaging-around-military-deal-straight-up-lies-report-says/)
-- [Apple Music to add Transparency Tags to distinguish AI music, says report](https://techcrunch.com/2026/03/04/apple-music-to-add-transparency-tags-to-distinguish-ai-music-says-report/)
-- [Google Search rolls out Gemini’s Canvas in AI Mode to all US users](https://techcrunch.com/2026/03/04/https-techcrunch-com-2026-03-04-google-search-rolls-out-geminis-canvas-in-ai-mode-to-all-us-users/)
-- [Father sues Google, claiming Gemini chatbot drove son into fatal delusion](https://techcrunch.com/2026/03/04/father-sues-google-claiming-gemini-chatbot-drove-son-into-fatal-delusion/)
+- [Anthropic to challenge DOD’s supply-chain label in court](https://techcrunch.com/2026/03/05/anthropic-to-challenge-dods-supply-chain-label-in-court/)
+- [DiligenceSquared uses AI, voice agents to make M&A research affordable](https://techcrunch.com/2026/03/05/diligencesquared-uses-ai-voice-agents-to-make-ma-research-affordable/)
+- [AWS launches a new AI agent platform specifically for healthcare](https://techcrunch.com/2026/03/05/aws-amazon-connect-health-ai-agent-platform-health-care-providers/)
+- [It’s official: The Pentagon has labeled Anthropic a supply-chain risk](https://techcrunch.com/2026/03/05/its-official-the-pentagon-has-labeled-anthropic-a-supply-chain-risk/)
+- [Hardware testing startup Nominal hits $1B valuation, raises $155M in 10 months](https://techcrunch.com/2026/03/05/hardware-testing-startup-nominal-hits-1b-valuation-raises-155m-in-10-months/)
 
 ---
 
 ## 📊 Intelligence Summary
 
-- **Total Headlines Collected:** 11
+- **Total Headlines Collected:** 13
 - **Sources Active:** 3
-- **Collection Time:** 2026-03-05 09:14:17 UTC
+- **Collection Time:** 2026-03-06 09:11:15 UTC
 - **Status:** ✅ Operational
 
 ---
