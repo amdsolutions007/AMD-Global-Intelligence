@@ -2,42 +2,34 @@
 
 **Automated News Collection - Updated Daily**
 
-**Last Update:** 2026-03-06 09:11:15 UTC
+**Last Update:** 2026-03-07 09:06:40 UTC
 
 ---
 
-## 🔥 Latest Headlines (March 06, 2026)
+## 🔥 Latest Headlines (March 07, 2026)
 
 
 ### Hacker News
 
 - [GPT-5.4](https://openai.com/index/introducing-gpt-5-4/)
-- [Dario Amodei calls OpenAI’s messaging around military deal ‘straight up lies’](https://techcrunch.com/2026/03/04/anthropic-ceo-dario-amodei-calls-openais-messaging-around-military-deal-straight-up-lies-report-says/)
-- [The L in "LLM" Stands for Lying](https://acko.net/blog/the-l-in-llm-stands-for-lying/)
-
-### ArXiv
-
-- [SkillNet: Create, Evaluate, and Connect AI Skills](https://arxiv.org/abs/2603.04448)
-- [Capability Thresholds and Manufacturing Topology: How Embodied Intelligence Triggers Phase Transitions in Economic Geography](https://arxiv.org/abs/2603.04457)
-- [Progressive Refinement Regulation for Accelerating Diffusion Language Model Decoding](https://arxiv.org/abs/2603.04514)
-- [Discovering mathematical concepts through a multi-agent system](https://arxiv.org/abs/2603.04528)
-- [Adaptive Memory Admission Control for LLM Agents](https://arxiv.org/abs/2603.04549)
+- [Hardening Firefox with Anthropic's Red Team](https://www.anthropic.com/news/mozilla-firefox-security)
+- [Pentagon formally labels Anthropic supply-chain risk](https://www.wsj.com/politics/national-security/pentagon-formally-labels-anthropic-supply-chain-risk-escalating-conflict-ebdf0523)
 
 ### TechCrunch
 
-- [Anthropic to challenge DOD’s supply-chain label in court](https://techcrunch.com/2026/03/05/anthropic-to-challenge-dods-supply-chain-label-in-court/)
-- [DiligenceSquared uses AI, voice agents to make M&A research affordable](https://techcrunch.com/2026/03/05/diligencesquared-uses-ai-voice-agents-to-make-ma-research-affordable/)
-- [AWS launches a new AI agent platform specifically for healthcare](https://techcrunch.com/2026/03/05/aws-amazon-connect-health-ai-agent-platform-health-care-providers/)
-- [It’s official: The Pentagon has labeled Anthropic a supply-chain risk](https://techcrunch.com/2026/03/05/its-official-the-pentagon-has-labeled-anthropic-a-supply-chain-risk/)
-- [Hardware testing startup Nominal hits $1B valuation, raises $155M in 10 months](https://techcrunch.com/2026/03/05/hardware-testing-startup-nominal-hits-1b-valuation-raises-155m-in-10-months/)
+- [Microsoft, Google, Amazon say Anthropic Claude remains available to non-defense customers](https://techcrunch.com/2026/03/06/microsoft-anthropic-claude-remains-available-to-customers-except-the-defense-department/)
+- [Anthropic’s Claude found 22 vulnerabilities in Firefox over two weeks](https://techcrunch.com/2026/03/06/anthropics-claude-found-22-vulnerabilities-in-firefox-over-two-weeks/)
+- [Anthropic’s Pentagon deal is a cautionary tale for startups chasing federal contracts](https://techcrunch.com/video/anthropics-pentagon-deal-is-a-cautionary-tale-for-startups-chasing-federal-contracts/)
+- [City Detect, which uses AI to help cities stay safe and clean, raises $13M Series A](https://techcrunch.com/2026/03/06/city-detect-uses-ai-to-help-cities-stay-safe-and-clean/)
+- [Quantum scale-up Pasqal plans $2B SPAC listing, promises to ‘remain French’](https://techcrunch.com/2026/03/06/quantum-scale-up-pasqal-plans-2b-spac-listing-promises-to-remain-french/)
 
 ---
 
 ## 📊 Intelligence Summary
 
-- **Total Headlines Collected:** 13
-- **Sources Active:** 3
-- **Collection Time:** 2026-03-06 09:11:15 UTC
+- **Total Headlines Collected:** 8
+- **Sources Active:** 2
+- **Collection Time:** 2026-03-07 09:06:40 UTC
 - **Status:** ✅ Operational
 
 ---
