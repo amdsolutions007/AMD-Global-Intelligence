@@ -2,36 +2,44 @@
 
 **Automated News Collection - Updated Daily**
 
-**Last Update:** 2026-03-15 09:09:38 UTC
+**Last Update:** 2026-03-16 09:23:00 UTC
 
 ---
 
-## 🔥 Latest Headlines (March 15, 2026)
+## 🔥 Latest Headlines (March 16, 2026)
 
 
 ### Hacker News
 
-- [Can I run AI locally?](https://www.canirun.ai/)
-- [1M context is now generally available for Opus 4.6 and Sonnet 4.6](https://claude.com/blog/1m-context-ga)
-- [Qatar helium shutdown puts chip supply chain on a two-week clock](https://www.tomshardware.com/tech-industry/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock)
-- [The Wyden Siren Goes Off Again: We’ll Be “Stunned” By What the NSA Is Doing](https://www.techdirt.com/2026/03/12/the-wyden-siren-goes-off-again-well-be-stunned-by-what-the-nsa-is-doing-under-section-702/)
-- [Elon Musk pushes out more xAI founders as AI coding effort falters](https://www.ft.com/content/e5fbc6c2-d5a6-4b97-a105-6a96ea849de5)
+- [$96 3D-printed rocket that recalculates its mid-air trajectory using a $5 sensor](https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket)
+- [LLM Architecture Gallery](https://sebastianraschka.com/llm-architecture-gallery/)
+- [A Visual Introduction to Machine Learning (2015)](https://r2d3.us/visual-intro-to-machine-learning-part-1/)
+- [The Appalling Stupidity of Spotify's AI DJ](https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html)
+- [Ask HN: How is AI-assisted coding going for you professionally?](https://news.ycombinator.com/item?id=47388646)
+
+### ArXiv
+
+- [Context-Enriched Natural Language Descriptions of Vessel Trajectories](https://arxiv.org/abs/2603.12287)
+- [Efficient Reasoning with Balanced Thinking](https://arxiv.org/abs/2603.12372)
+- [Generating Expressive and Customizable Evals for Timeseries Data Analysis Agents with AgentFuel](https://arxiv.org/abs/2603.12483)
+- [AI Planning Framework for LLM-Based Web Agents](https://arxiv.org/abs/2603.12710)
+- [On Using Machine Learning to Early Detect Catastrophic Failures in Marine Diesel Engines](https://arxiv.org/abs/2603.12733)
 
 ### TechCrunch
 
+- [The billionaires made a promise — now some want out](https://techcrunch.com/2026/03/15/the-billionaires-made-a-promise-now-some-want-out/)
+- [Google, Accel India accelerator chooses 5 startups and none are ‘AI wrappers’](https://techcrunch.com/2026/03/15/google-and-accel-cut-through-wrappers-in-4000-ai-startup-pitches-to-pick-five-tied-to-india/)
+- [Lawyer behind AI psychosis cases warns of mass casualty risks](https://techcrunch.com/2026/03/15/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/)
+- [TechCrunch Mobility: Travis Kalanick’s return proves it really is 2016 again](https://techcrunch.com/2026/03/15/techcrunch-mobility-travis-kalanicks-return-proves-it-really-is-2016-again/)
 - [The MacBook Neo is ‘the most repairable MacBook’ in years, according to iFixit](https://techcrunch.com/2026/03/14/the-macbook-neo-is-the-most-repairable-macbook-in-years-according-to-ifixit/)
-- [How to use the new ChatGPT app integrations, including DoorDash, Spotify, Uber, and others](https://techcrunch.com/2026/03/14/how-to-use-the-new-chatgpt-app-integrations-including-doordash-spotify-uber-and-others/)
-- [‘Not built right the first time’ — Musk’s xAI is starting over again, again](https://techcrunch.com/2026/03/13/not-built-right-the-first-time-musks-xai-is-starting-over-again-again/)
-- [Lawyer behind AI psychosis cases warns of mass casualty risks](https://techcrunch.com/2026/03/13/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/)
-- [Nyne, founded by a father-son duo, gives AI agents the human context they’re missing](https://techcrunch.com/2026/03/13/nyne-founded-by-a-father-son-duo-gives-ai-agents-the-human-context-theyre-missing/)
 
 ---
 
 ## 📊 Intelligence Summary
 
-- **Total Headlines Collected:** 10
-- **Sources Active:** 2
-- **Collection Time:** 2026-03-15 09:09:38 UTC
+- **Total Headlines Collected:** 15
+- **Sources Active:** 3
+- **Collection Time:** 2026-03-16 09:23:00 UTC
 - **Status:** ✅ Operational
 
 ---
