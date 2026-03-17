@@ -2,44 +2,42 @@
 
 **Automated News Collection - Updated Daily**
 
-**Last Update:** 2026-03-16 09:23:00 UTC
+**Last Update:** 2026-03-17 09:18:23 UTC
 
 ---
 
-## 🔥 Latest Headlines (March 16, 2026)
+## 🔥 Latest Headlines (March 17, 2026)
 
 
 ### Hacker News
 
-- [$96 3D-printed rocket that recalculates its mid-air trajectory using a $5 sensor](https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket)
+- [Bill C-22, the Lawful Access Act: Dangerous backdoor surveillance risks remain](https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-risks-remains/)
 - [LLM Architecture Gallery](https://sebastianraschka.com/llm-architecture-gallery/)
-- [A Visual Introduction to Machine Learning (2015)](https://r2d3.us/visual-intro-to-machine-learning-part-1/)
-- [The Appalling Stupidity of Spotify's AI DJ](https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html)
-- [Ask HN: How is AI-assisted coding going for you professionally?](https://news.ycombinator.com/item?id=47388646)
+- [How I write software with LLMs](https://www.stavros.io/posts/how-i-write-software-with-llms/)
 
 ### ArXiv
 
-- [Context-Enriched Natural Language Descriptions of Vessel Trajectories](https://arxiv.org/abs/2603.12287)
-- [Efficient Reasoning with Balanced Thinking](https://arxiv.org/abs/2603.12372)
-- [Generating Expressive and Customizable Evals for Timeseries Data Analysis Agents with AgentFuel](https://arxiv.org/abs/2603.12483)
-- [AI Planning Framework for LLM-Based Web Agents](https://arxiv.org/abs/2603.12710)
-- [On Using Machine Learning to Early Detect Catastrophic Failures in Marine Diesel Engines](https://arxiv.org/abs/2603.12733)
+- [Human Attribution of Causality to AI Across Agency, Misuse, and Misalignment](https://arxiv.org/abs/2603.13236)
+- [A Dual-Path Generative Framework for Zero-Day Fraud Detection in Banking Systems](https://arxiv.org/abs/2603.13237)
+- [Benchmarking Zero-Shot Reasoning Approaches for Error Detection in Solidity Smart Contracts](https://arxiv.org/abs/2603.13239)
+- [Think First, Diffuse Fast: Improving Diffusion Language Model Reasoning via Autoregressive Plan Conditioning](https://arxiv.org/abs/2603.13243)
+- [Automating Document Intelligence in Statutory City Planning](https://arxiv.org/abs/2603.13245)
 
 ### TechCrunch
 
-- [The billionaires made a promise — now some want out](https://techcrunch.com/2026/03/15/the-billionaires-made-a-promise-now-some-want-out/)
-- [Google, Accel India accelerator chooses 5 startups and none are ‘AI wrappers’](https://techcrunch.com/2026/03/15/google-and-accel-cut-through-wrappers-in-4000-ai-startup-pitches-to-pick-five-tied-to-india/)
-- [Lawyer behind AI psychosis cases warns of mass casualty risks](https://techcrunch.com/2026/03/15/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/)
-- [TechCrunch Mobility: Travis Kalanick’s return proves it really is 2016 again](https://techcrunch.com/2026/03/15/techcrunch-mobility-travis-kalanicks-return-proves-it-really-is-2016-again/)
-- [The MacBook Neo is ‘the most repairable MacBook’ in years, according to iFixit](https://techcrunch.com/2026/03/14/the-macbook-neo-is-the-most-repairable-macbook-in-years-according-to-ifixit/)
+- [Picsart now allows creators to ‘hire’ AI assistants through agent marketplace](https://techcrunch.com/2026/03/16/picsart-now-allows-creators-to-hire-ai-assistants-through-agent-marketplace/)
+- [Warren presses Pentagon over decision to grant xAI access to classified networks](https://techcrunch.com/2026/03/16/warren-presses-pentagon-over-decision-to-grant-xai-access-to-classified-networks/)
+- [Memories AI is building the visual memory layer for wearables and robotics](https://techcrunch.com/2026/03/16/memories-ai-is-building-the-visual-memory-layer-for-wearables-and-robotics/)
+- [Elon Musk’s xAI faces child porn lawsuit from minors Grok allegedly undressed](https://techcrunch.com/2026/03/16/elon-musks-xai-faces-child-porn-lawsuit-from-minors-grok-allegedly-undressed/)
+- [Nvidia’s DLSS 5 uses generative AI to boost photorealism in video games, with ambitions beyond gaming](https://techcrunch.com/2026/03/16/nvidias-dlss-5-uses-generative-ai-to-boost-photo-realism-in-video-games-with-ambitions-beyond-gaming/)
 
 ---
 
 ## 📊 Intelligence Summary
 
-- **Total Headlines Collected:** 15
+- **Total Headlines Collected:** 13
 - **Sources Active:** 3
-- **Collection Time:** 2026-03-16 09:23:00 UTC
+- **Collection Time:** 2026-03-17 09:18:23 UTC
 - **Status:** ✅ Operational
 
 ---
