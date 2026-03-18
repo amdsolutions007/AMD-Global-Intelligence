@@ -2,42 +2,36 @@
 
 **Automated News Collection - Updated Daily**
 
-**Last Update:** 2026-03-17 09:18:23 UTC
+**Last Update:** 2026-03-18 09:18:14 UTC
 
 ---
 
-## 🔥 Latest Headlines (March 17, 2026)
+## 🔥 Latest Headlines (March 18, 2026)
 
-
-### Hacker News
-
-- [Bill C-22, the Lawful Access Act: Dangerous backdoor surveillance risks remain](https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-risks-remains/)
-- [LLM Architecture Gallery](https://sebastianraschka.com/llm-architecture-gallery/)
-- [How I write software with LLMs](https://www.stavros.io/posts/how-i-write-software-with-llms/)
 
 ### ArXiv
 
-- [Human Attribution of Causality to AI Across Agency, Misuse, and Misalignment](https://arxiv.org/abs/2603.13236)
-- [A Dual-Path Generative Framework for Zero-Day Fraud Detection in Banking Systems](https://arxiv.org/abs/2603.13237)
-- [Benchmarking Zero-Shot Reasoning Approaches for Error Detection in Solidity Smart Contracts](https://arxiv.org/abs/2603.13239)
-- [Think First, Diffuse Fast: Improving Diffusion Language Model Reasoning via Autoregressive Plan Conditioning](https://arxiv.org/abs/2603.13243)
-- [Automating Document Intelligence in Statutory City Planning](https://arxiv.org/abs/2603.13245)
+- [Neural-Symbolic Logic Query Answering in Non-Euclidean Space](https://arxiv.org/abs/2603.15633)
+- [NextMem: Towards Latent Factual Memory for LLM-based Agents](https://arxiv.org/abs/2603.15634)
+- [AIDABench: AI Data Analytics Benchmark](https://arxiv.org/abs/2603.15636)
+- [The Comprehension-Gated Agent Economy: A Robustness-First Architecture for AI Economic Agency](https://arxiv.org/abs/2603.15639)
+- [Form Follows Function: Recursive Stem Model](https://arxiv.org/abs/2603.15641)
 
 ### TechCrunch
 
-- [Picsart now allows creators to ‘hire’ AI assistants through agent marketplace](https://techcrunch.com/2026/03/16/picsart-now-allows-creators-to-hire-ai-assistants-through-agent-marketplace/)
-- [Warren presses Pentagon over decision to grant xAI access to classified networks](https://techcrunch.com/2026/03/16/warren-presses-pentagon-over-decision-to-grant-xai-access-to-classified-networks/)
-- [Memories AI is building the visual memory layer for wearables and robotics](https://techcrunch.com/2026/03/16/memories-ai-is-building-the-visual-memory-layer-for-wearables-and-robotics/)
-- [Elon Musk’s xAI faces child porn lawsuit from minors Grok allegedly undressed](https://techcrunch.com/2026/03/16/elon-musks-xai-faces-child-porn-lawsuit-from-minors-grok-allegedly-undressed/)
-- [Nvidia’s DLSS 5 uses generative AI to boost photorealism in video games, with ambitions beyond gaming](https://techcrunch.com/2026/03/16/nvidias-dlss-5-uses-generative-ai-to-boost-photo-realism-in-video-games-with-ambitions-beyond-gaming/)
+- [Mistral bets on ‘build-your-own AI’ as it takes on OpenAI, Anthropic in the enterprise](https://techcrunch.com/2026/03/17/mistral-forge-nvidia-gtc-build-your-own-ai-enterprise/)
+- [The Pentagon is developing alternatives to Anthropic, report says](https://techcrunch.com/2026/03/17/the-pentagon-is-developing-alternatives-to-anthropic-report-says/)
+- [BuzzFeed debuts AI slop apps in bid for new revenue](https://techcrunch.com/2026/03/17/buzzfeed-ai-slop-apps-sxsw-bf-island-conjure/)
+- [OpenAI expands government footprint with AWS deal, report says](https://techcrunch.com/2026/03/17/openai-expands-government-footprint-with-aws-deal/)
+- [AI’s ‘boys’ club’ could widen the wealth gap for women, says Rana el Kaliouby](https://techcrunch.com/2026/03/17/ais-boys-club-could-widen-the-wealth-gap-for-women-says-rana-el-kaliouby/)
 
 ---
 
 ## 📊 Intelligence Summary
 
-- **Total Headlines Collected:** 13
-- **Sources Active:** 3
-- **Collection Time:** 2026-03-17 09:18:23 UTC
+- **Total Headlines Collected:** 10
+- **Sources Active:** 2
+- **Collection Time:** 2026-03-18 09:18:14 UTC
 - **Status:** ✅ Operational
 
 ---
