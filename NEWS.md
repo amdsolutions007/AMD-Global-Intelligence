@@ -2,36 +2,40 @@
 
 **Automated News Collection - Updated Daily**
 
-**Last Update:** 2026-03-18 09:18:14 UTC
+**Last Update:** 2026-03-19 09:15:03 UTC
 
 ---
 
-## 🔥 Latest Headlines (March 18, 2026)
+## 🔥 Latest Headlines (March 19, 2026)
 
+
+### Hacker News
+
+- [Mistral AI Releases Forge](https://mistral.ai/news/forge)
 
 ### ArXiv
 
-- [Neural-Symbolic Logic Query Answering in Non-Euclidean Space](https://arxiv.org/abs/2603.15633)
-- [NextMem: Towards Latent Factual Memory for LLM-based Agents](https://arxiv.org/abs/2603.15634)
-- [AIDABench: AI Data Analytics Benchmark](https://arxiv.org/abs/2603.15636)
-- [The Comprehension-Gated Agent Economy: A Robustness-First Architecture for AI Economic Agency](https://arxiv.org/abs/2603.15639)
-- [Form Follows Function: Recursive Stem Model](https://arxiv.org/abs/2603.15641)
+- [Generative AI-assisted Participatory Modeling in Socio-Environmental Planning under Deep Uncertainty](https://arxiv.org/abs/2603.17021)
+- [Transformers are Bayesian Networks](https://arxiv.org/abs/2603.17063)
+- [Cascade-Aware Multi-Agent Routing: Spatio-Temporal Sidecars and Geometry-Switching](https://arxiv.org/abs/2603.17112)
+- [How Clued up are LLMs? Evaluating Multi-Step Deductive Reasoning in a Text-Based Game Environment](https://arxiv.org/abs/2603.17169)
+- [AI Scientist via Synthetic Task Scaling](https://arxiv.org/abs/2603.17216)
 
 ### TechCrunch
 
-- [Mistral bets on ‘build-your-own AI’ as it takes on OpenAI, Anthropic in the enterprise](https://techcrunch.com/2026/03/17/mistral-forge-nvidia-gtc-build-your-own-ai-enterprise/)
-- [The Pentagon is developing alternatives to Anthropic, report says](https://techcrunch.com/2026/03/17/the-pentagon-is-developing-alternatives-to-anthropic-report-says/)
-- [BuzzFeed debuts AI slop apps in bid for new revenue](https://techcrunch.com/2026/03/17/buzzfeed-ai-slop-apps-sxsw-bf-island-conjure/)
-- [OpenAI expands government footprint with AWS deal, report says](https://techcrunch.com/2026/03/17/openai-expands-government-footprint-with-aws-deal/)
-- [AI’s ‘boys’ club’ could widen the wealth gap for women, says Rana el Kaliouby](https://techcrunch.com/2026/03/17/ais-boys-club-could-widen-the-wealth-gap-for-women-says-rana-el-kaliouby/)
+- [Multiverse Computing pushes its compressed AI models into the mainstream](https://techcrunch.com/2026/03/19/multiverse-computing-pushes-its-compressed-ai-models-into-the-mainstream/)
+- [Meta is having trouble with rogue AI agents](https://techcrunch.com/2026/03/18/meta-is-having-trouble-with-rogue-ai-agents/)
+- [Nothing CEO Carl Pei says smartphone apps will disappear as AI agents take their place](https://techcrunch.com/2026/03/18/nothing-ceo-carl-pei-says-smartphone-apps-will-disappear-as-ai-agents-take-their-place/)
+- [Pardoned Nikola founder Trevor Milton is trying to raise $1B for AI-powered planes](https://techcrunch.com/2026/03/18/pardoned-nikola-founder-trevor-milton-is-trying-to-raise-1b-for-ai-powered-planes/)
+- [Patreon CEO calls AI companies’ fair use argument ‘bogus,’ says creators should be paid](https://techcrunch.com/2026/03/18/patreon-ceo-calls-ai-companies-fair-use-argument-bogus-says-creators-should-be-paid/)
 
 ---
 
 ## 📊 Intelligence Summary
 
-- **Total Headlines Collected:** 10
-- **Sources Active:** 2
-- **Collection Time:** 2026-03-18 09:18:14 UTC
+- **Total Headlines Collected:** 11
+- **Sources Active:** 3
+- **Collection Time:** 2026-03-19 09:15:03 UTC
 - **Status:** ✅ Operational
 
 ---
