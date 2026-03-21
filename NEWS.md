@@ -2,20 +2,20 @@
 
 **Automated News Collection - Updated Daily**
 
-**Last Update:** 2026-03-20 09:13:03 UTC
+**Last Update:** 2026-03-21 09:07:57 UTC
 
 ---
 
-## 🔥 Latest Headlines (March 20, 2026)
+## 🔥 Latest Headlines (March 21, 2026)
 
 
 ### Hacker News
 
 - [Astral to Join OpenAI](https://astral.sh/blog/openai)
 - [Google details new 24-hour process to sideload unverified Android apps](https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/)
-- [A sufficiently detailed spec is code](https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code)
+- [OpenCode – Open source AI coding agent](https://opencode.ai/)
+- [France's aircraft carrier located in real time by Le Monde through fitness app](https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html)
 - [Anthropic takes legal action against OpenCode](https://github.com/anomalyco/opencode/pull/18186)
-- [Afroman Wins Civil Trial over Use of Police Raid Footage in His Music Videos](https://www.nytimes.com/2026/03/19/us/afroman-trial-lemon-cake-verdict.html)
 
 ### ArXiv
 
@@ -27,11 +27,11 @@
 
 ### TechCrunch
 
-- [Amazon acquires Rivr, maker of a stair-climbing delivery robot](https://techcrunch.com/2026/03/19/amazon-acquires-rivr-maker-of-a-stair-climbing-delivery-robot/)
-- [Jeff Bezos reportedly wants $100 billion to buy and transform old manufacturing firms with AI](https://techcrunch.com/2026/03/19/jeff-bezos-reportedly-wants-100-billion-to-buy-and-transform-old-manufacturing-firms-with-ai/)
-- [Employees had to restrain a dancing humanoid robot after it went wild at a California restaurant](https://techcrunch.com/2026/03/19/restaurant-dancing-robot-went-wild-hot-pot-cupertino-haidilao-agibot/)
-- [Meta rolls out new AI content enforcement systems while reducing reliance on third-party vendors](https://techcrunch.com/2026/03/19/meta-rolls-out-new-ai-content-enforcement-systems-while-reducing-reliance-on-third-party-vendors/)
-- [Google introduces a new way for users to sideload Android apps that still protects against scams](https://techcrunch.com/2026/03/19/google-introduces-a-new-way-for-users-to-sideload-android-apps-that-still-protects-against-scams/)
+- [New court filing reveals Pentagon told Anthropic the two sides were nearly aligned — a week after Trump declared the relationship kaput](https://techcrunch.com/2026/03/20/new-court-filing-reveals-pentagon-told-anthropic-the-two-sides-were-nearly-aligned-a-week-after-trump-declared-the-relationship-kaput/)
+- [Microsoft rolls back some of its Copilot AI bloat on Windows](https://techcrunch.com/2026/03/20/microsoft-rolls-back-some-of-its-copilot-ai-bloat-on-windows/)
+- [A French Navy officer accidentally leaked the location of an aircraft carrier by logging his run on Strava](https://techcrunch.com/2026/03/20/a-french-navy-officer-accidentally-leaked-the-location-of-an-aircraft-carrier-by-logging-his-run-on-strava/)
+- [WordPress.com now lets AI agents write and publish posts, and more](https://techcrunch.com/2026/03/20/wordpress-com-now-lets-ai-agents-write-and-publish-posts-and-more/)
+- [Trump’s AI framework targets state laws, shifts child safety burden to parents](https://techcrunch.com/2026/03/20/trumps-ai-framework-targets-state-laws-shifts-child-safety-burden-to-parents/)
 
 ---
 
@@ -39,7 +39,7 @@
 
 - **Total Headlines Collected:** 15
 - **Sources Active:** 3
-- **Collection Time:** 2026-03-20 09:13:03 UTC
+- **Collection Time:** 2026-03-21 09:07:57 UTC
 - **Status:** ✅ Operational
 
 ---
