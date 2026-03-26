@@ -2,44 +2,43 @@
 
 **Automated News Collection - Updated Daily**
 
-**Last Update:** 2026-03-25 09:17:53 UTC
+**Last Update:** 2026-03-26 09:20:56 UTC
 
 ---
 
-## 🔥 Latest Headlines (March 25, 2026)
+## 🔥 Latest Headlines (March 26, 2026)
 
 
 ### Hacker News
 
 - [Wine 11 rewrites how Linux runs Windows games at kernel with massive speed gains](https://www.xda-developers.com/wine-11-rewrites-linux-runs-windows-games-speed-gains/)
-- [Malicious litellm_init.pth in litellm 1.82.8 PyPI package – credential stealer](https://github.com/BerriAI/litellm/issues/24512)
-- [iPhone 17 Pro Demonstrated Running a 400B LLM](https://twitter.com/anemll/status/2035901335984611412)
 - [Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised](https://github.com/BerriAI/litellm/issues/24512)
+- [Malicious litellm_init.pth in litellm 1.82.8 PyPI package – credential stealer](https://github.com/BerriAI/litellm/issues/24512)
 - [Is anybody else bored of talking about AI?](https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/)
+- [Flighty Airports](https://flighty.com/airports)
 
 ### ArXiv
 
-- [Memory Bear AI Memory Science Engine for Multimodal Affective Intelligence: A Technical Report](https://arxiv.org/abs/2603.22306)
-- [The Efficiency Attenuation Phenomenon: A Computational Challenge to the Language of Thought Hypothesis](https://arxiv.org/abs/2603.22312)
-- [Dynamic Fusion-Aware Graph Convolutional Neural Network for Multimodal Emotion Recognition in Conversations](https://arxiv.org/abs/2603.22345)
-- [Intelligence Inertia: Physical Principles and Applications](https://arxiv.org/abs/2603.22347)
-- [Session Risk Memory (SRM): Temporal Authorization for Deterministic Pre-Execution Safety Gates](https://arxiv.org/abs/2603.22350)
+- [PLDR-LLMs Reason At Self-Organized Criticality](https://arxiv.org/abs/2603.23539)
+- [Environment Maps: Structured Environmental Representations for Long-Horizon Agents](https://arxiv.org/abs/2603.23610)
+- [Evaluating a Multi-Agent Voice-Enabled Smart Speaker for Care Homes: A Safety-Focused Framework](https://arxiv.org/abs/2603.23625)
+- [Can LLM Agents Be CFOs? A Benchmark for Resource Allocation in Dynamic Enterprise Environments](https://arxiv.org/abs/2603.23638)
+- [GTO Wizard Benchmark](https://arxiv.org/abs/2603.23660)
 
 ### TechCrunch
 
-- [With $3.5B in fresh capital, Kleiner Perkins is going all in on AI](https://techcrunch.com/2026/03/24/with-3-5b-in-fresh-capital-kleiner-perkins-is-going-all-in-on-ai/)
-- [OpenAI’s Sora was the creepiest app on your phone — now it’s shutting down](https://techcrunch.com/2026/03/24/openais-sora-was-the-creepiest-app-on-your-phone-now-its-shutting-down/)
-- [Anthropic hands Claude Code more control, but keeps it on a leash](https://techcrunch.com/2026/03/24/anthropic-hands-claude-code-more-control-but-keeps-it-on-a-leash/)
-- [Spotify tests new tool to stop AI slop from being attributed to real artists](https://techcrunch.com/2026/03/24/spotify-tests-new-tool-to-stop-ai-slop-from-being-attributed-to-real-artists/)
-- [Databricks bought two startups to underpin its new AI security product](https://techcrunch.com/2026/03/24/databricks-buys-two-startups-lakewatch-antimatter-siftd-ai-security/)
+- [Mercor competitor Deccan AI raises $25M, sources experts from India](https://techcrunch.com/2026/03/25/deccan-ai-raises-25m-as-ai-training-push-relies-on-india-based-workforce/)
+- [Delve did the security compliance on LiteLLM, an AI project hit by malware](https://techcrunch.com/2026/03/25/delve-did-the-security-compliance-on-litellm-an-ai-project-hit-by-malware/)
+- [The AI skills gap is here, says AI company, and power users are pulling ahead](https://techcrunch.com/2026/03/25/the-ai-skills-gap-is-here-says-ai-company-and-power-users-are-pulling-ahead/)
+- [Google unveils TurboQuant, a new AI memory compression algorithm — and yes, the internet is calling it ‘Pied Piper’](https://techcrunch.com/2026/03/25/google-turboquant-ai-memory-compression-silicon-valley-pied-piper/)
 
 ---
 
 ## 📊 Intelligence Summary
 
-- **Total Headlines Collected:** 15
+- **Total Headlines Collected:** 14
 - **Sources Active:** 3
-- **Collection Time:** 2026-03-25 09:17:53 UTC
+- **Collection Time:** 2026-03-26 09:20:56 UTC
 - **Status:** ✅ Operational
 
 ---
