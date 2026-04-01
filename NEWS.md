@@ -2,41 +2,42 @@
 
 **Automated News Collection - Updated Daily**
 
-**Last Update:** 2026-03-31 09:23:43 UTC
+**Last Update:** 2026-04-01 09:25:42 UTC
 
 ---
 
-## 🔥 Latest Headlines (March 31, 2026)
+## 🔥 Latest Headlines (April 01, 2026)
 
 
 ### Hacker News
 
-- [ChatGPT won't let you type until Cloudflare reads your React state](https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/)
-- [Police used AI facial recognition to wrongly arrest TN woman for crimes in ND](https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition)
+- [Ollama is now powered by MLX on Apple Silicon in preview](https://ollama.com/blog/mlx)
+- [Microsoft: Copilot is for entertainment purposes only](https://www.microsoft.com/en-us/microsoft-copilot/for-individuals/termsofuse)
+- [OpenAI closes funding round at an $852B valuation](https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html)
 
 ### ArXiv
 
-- [Bitboard version of Tetris AI](https://arxiv.org/abs/2603.26765)
-- [Multiverse: Language-Conditioned Multi-Game Level Blending via Shared Representation](https://arxiv.org/abs/2603.26782)
-- [Concerning Uncertainty -- A Systematic Survey of Uncertainty-Aware XAI](https://arxiv.org/abs/2603.26838)
-- [Neuro-Symbolic Learning for Predictive Process Monitoring via Two-Stage Logic Tensor Networks with Rule Pruning](https://arxiv.org/abs/2603.26944)
-- [Compliance-Aware Predictive Process Monitoring: A Neuro-Symbolic Approach](https://arxiv.org/abs/2603.26948)
+- [ChartDiff: A Large-Scale Benchmark for Comprehending Pairs of Charts](https://arxiv.org/abs/2603.28902)
+- [Working Paper: Towards a Category-theoretic Comparative Framework for Artificial General Intelligence](https://arxiv.org/abs/2603.28906)
+- [Towards Computational Social Dynamics of Semi-Autonomous AI Agents](https://arxiv.org/abs/2603.28928)
+- [Enhancing Policy Learning with World-Action Model](https://arxiv.org/abs/2603.28955)
+- [Mimosa Framework: Toward Evolving Multi-Agent Systems for Scientific Research](https://arxiv.org/abs/2603.28986)
 
 ### TechCrunch
 
-- [Airbnb is introducing a private car pick-up service](https://techcrunch.com/2026/03/31/airbnb-private-car-pick-up-service-welcome-pickups/)
-- [Allbirds is selling for $39 million. It raised nearly 10 times that amount in its IPO.](https://techcrunch.com/2026/03/30/allbirds-is-selling-for-39-million-it-raised-nearly-10-times-that-amount-in-its-ipo/)
-- [15% of Americans say they’d be willing to work for an AI boss, according to new poll](https://techcrunch.com/2026/03/30/ai-work-boss-supervisor-us-quinnipiac-poll/)
-- [Popular AI gateway startup LiteLLM ditches controversial startup Delve](https://techcrunch.com/2026/03/30/popular-ai-gateway-startup-litellm-ditches-controversial-startup-delve/)
-- [Former Coatue partner raises huge $65M seed for enterprise AI agent startup](https://techcrunch.com/2026/03/30/former-coatue-partner-raises-huge-65m-seed-for-enterprise-ai-agent-startup/)
+- [Mercor says it was hit by cyberattack tied to compromise of open-source LiteLLM project](https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/)
+- [Anthropic is having a month](https://techcrunch.com/2026/03/31/anthropic-is-having-a-month/)
+- [Salesforce announces an AI-heavy makeover for Slack, with 30 new features](https://techcrunch.com/2026/03/31/salesforce-announces-an-ai-heavy-makeover-for-slack-with-30-new-features/)
+- [OpenAI, not yet public, raises $3B from retail investors in monster $122B fund raise](https://techcrunch.com/2026/03/31/openai-not-yet-public-raises-3b-from-retail-investors-in-monster-122b-fund-raise/)
+- [It’s not your imagination: AI seed startups are commanding higher valuations](https://techcrunch.com/2026/03/31/its-not-your-imagination-ai-seed-startups-are-commanding-higher-valuations/)
 
 ---
 
 ## 📊 Intelligence Summary
 
-- **Total Headlines Collected:** 12
+- **Total Headlines Collected:** 13
 - **Sources Active:** 3
-- **Collection Time:** 2026-03-31 09:23:43 UTC
+- **Collection Time:** 2026-04-01 09:25:42 UTC
 - **Status:** ✅ Operational
 
 ---
