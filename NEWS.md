@@ -2,19 +2,17 @@
 
 **Automated News Collection - Updated Daily**
 
-**Last Update:** 2026-04-02 09:21:38 UTC
+**Last Update:** 2026-04-03 09:18:43 UTC
 
 ---
 
-## 🔥 Latest Headlines (April 02, 2026)
+## 🔥 Latest Headlines (April 03, 2026)
 
 
 ### Hacker News
 
-- [Microsoft: Copilot is for entertainment purposes only](https://www.microsoft.com/en-us/microsoft-copilot/for-individuals/termsofuse)
-- [OpenAI closes funding round at an $852B valuation](https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html)
-- [Why the US Navy won't blast the Iranians and 'open' Strait of Hormuz](https://responsiblestatecraft.org/iran-strait-of-hormuz/)
-- [Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs](https://prismml.com/)
+- [Lemonade by AMD: a fast and open source local LLM server using GPU and NPU](https://lemonade-server.ai)
+- [Tailscale's new macOS home](https://tailscale.com/blog/macos-notch-escape)
 
 ### ArXiv
 
@@ -26,19 +24,19 @@
 
 ### TechCrunch
 
-- [Anthropic took down thousands of GitHub repos trying to yank its leaked source code — a move the company says was an accident](https://techcrunch.com/2026/04/01/anthropic-took-down-thousands-of-github-repos-trying-to-yank-its-leaked-source-code-a-move-the-company-says-was-an-accident/)
-- [‘System failure’ paralyzes Baidu robotaxis in China](https://techcrunch.com/2026/04/01/system-failure-paralyzes-baidu-robotaxis-in-china/)
-- [Apple releases security fix for older iPhones and iPads to protect against DarkSword attacks](https://techcrunch.com/2026/04/01/apple-releases-security-fix-for-older-iphones-and-ipads-to-protect-against-darksword-attacks/)
-- [Cognichip wants AI to design the chips that power AI, and just raised $60M to try](https://techcrunch.com/2026/04/01/cognichip-wants-ai-to-design-the-chips-that-power-ai-and-just-raised-60m-to-try/)
-- [Nothing’s AI devices plan reportedly contains smart glasses and earbuds](https://techcrunch.com/2026/04/01/nothings-ai-devices-plan-reportedly-contains-smart-glasses-and-earbuds/)
+- [OpenAI acquires TBPN, the buzzy founder-led business talk show](https://techcrunch.com/2026/04/02/openai-acquires-tbpn-the-buzzy-founder-led-business-talk-show/)
+- [ElevenLabs releases a new AI-powered music-generation app](https://techcrunch.com/2026/04/02/elevenlabs-releases-a-new-ai-powered-music-generation-app/)
+- [NASA astronauts prove that sending an email really is rocket science](https://techcrunch.com/2026/04/02/nasa-artemis-microsoft-outlook-astronauts/)
+- [Microsoft takes on AI rivals with three new foundational models](https://techcrunch.com/2026/04/02/microsoft-takes-on-ai-rivals-with-three-new-foundational-models/)
+- [United’s mobile app now shows TSA wait times at select airports](https://techcrunch.com/2026/04/02/uniteds-mobile-app-now-shows-tsa-wait-times-at-select-airports/)
 
 ---
 
 ## 📊 Intelligence Summary
 
-- **Total Headlines Collected:** 14
+- **Total Headlines Collected:** 12
 - **Sources Active:** 3
-- **Collection Time:** 2026-04-02 09:21:38 UTC
+- **Collection Time:** 2026-04-03 09:18:43 UTC
 - **Status:** ✅ Operational
 
 ---
