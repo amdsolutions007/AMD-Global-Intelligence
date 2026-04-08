@@ -2,41 +2,40 @@
 
 **Automated News Collection - Updated Daily**
 
-**Last Update:** 2026-04-07 09:24:38 UTC
+**Last Update:** 2026-04-08 09:24:30 UTC
 
 ---
 
-## 🔥 Latest Headlines (April 07, 2026)
+## 🔥 Latest Headlines (April 08, 2026)
 
 
 ### Hacker News
 
-- [Eight years of wanting, three months of building with AI](https://lalitm.com/post/building-syntaqlite-ai/)
-- [Show HN: I built a tiny LLM to demystify how language models work](https://github.com/arman-bd/guppylm)
+- [Project Glasswing: Securing critical software for the AI era](https://www.anthropic.com/glasswing)
 
 ### ArXiv
 
-- [IC3-Evolve: Proof-/Witness-Gated Offline LLM-Driven Heuristic Evolution for IC3 Hardware Model Checking](https://arxiv.org/abs/2604.03232)
-- [Structural Segmentation of the Minimum Set Cover Problem: Exploiting Universe Decomposability for Metaheuristic Optimization](https://arxiv.org/abs/2604.03234)
-- [To Throw a Stone with Six Birds: On Agents and Agenthood](https://arxiv.org/abs/2604.03239)
-- [Position: Science of AI Evaluation Requires Item-level Benchmark Data](https://arxiv.org/abs/2604.03244)
-- [Toward Full Autonomous Laboratory Instrumentation Control with Large Language Models](https://arxiv.org/abs/2604.03286)
+- [Pramana: Fine-Tuning Large Language Models for Epistemic Reasoning through Navya-Nyaya](https://arxiv.org/abs/2604.04937)
+- [Operational Noncommutativity in Sequential Metacognitive Judgments](https://arxiv.org/abs/2604.04938)
+- [Proximity Measure of Information Object Features for Solving the Problem of Their Identification in Information Systems](https://arxiv.org/abs/2604.04939)
+- [ReVEL: Multi-Turn Reflective LLM-Guided Heuristic Evolution via Structured Performance Feedback](https://arxiv.org/abs/2604.04940)
+- [Algebraic Structure Discovery for Real World Combinatorial Optimisation Problems: A General Framework from Abstract Algebra to Quotient Space Learning](https://arxiv.org/abs/2604.04941)
 
 ### TechCrunch
 
-- [AI startup Rocket offers vibe McKinsey-style reports at a fraction of the cost](https://techcrunch.com/2026/04/06/indian-startup-rocket-wants-its-ai-to-do-mckinsey-style-consulting-at-a-fraction-of-the-cost/)
-- [AI design platform Picsart launches a creator monetization program](https://techcrunch.com/2026/04/06/ai-design-platform-picsart-launches-a-creator-monetization-program/)
-- [OpenAI alums have been quietly investing from a new, potentially $100M fund](https://techcrunch.com/2026/04/06/openai-alums-have-been-quietly-investing-from-a-new-potentially-100m-fund/)
-- [Google quietly launched an AI dictation app that works offline](https://techcrunch.com/2026/04/06/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/)
-- [Iran threatens ‘Stargate’ AI data centers](https://techcrunch.com/2026/04/06/iran-threatens-stargate-ai-data-centers/)
+- [Google quietly launched an AI dictation app that works offline](https://techcrunch.com/2026/04/07/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/)
+- [I can’t help rooting for tiny open source AI model maker Arcee](https://techcrunch.com/2026/04/07/i-cant-help-rooting-for-tiny-open-source-ai-model-maker-arcee/)
+- [VC Eclipse has a new $1.3B fund to back — and build — ‘physical AI’ startups](https://techcrunch.com/2026/04/07/vc-eclipse-has-a-new-1-3b-to-back-and-build-physical-ai-startups/)
+- [Firmus, the ‘Southgate’ AI data center builder backed by Nvidia, hits $5.5B valuation](https://techcrunch.com/2026/04/07/firmus-the-southgate-ai-datacenter-builder-backed-by-nvidia-hits-5-5b-valuation/)
+- [Anthropic debuts preview of powerful new AI model Mythos in new cybersecurity initiative](https://techcrunch.com/2026/04/07/anthropic-mythos-ai-model-preview-security/)
 
 ---
 
 ## 📊 Intelligence Summary
 
-- **Total Headlines Collected:** 12
+- **Total Headlines Collected:** 11
 - **Sources Active:** 3
-- **Collection Time:** 2026-04-07 09:24:38 UTC
+- **Collection Time:** 2026-04-08 09:24:30 UTC
 - **Status:** ✅ Operational
 
 ---
