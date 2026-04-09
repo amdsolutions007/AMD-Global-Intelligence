@@ -2,11 +2,11 @@
 
 **Automated News Collection - Updated Daily**
 
-**Last Update:** 2026-04-08 09:24:30 UTC
+**Last Update:** 2026-04-09 09:27:31 UTC
 
 ---
 
-## 🔥 Latest Headlines (April 08, 2026)
+## 🔥 Latest Headlines (April 09, 2026)
 
 
 ### Hacker News
@@ -15,19 +15,19 @@
 
 ### ArXiv
 
-- [Pramana: Fine-Tuning Large Language Models for Epistemic Reasoning through Navya-Nyaya](https://arxiv.org/abs/2604.04937)
-- [Operational Noncommutativity in Sequential Metacognitive Judgments](https://arxiv.org/abs/2604.04938)
-- [Proximity Measure of Information Object Features for Solving the Problem of Their Identification in Information Systems](https://arxiv.org/abs/2604.04939)
-- [ReVEL: Multi-Turn Reflective LLM-Guided Heuristic Evolution via Structured Performance Feedback](https://arxiv.org/abs/2604.04940)
-- [Algebraic Structure Discovery for Real World Combinatorial Optimisation Problems: A General Framework from Abstract Algebra to Quotient Space Learning](https://arxiv.org/abs/2604.04941)
+- [High-Precision Estimation of the State-Space Complexity of Shogi via the Monte Carlo Method](https://arxiv.org/abs/2604.06189)
+- [Blind Refusal: Language Models Refuse to Help Users Evade Unjust, Absurd, and Illegitimate Rules](https://arxiv.org/abs/2604.06233)
+- [Toward Reducing Unproductive Container Moves: Predicting Service Requirements and Dwell Times](https://arxiv.org/abs/2604.06251)
+- [Weakly Supervised Distillation of Hallucination Signals into Transformer Representations](https://arxiv.org/abs/2604.06277)
+- [SymptomWise: A Deterministic Reasoning Layer for Reliable and Efficient AI Systems](https://arxiv.org/abs/2604.06375)
 
 ### TechCrunch
 
-- [Google quietly launched an AI dictation app that works offline](https://techcrunch.com/2026/04/07/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/)
-- [I can’t help rooting for tiny open source AI model maker Arcee](https://techcrunch.com/2026/04/07/i-cant-help-rooting-for-tiny-open-source-ai-model-maker-arcee/)
-- [VC Eclipse has a new $1.3B fund to back — and build — ‘physical AI’ startups](https://techcrunch.com/2026/04/07/vc-eclipse-has-a-new-1-3b-to-back-and-build-physical-ai-startups/)
-- [Firmus, the ‘Southgate’ AI data center builder backed by Nvidia, hits $5.5B valuation](https://techcrunch.com/2026/04/07/firmus-the-southgate-ai-datacenter-builder-backed-by-nvidia-hits-5-5b-valuation/)
-- [Anthropic debuts preview of powerful new AI model Mythos in new cybersecurity initiative](https://techcrunch.com/2026/04/07/anthropic-mythos-ai-model-preview-security/)
+- [Poke makes using AI agents as easy as sending a text](https://techcrunch.com/2026/04/08/poke-makes-ai-agents-as-easy-as-sending-a-text/)
+- [Canva doubles down on AI and marketing automation with Simtheory, Ortto acquisitions](https://techcrunch.com/2026/04/08/canva-doubles-down-on-ai-and-marketing-automation-with-simtheory-ortto-acquisitions/)
+- [AWS boss explains why investing billions in both Anthropic and OpenAI is an OK conflict](https://techcrunch.com/2026/04/08/aws-boss-explains-why-investing-billions-in-both-anthropic-and-openai-is-an-ok-conflict/)
+- [Meta debuts the Muse Spark model in a ‘ground-up overhaul’ of its AI](https://techcrunch.com/2026/04/08/meta-debuts-the-muse-spark-model-in-a-ground-up-overhaul-of-its-ai/)
+- [Tubi is the first streamer to launch a native app within ChatGPT](https://techcrunch.com/2026/04/08/tubi-is-the-first-streamer-to-launch-a-native-app-within-chatgpt/)
 
 ---
 
@@ -35,7 +35,7 @@
 
 - **Total Headlines Collected:** 11
 - **Sources Active:** 3
-- **Collection Time:** 2026-04-08 09:24:30 UTC
+- **Collection Time:** 2026-04-09 09:27:31 UTC
 - **Status:** ✅ Operational
 
 ---
