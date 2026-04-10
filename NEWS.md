@@ -2,16 +2,17 @@
 
 **Automated News Collection - Updated Daily**
 
-**Last Update:** 2026-04-09 09:27:31 UTC
+**Last Update:** 2026-04-10 09:27:07 UTC
 
 ---
 
-## 🔥 Latest Headlines (April 09, 2026)
+## 🔥 Latest Headlines (April 10, 2026)
 
 
 ### Hacker News
 
-- [Project Glasswing: Securing critical software for the AI era](https://www.anthropic.com/glasswing)
+- [ML promises to be profoundly weird](https://aphyr.com/posts/411-the-future-of-everything-is-lies-i-guess)
+- [Claude mixes up who said what](https://dwyer.co.za/static/claude-mixes-up-who-said-what-and-thats-not-ok.html)
 
 ### ArXiv
 
@@ -23,19 +24,19 @@
 
 ### TechCrunch
 
-- [Poke makes using AI agents as easy as sending a text](https://techcrunch.com/2026/04/08/poke-makes-ai-agents-as-easy-as-sending-a-text/)
-- [Canva doubles down on AI and marketing automation with Simtheory, Ortto acquisitions](https://techcrunch.com/2026/04/08/canva-doubles-down-on-ai-and-marketing-automation-with-simtheory-ortto-acquisitions/)
-- [AWS boss explains why investing billions in both Anthropic and OpenAI is an OK conflict](https://techcrunch.com/2026/04/08/aws-boss-explains-why-investing-billions-in-both-anthropic-and-openai-is-an-ok-conflict/)
-- [Meta debuts the Muse Spark model in a ‘ground-up overhaul’ of its AI](https://techcrunch.com/2026/04/08/meta-debuts-the-muse-spark-model-in-a-ground-up-overhaul-of-its-ai/)
-- [Tubi is the first streamer to launch a native app within ChatGPT](https://techcrunch.com/2026/04/08/tubi-is-the-first-streamer-to-launch-a-native-app-within-chatgpt/)
+- [Florida AG to probe OpenAI, alleging possible connection to FSU shooting](https://techcrunch.com/2026/04/09/florida-ag-to-probe-openai-alleging-possible-connection-to-fsu-shooting/)
+- [ChatGPT finally offers $100/month Pro plan](https://techcrunch.com/2026/04/09/chatgpt-pro-plan-100-month-codex/)
+- [Florida AG announces investigation into OpenAI over shooting that allegedly involved ChatGPT](https://techcrunch.com/2026/04/09/florida-ag-investigation-openai-chatgpt-shooting/)
+- [Meta AI app climbs to No. 5 on the App Store after Muse Spark launch](https://techcrunch.com/2026/04/09/meta-ai-app-climbs-to-no-5-on-the-app-store-after-muse-spark-launch/)
+- [Is Anthropic limiting the release of Mythos to protect the internet — or Anthropic?](https://techcrunch.com/2026/04/09/is-anthropic-limiting-the-release-of-mythos-to-protect-the-internet-or-anthropic/)
 
 ---
 
 ## 📊 Intelligence Summary
 
-- **Total Headlines Collected:** 11
+- **Total Headlines Collected:** 12
 - **Sources Active:** 3
-- **Collection Time:** 2026-04-09 09:27:31 UTC
+- **Collection Time:** 2026-04-10 09:27:07 UTC
 - **Status:** ✅ Operational
 
 ---
