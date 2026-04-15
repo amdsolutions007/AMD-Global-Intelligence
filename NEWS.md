@@ -2,42 +2,40 @@
 
 **Automated News Collection - Updated Daily**
 
-**Last Update:** 2026-04-14 09:32:02 UTC
+**Last Update:** 2026-04-15 09:32:01 UTC
 
 ---
 
-## 🔥 Latest Headlines (April 14, 2026)
+## 🔥 Latest Headlines (April 15, 2026)
 
 
 ### Hacker News
 
-- [Tell HN: Docker pull fails in Spain due to football Cloudflare block](https://news.ycombinator.com/item?id=47738883)
 - [Servo is now available on crates.io](https://servo.org/blog/2026/04/13/servo-0.1.0-release/)
-- [Apple's accidental moat: How the "AI Loser" may end up winning](https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end)
 
 ### ArXiv
 
-- [LABBench2: An Improved Benchmark for AI Systems Performing Biology Research](https://arxiv.org/abs/2604.09554)
-- [Linear Programming for Multi-Criteria Assessment with Cardinal and Ordinal Data: A Pessimistic Virtual Gap Analysis](https://arxiv.org/abs/2604.09555)
-- [Seven simple steps for log analysis in AI systems](https://arxiv.org/abs/2604.09563)
-- [Turing Test on Screen: A Benchmark for Mobile GUI Agent Humanization](https://arxiv.org/abs/2604.09574)
-- [AHC: Meta-Learned Adaptive Compression for Continual Object Detection on Memory-Constrained Microcontrollers](https://arxiv.org/abs/2604.09576)
+- [The Non-Optimality of Scientific Knowledge: Path Dependence, Lock-In, and The Local Minimum Trap](https://arxiv.org/abs/2604.11828)
+- [Self-Monitoring Benefits from Structural Integration: Lessons from Metacognition in Continuous-Time Multi-Timescale Agents](https://arxiv.org/abs/2604.11914)
+- [GoodPoint: Learning Constructive Scientific Paper Feedback from Author Responses](https://arxiv.org/abs/2604.11924)
+- [Narrative-Driven Paper-to-Slide Generation via ArcDeck](https://arxiv.org/abs/2604.11969)
+- [The Long-Horizon Task Mirage? Diagnosing Where and Why Agentic Systems Break](https://arxiv.org/abs/2604.11978)
 
 ### TechCrunch
 
-- [OpenAI has bought AI personal finance startup Hiro](https://techcrunch.com/2026/04/13/openai-has-bought-ai-personal-finance-startup-hiro/)
-- [Stanford report highlights growing disconnect between AI insiders and everyone else](https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/)
-- [Vercel CEO Guillermo Rauch signals IPO readiness as AI agents fuel revenue surge](https://techcrunch.com/2026/04/13/vercel-ceo-guillermo-rauch-signals-ipo-readiness-as-ai-agents-fuel-revenue-surge/)
-- [Slate Auto raises $650M to fund its affordable EV truck plans](https://techcrunch.com/2026/04/13/slate-auto-raises-650m-to-fund-its-affordable-ev-truck-plans/)
-- [Trump officials may be encouraging banks to test Anthropic’s Mythos model](https://techcrunch.com/2026/04/12/trump-officials-may-be-encouraging-banks-to-test-anthropics-mythos-model/)
+- [Anthropic’s rise is giving some OpenAI investors second thoughts](https://techcrunch.com/2026/04/14/anthropics-rise-is-giving-some-openai-investors-second-thoughts/)
+- [AI data center startup Fluidstack in talks for $1B round at $18B valuation months after hitting $7.5B, says report](https://techcrunch.com/2026/04/14/ai-datacenter-startup-fluidstack-in-talks-for-1b-round-at-18b-valuation-months-after-hitting-7-5b-says-report/)
+- [Anthropic co-founder confirms the company briefed the Trump administration on Mythos](https://techcrunch.com/2026/04/14/anthropic-co-founder-confirms-the-company-briefed-the-trump-administration-on-mythos/)
+- [Max Hodak’s Science Corp. is preparing to place its first sensor in a human brain](https://techcrunch.com/2026/04/14/max-hodaks-science-corp-is-preparing-to-place-its-first-sensor-in-a-human-brain/)
+- [Google adds AI Skills to Chrome to help you save favorite workflows](https://techcrunch.com/2026/04/14/google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows/)
 
 ---
 
 ## 📊 Intelligence Summary
 
-- **Total Headlines Collected:** 13
+- **Total Headlines Collected:** 11
 - **Sources Active:** 3
-- **Collection Time:** 2026-04-14 09:32:02 UTC
+- **Collection Time:** 2026-04-15 09:32:01 UTC
 - **Status:** ✅ Operational
 
 ---
