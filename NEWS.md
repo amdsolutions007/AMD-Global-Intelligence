@@ -2,33 +2,33 @@
 
 **Automated News Collection - Updated Daily**
 
-**Last Update:** 2026-04-16 09:31:37 UTC
+**Last Update:** 2026-04-17 09:31:24 UTC
 
 ---
 
-## 🔥 Latest Headlines (April 16, 2026)
+## 🔥 Latest Headlines (April 17, 2026)
 
 
 ### Hacker News
 
 - [The local LLM ecosystem doesn’t need Ollama](https://sleepingrobots.com/dreams/stop-using-ollama/)
-- [Spain to expand internet blocks to tennis, golf, movies broadcasting times](https://bandaancha.eu/articulos/telefonica-consigue-bloqueos-ips-11731)
+- [Cloudflare Email Service](https://blog.cloudflare.com/email-for-agents/)
 
 ### ArXiv
 
-- [The Non-Optimality of Scientific Knowledge: Path Dependence, Lock-In, and The Local Minimum Trap](https://arxiv.org/abs/2604.11828)
-- [Self-Monitoring Benefits from Structural Integration: Lessons from Metacognition in Continuous-Time Multi-Timescale Agents](https://arxiv.org/abs/2604.11914)
-- [GoodPoint: Learning Constructive Scientific Paper Feedback from Author Responses](https://arxiv.org/abs/2604.11924)
-- [Narrative-Driven Paper-to-Slide Generation via ArcDeck](https://arxiv.org/abs/2604.11969)
-- [The Long-Horizon Task Mirage? Diagnosing Where and Why Agentic Systems Break](https://arxiv.org/abs/2604.11978)
+- [Exploration and Exploitation Errors Are Measurable for Language Model Agents](https://arxiv.org/abs/2604.13151)
+- [SciFi: A Safe, Lightweight, User-Friendly, and Fully Autonomous Agentic AI Workflow for Scientific Applications](https://arxiv.org/abs/2604.13180)
+- [Numerical Instability and Chaos: Quantifying the Unpredictability of Large Language Models](https://arxiv.org/abs/2604.13206)
+- [Optimizing Earth Observation Satellite Schedules under Unknown Operational Constraints: An Active Constraint Acquisition Approach](https://arxiv.org/abs/2604.13283)
+- [WebXSkill: Skill Learning for Autonomous Web Agents](https://arxiv.org/abs/2604.13318)
 
 ### TechCrunch
 
-- [Amazon-backed X-energy files to raise up to $800M in IPO](https://techcrunch.com/2026/04/15/amazon-backed-x-energy-files-to-raise-up-to-800m-in-ipo/)
-- [Wait, could they still actually break up Live Nation?](https://techcrunch.com/2026/04/15/wait-could-they-still-actually-break-up-live-nation/)
-- [OpenAI updates its Agents SDK to help enterprises build safer, more capable agents](https://techcrunch.com/2026/04/15/openai-updates-its-agents-sdk-to-help-enterprises-build-safer-more-capable-agents/)
-- [Hightouch reaches $100M ARR fueled by marketing tools powered by AI](https://techcrunch.com/2026/04/15/hightouch-reaches-100m-arr-fueled-by-marketing-tools-powered-by-ai/)
-- [LinkedIn data shows AI isn’t to blame for hiring decline… yet](https://techcrunch.com/2026/04/15/linkedin-data-shows-ai-isnt-to-blame-for-hiring-decline-yet/)
+- [New leaders, new fund: Sequoia has raised $7B to expand its AI bets](https://techcrunch.com/2026/04/16/new-leaders-new-fund-sequoia-has-raised-7b-to-expand-its-ai-bets/)
+- [Factory hits $1.5B valuation to build AI coding for enterprises](https://techcrunch.com/2026/04/16/factory-hits-1-5b-valuation-to-build-ai-coding-for-enterprises/)
+- [Luma launches AI-powered production studio with faith-focused Wonder Project](https://techcrunch.com/2026/04/16/luma-launches-ai-powered-production-studio-with-faith-focused-wonder-project/)
+- [Netflix co-founder and chair Reed Hastings to leave board](https://techcrunch.com/2026/04/16/netflix-co-founder-and-chair-reed-hastings-to-leave-board/)
+- [Upscale AI in talks to raise at $2B valuation, says report](https://techcrunch.com/2026/04/16/upscale-ai-in-talks-to-raise-at-2b-valuation-says-report/)
 
 ---
 
@@ -36,7 +36,7 @@
 
 - **Total Headlines Collected:** 12
 - **Sources Active:** 3
-- **Collection Time:** 2026-04-16 09:31:37 UTC
+- **Collection Time:** 2026-04-17 09:31:24 UTC
 - **Status:** ✅ Operational
 
 ---
