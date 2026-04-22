@@ -2,43 +2,44 @@
 
 **Automated News Collection - Updated Daily**
 
-**Last Update:** 2026-04-21 09:32:34 UTC
+**Last Update:** 2026-04-22 09:32:00 UTC
 
 ---
 
-## 🔥 Latest Headlines (April 21, 2026)
+## 🔥 Latest Headlines (April 22, 2026)
 
 
 ### Hacker News
 
+- [ChatGPT Images 2.0](https://openai.com/index/introducing-chatgpt-images-2-0/)
 - [Atlassian enables default data collection to train AI](https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8)
-- [NSA is using Anthropic's Mythos despite blacklist](https://www.axios.com/2026/04/19/nsa-anthropic-mythos-pentagon)
-- [Notion leaks email addresses of all editors of any public page](https://twitter.com/weezerOSINT/status/2045849358462222720)
-- [AI Resistance: some recent anti-AI stuff that’s worth discussing](https://stephvee.ca/blog/artificial%20intelligence/ai-resistance-is-growing/)
+- [Claude Code to be removed from Anthropic's Pro plan?](https://bsky.app/profile/edzitron.com/post/3mjzxwfx3qs2a)
+- [Meta to start capturing employee mouse movements, keystrokes for AI training](https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/)
+- [Anthropic says OpenClaw-style Claude CLI usage is allowed again](https://docs.openclaw.ai/providers/anthropic)
 
 ### ArXiv
 
-- [DeepER-Med: Advancing Deep Evidence-Based Research in Medicine Through Agentic AI](https://arxiv.org/abs/2604.15456)
-- [GIST: Multimodal Knowledge Extraction and Spatial Grounding via Intelligent Semantic Topology](https://arxiv.org/abs/2604.15495)
-- [Bureaucratic Silences: What the Canadian AI Register Reveals, Omits, and Obscures](https://arxiv.org/abs/2604.15514)
-- [LACE: Lattice Attention for Cross-thread Exploration](https://arxiv.org/abs/2604.15529)
-- [Preregistered Belief Revision Contracts](https://arxiv.org/abs/2604.15558)
+- [On Solving the Multiple Variable Gapped Longest Common Subsequence Problem](https://arxiv.org/abs/2604.18645)
+- [Beyond One Output: Visualizing and Comparing Distributions of Language Model Generations](https://arxiv.org/abs/2604.18724)
+- [ARES: Adaptive Red-Teaming and End-to-End Repair of Policy-Reward System](https://arxiv.org/abs/2604.18789)
+- [AI scientists produce results without reasoning scientifically](https://arxiv.org/abs/2604.18805)
+- [Quantum inspired qubit qutrit neural networks for real time financial forecasting](https://arxiv.org/abs/2604.18838)
 
 ### TechCrunch
 
-- [Anthropic takes $5B from Amazon and pledges $100B in cloud spending in return](https://techcrunch.com/2026/04/20/anthropic-takes-5b-from-amazon-and-pledges-100b-in-cloud-spending-in-return/)
-- [NSA spies are reportedly using Anthropic’s Mythos, despite Pentagon feud](https://techcrunch.com/2026/04/20/nsa-spies-are-reportedly-using-anthropics-mythos-despite-pentagon-feud/)
-- [WhatsApp is testing a premium subscription, but it is mainly cosmetic](https://techcrunch.com/2026/04/20/whatsapp-is-testing-a-premium-subscription-put-it-is-mainly-cosmetic/)
-- [CEO and CFO suddenly depart AI nuclear power upstart Fermi](https://techcrunch.com/2026/04/20/fermi-ceo-and-cfo-depart-texas-nuclear-power-ai/)
-- [Deezer says 44% of songs uploaded to its platform daily are AI-generated](https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/)
+- [Meta will record employees’ keystrokes and use it to train its AI models](https://techcrunch.com/2026/04/21/meta-will-record-employees-keystrokes-and-use-it-to-train-its-ai-models/)
+- [Unauthorized group has gained access to Anthropic’s exclusive cyber tool Mythos, report claims](https://techcrunch.com/2026/04/21/unauthorized-group-has-gained-access-to-anthropics-exclusive-cyber-tool-mythos-report-claims/)
+- [AI research lab NeoCognition lands $40M seed to build agents that learn like humans](https://techcrunch.com/2026/04/21/ai-research-lab-neocognition-lands-40m-seed-to-build-agents-that-learn-like-humans/)
+- [Apple’s Cal AI crackdown signals it’s still policing the App Store](https://techcrunch.com/2026/04/21/apples-cal-ai-crackdown-signals-its-still-policing-the-app-store/)
+- [ChatGPT’s new Images 2.0 model is surprisingly good at generating text](https://techcrunch.com/2026/04/21/chatgpts-new-images-2-0-model-is-surprisingly-good-at-generating-text/)
 
 ---
 
 ## 📊 Intelligence Summary
 
-- **Total Headlines Collected:** 14
+- **Total Headlines Collected:** 15
 - **Sources Active:** 3
-- **Collection Time:** 2026-04-21 09:32:34 UTC
+- **Collection Time:** 2026-04-22 09:32:00 UTC
 - **Status:** ✅ Operational
 
 ---
