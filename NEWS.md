@@ -2,44 +2,42 @@
 
 **Automated News Collection - Updated Daily**
 
-**Last Update:** 2026-04-22 09:32:00 UTC
+**Last Update:** 2026-04-23 09:33:15 UTC
 
 ---
 
-## 🔥 Latest Headlines (April 22, 2026)
+## 🔥 Latest Headlines (April 23, 2026)
 
 
 ### Hacker News
 
 - [ChatGPT Images 2.0](https://openai.com/index/introducing-chatgpt-images-2-0/)
-- [Atlassian enables default data collection to train AI](https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8)
-- [Claude Code to be removed from Anthropic's Pro plan?](https://bsky.app/profile/edzitron.com/post/3mjzxwfx3qs2a)
 - [Meta to start capturing employee mouse movements, keystrokes for AI training](https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/)
-- [Anthropic says OpenClaw-style Claude CLI usage is allowed again](https://docs.openclaw.ai/providers/anthropic)
+- [Claude Code to be removed from Anthropic's Pro plan?](https://bsky.app/profile/edzitron.com/post/3mjzxwfx3qs2a)
 
 ### ArXiv
 
-- [On Solving the Multiple Variable Gapped Longest Common Subsequence Problem](https://arxiv.org/abs/2604.18645)
-- [Beyond One Output: Visualizing and Comparing Distributions of Language Model Generations](https://arxiv.org/abs/2604.18724)
-- [ARES: Adaptive Red-Teaming and End-to-End Repair of Policy-Reward System](https://arxiv.org/abs/2604.18789)
-- [AI scientists produce results without reasoning scientifically](https://arxiv.org/abs/2604.18805)
-- [Quantum inspired qubit qutrit neural networks for real time financial forecasting](https://arxiv.org/abs/2604.18838)
+- [The Tool-Overuse Illusion: Why Does LLM Prefer External Tools over Internal Knowledge?](https://arxiv.org/abs/2604.19749)
+- [AI to Learn 2.0: A Deliverable-Oriented Governance Framework and Maturity Rubric for Opaque AI in Learning-Intensive Domains](https://arxiv.org/abs/2604.19751)
+- [Algorithm Selection with Zero Domain Knowledge via Text Embeddings](https://arxiv.org/abs/2604.19753)
+- [Exploring Data Augmentation and Resampling Strategies for Transformer-Based Models to Address Class Imbalance in AI Scoring of Scientific Explanations in NGSS Classroom](https://arxiv.org/abs/2604.19754)
+- [Explainable AML Triage with LLMs: Evidence Retrieval and Counterfactual Checks](https://arxiv.org/abs/2604.19755)
 
 ### TechCrunch
 
-- [Meta will record employees’ keystrokes and use it to train its AI models](https://techcrunch.com/2026/04/21/meta-will-record-employees-keystrokes-and-use-it-to-train-its-ai-models/)
-- [Unauthorized group has gained access to Anthropic’s exclusive cyber tool Mythos, report claims](https://techcrunch.com/2026/04/21/unauthorized-group-has-gained-access-to-anthropics-exclusive-cyber-tool-mythos-report-claims/)
-- [AI research lab NeoCognition lands $40M seed to build agents that learn like humans](https://techcrunch.com/2026/04/21/ai-research-lab-neocognition-lands-40m-seed-to-build-agents-that-learn-like-humans/)
-- [Apple’s Cal AI crackdown signals it’s still policing the App Store](https://techcrunch.com/2026/04/21/apples-cal-ai-crackdown-signals-its-still-policing-the-app-store/)
-- [ChatGPT’s new Images 2.0 model is surprisingly good at generating text](https://techcrunch.com/2026/04/21/chatgpts-new-images-2-0-model-is-surprisingly-good-at-generating-text/)
+- [India’s app market is booming — but global platforms are capturing most of the gains](https://techcrunch.com/2026/04/22/indias-app-market-is-booming-but-global-platforms-are-capturing-most-of-the-gains/)
+- [Shade lands $14M to let creative teams search their video libraries in plain English](https://techcrunch.com/2026/04/22/shade-lands-14m-to-let-creative-teams-search-their-video-libraries-in-plain-english/)
+- [Google updates Workspace to make AI your new office intern](https://techcrunch.com/2026/04/22/google-updates-workspace-to-make-ai-your-new-office-intern/)
+- [Hands on with X’s new AI-powered custom feeds](https://techcrunch.com/2026/04/22/hands-on-with-xs-new-ai-powered-custom-feeds/)
+- [How SpaceX preempted a $2B fundraise with a $60B buyout offer](https://techcrunch.com/2026/04/22/how-spacex-preempted-a-2b-fundraise-with-a-60b-buyout-offer/)
 
 ---
 
 ## 📊 Intelligence Summary
 
-- **Total Headlines Collected:** 15
+- **Total Headlines Collected:** 13
 - **Sources Active:** 3
-- **Collection Time:** 2026-04-22 09:32:00 UTC
+- **Collection Time:** 2026-04-23 09:33:15 UTC
 - **Status:** ✅ Operational
 
 ---
