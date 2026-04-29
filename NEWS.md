@@ -2,20 +2,20 @@
 
 **Automated News Collection - Updated Daily**
 
-**Last Update:** 2026-04-28 09:46:57 UTC
+**Last Update:** 2026-04-29 09:41:50 UTC
 
 ---
 
-## 🔥 Latest Headlines (April 28, 2026)
+## 🔥 Latest Headlines (April 29, 2026)
 
 
 ### Hacker News
 
 - [Microsoft and OpenAI end their exclusive and revenue-sharing deal](https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai)
-- [AI should elevate your thinking, not replace it](https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/)
-- [An AI agent deleted our production database. The agent's confession is below](https://twitter.com/lifeof_jer/status/2048103471019434248)
-- [GoDaddy gave a domain to a stranger without any documentation](https://anchor.host/godaddy-gave-a-domain-to-a-stranger-without-any-documentation/)
+- [Localsend: An open-source cross-platform alternative to AirDrop](https://github.com/localsend/localsend)
 - [4TB of voice samples just stolen from 40k AI contractors at Mercor](https://app.oravys.com/blog/mercor-breach-2026)
+- [Pgbackrest is no longer being maintained](https://github.com/pgbackrest/pgbackrest)
+- [An update on GitHub availability](https://github.blog/news-insights/company-news/an-update-on-github-availability/)
 
 ### ArXiv
 
@@ -27,18 +27,19 @@
 
 ### TechCrunch
 
-- [OpenAI ends Microsoft legal peril over its $50B Amazon deal](https://techcrunch.com/2026/04/27/openai-ends-microsoft-legal-peril-over-its-50b-amazon-deal/)
-- [DeepMind’s David Silver just raised $1.1B to build an AI that learns without human data](https://techcrunch.com/2026/04/27/deepminds-david-silver-just-raised-1-1b-to-build-an-ai-that-learns-without-human-data/)
-- [Investors back Skye’s AI home screen app for iPhone ahead of launch](https://techcrunch.com/2026/04/27/investors-back-skye-signull-labs-ai-home-screen-app-for-iphone-ahead-of-launch/)
-- [OpenAI could be making a phone with AI agents replacing apps](https://techcrunch.com/2026/04/27/openai-could-be-making-a-phone-with-ai-agents-replacing-apps/)
+- [At his OpenAI trial, Musk relitigates an old friendship](https://techcrunch.com/2026/04/28/at-his-openai-trial-musk-relitigates-an-old-friendship/)
+- [Amazon is already offering new OpenAI products on AWS](https://techcrunch.com/2026/04/28/amazon-is-already-offering-new-openai-products-on-aws/)
+- [Amazon launches an AI-powered audio Q&A experience on product pages](https://techcrunch.com/2026/04/28/amazon-launches-an-ai-powered-audio-qa-experience-on-product-pages/)
+- [Google expands Pentagon’s access to its AI after Anthropic’s refusal](https://techcrunch.com/2026/04/28/google-expands-pentagons-access-to-its-ai-after-anthropics-refusal/)
+- [Snapchat brings AI-powered conversational advertising to its app](https://techcrunch.com/2026/04/28/snapchat-brings-ai-powered-conversational-advertising-to-its-app/)
 
 ---
 
 ## 📊 Intelligence Summary
 
-- **Total Headlines Collected:** 14
+- **Total Headlines Collected:** 15
 - **Sources Active:** 3
-- **Collection Time:** 2026-04-28 09:46:57 UTC
+- **Collection Time:** 2026-04-29 09:41:50 UTC
 - **Status:** ✅ Operational
 
 ---
