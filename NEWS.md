@@ -2,44 +2,42 @@
 
 **Automated News Collection - Updated Daily**
 
-**Last Update:** 2026-04-29 09:41:50 UTC
+**Last Update:** 2026-04-30 09:41:13 UTC
 
 ---
 
-## 🔥 Latest Headlines (April 29, 2026)
+## 🔥 Latest Headlines (April 30, 2026)
 
 
 ### Hacker News
 
-- [Microsoft and OpenAI end their exclusive and revenue-sharing deal](https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai)
+- [Copy Fail](https://copy.fail/)
 - [Localsend: An open-source cross-platform alternative to AirDrop](https://github.com/localsend/localsend)
-- [4TB of voice samples just stolen from 40k AI contractors at Mercor](https://app.oravys.com/blog/mercor-breach-2026)
-- [Pgbackrest is no longer being maintained](https://github.com/pgbackrest/pgbackrest)
-- [An update on GitHub availability](https://github.blog/news-insights/company-news/an-update-on-github-availability/)
+- [How ChatGPT serves ads](https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/)
 
 ### ArXiv
 
-- [An Intelligent Fault Diagnosis Method for General Aviation Aircraft Based on Multi-Fidelity Digital Twin and FMEA Knowledge Enhancement](https://arxiv.org/abs/2604.22777)
-- [PExA: Parallel Exploration Agent for Complex Text-to-SQL](https://arxiv.org/abs/2604.22934)
-- [The Power of Power Law: Asymmetry Enables Compositional Reasoning](https://arxiv.org/abs/2604.22951)
-- [On the Existence of an Inverse Solution for Preference-Based Reductions in Argumentation](https://arxiv.org/abs/2604.22958)
-- [Towards Causally Interpretable Wi-Fi CSI-Based Human Activity Recognition with Discrete Latent Compression and LTL Rule Extraction](https://arxiv.org/abs/2604.22979)
+- [Operating-Layer Controls for Onchain Language-Model Agents Under Real Capital](https://arxiv.org/abs/2604.26091)
+- [Distill-Belief: Closed-Loop Inverse Source Localization and Characterization in Physical Fields](https://arxiv.org/abs/2604.26095)
+- [Evaluating Strategic Reasoning in Forecasting Agents](https://arxiv.org/abs/2604.26106)
+- [Hierarchical Multi-Persona Induction from User Behavioral Logs: Learning Evidence-Grounded and Truthful Personas](https://arxiv.org/abs/2604.26120)
+- [OMEGA: Optimizing Machine Learning by Evaluating Generated Algorithms](https://arxiv.org/abs/2604.26211)
 
 ### TechCrunch
 
-- [At his OpenAI trial, Musk relitigates an old friendship](https://techcrunch.com/2026/04/28/at-his-openai-trial-musk-relitigates-an-old-friendship/)
-- [Amazon is already offering new OpenAI products on AWS](https://techcrunch.com/2026/04/28/amazon-is-already-offering-new-openai-products-on-aws/)
-- [Amazon launches an AI-powered audio Q&A experience on product pages](https://techcrunch.com/2026/04/28/amazon-launches-an-ai-powered-audio-qa-experience-on-product-pages/)
-- [Google expands Pentagon’s access to its AI after Anthropic’s refusal](https://techcrunch.com/2026/04/28/google-expands-pentagons-access-to-its-ai-after-anthropics-refusal/)
-- [Snapchat brings AI-powered conversational advertising to its app](https://techcrunch.com/2026/04/28/snapchat-brings-ai-powered-conversational-advertising-to-its-app/)
+- [Sources: Anthropic could raise a new $50B round at a valuation of $900B](https://techcrunch.com/2026/04/29/sources-anthropic-could-raise-a-new-50b-round-at-a-valuation-of-900b/)
+- [Satya Nadella says he’s ready to ‘exploit’ the new OpenAI deal](https://techcrunch.com/2026/04/29/satya-nadella-says-hes-ready-to-exploit-the-new-openai-deal/)
+- [Microsoft says it has over 20M paid Copilot users, and they really are using it](https://techcrunch.com/2026/04/29/microsoft-says-it-has-over-20m-paid-copilot-users-and-they-really-are-using-it/)
+- [Google Cloud surpasses $20B, but says growth was capacity-constrained](https://techcrunch.com/2026/04/29/google-cloud-surpasses-20b-but-says-growth-was-capacity-constrained/)
+- [Google gains 25M subscriptions in Q1, driven by YouTube and Google One](https://techcrunch.com/2026/04/29/google-gains-25m-subscriptions-in-q1-driven-by-youtube-and-google-one/)
 
 ---
 
 ## 📊 Intelligence Summary
 
-- **Total Headlines Collected:** 15
+- **Total Headlines Collected:** 13
 - **Sources Active:** 3
-- **Collection Time:** 2026-04-29 09:41:50 UTC
+- **Collection Time:** 2026-04-30 09:41:13 UTC
 - **Status:** ✅ Operational
 
 ---
