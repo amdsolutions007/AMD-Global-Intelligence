@@ -2,41 +2,34 @@
 
 **Automated News Collection - Updated Daily**
 
-**Last Update:** 2026-05-01 09:33:12 UTC
+**Last Update:** 2026-05-02 09:55:03 UTC
 
 ---
 
-## 🔥 Latest Headlines (May 01, 2026)
+## 🔥 Latest Headlines (May 02, 2026)
 
 
 ### Hacker News
 
-- [Copy Fail](https://copy.fail/)
-- [The Zig project's rationale for their anti-AI contribution policy](https://simonwillison.net/2026/Apr/30/zig-anti-ai/)
-
-### ArXiv
-
-- [Compositional Meta-Learning for Mitigating Task Heterogeneity in Physics-Informed Neural Networks](https://arxiv.org/abs/2604.26999)
-- [Binary Spiking Neural Networks as Causal Models](https://arxiv.org/abs/2604.27007)
-- [When Your LLM Reaches End-of-Life: A Framework for Confident Model Migration in Production Systems](https://arxiv.org/abs/2604.27082)
-- [End-to-end autonomous scientific discovery on a real optical platform](https://arxiv.org/abs/2604.27092)
-- [Think it, Run it: Autonomous ML pipeline generation via self-healing multi-agent AI](https://arxiv.org/abs/2604.27096)
+- [The gay jailbreak technique (2025)](https://github.com/Exocija/ZetaLib/blob/main/The%20Gay%20Jailbreak/The%20Gay%20Jailbreak.md)
+- [Spain's parliament will act against massive IP blockages by LaLiga](https://www.democrata.es/en/politics/congress-and-senate/congress-will-act-against-massive-ip-blockages-by-laliga/)
+- [Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library](https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/)
 
 ### TechCrunch
 
+- [Meta buys robotics startup to bolster its humanoid AI ambitions](https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/)
+- [Coatue has a plan to buy up land for data centers, possibly for Anthropic](https://techcrunch.com/2026/05/01/coatue-has-a-plan-to-buy-up-land-for-data-centers-possibly-for-anthropic/)
+- [Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks](https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/)
 - [ChatGPT Images 2.0 is a hit in India, but not a big winner elsewhere, yet](https://techcrunch.com/2026/04/30/chatgpt-images-2-0-is-a-hit-in-india-but-not-a-big-winner-elsewhere-yet/)
 - [Y Combinator alum Skio sells for $105M cash, only raised $8M, founder says](https://techcrunch.com/2026/04/30/y-combinator-alum-skio-sells-for-105m-cash-only-raised-8m-founder-says/)
-- [Sources: Anthropic potential $900B+ valuation round could happen within 2 weeks](https://techcrunch.com/2026/04/30/anthropic-potential-900b-valuation-round-could-happen-within-two-weeks/)
-- [Apple was surprised by AI-driven demand for Macs](https://techcrunch.com/2026/04/30/apple-was-surprised-by-ai-driven-demand-for-macs/)
-- [Legal AI startup Legora hits $5.6B valuation and its battle with Harvey just got hotter](https://techcrunch.com/2026/04/30/legal-ai-startup-legora-hits-5-6-valuation-and-its-battle-with-harvey-just-got-hotter/)
 
 ---
 
 ## 📊 Intelligence Summary
 
-- **Total Headlines Collected:** 12
-- **Sources Active:** 3
-- **Collection Time:** 2026-05-01 09:33:12 UTC
+- **Total Headlines Collected:** 8
+- **Sources Active:** 2
+- **Collection Time:** 2026-05-02 09:55:03 UTC
 - **Status:** ✅ Operational
 
 ---
