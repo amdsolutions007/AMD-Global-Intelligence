@@ -2,34 +2,40 @@
 
 **Automated News Collection - Updated Daily**
 
-**Last Update:** 2026-05-04 11:00:23 UTC
+**Last Update:** 2026-05-05 10:28:33 UTC
 
 ---
 
-## 🔥 Latest Headlines (May 04, 2026)
+## 🔥 Latest Headlines (May 05, 2026)
 
 
 ### Hacker News
 
-- [OpenAI’s o1 correctly diagnosed 67% of ER patients vs. 50-55% by triage doctors](https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses)
-- [Kimi K2.6 just beat Claude, GPT-5.5, and Gemini in a coding challenge](https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/)
 - [Let's Buy Spirit Air](https://letsbuyspiritair.com/)
+
+### ArXiv
+
+- [TADI: Tool-Augmented Drilling Intelligence via Agentic LLM Orchestration over Heterogeneous Wellsite Data](https://arxiv.org/abs/2605.00060)
+- [AgentReputation: A Decentralized Agentic AI Reputation Framework](https://arxiv.org/abs/2605.00073)
+- [Minimal, Local, Causal Explanations for Jailbreak Success in Large Language Models](https://arxiv.org/abs/2605.00123)
+- [Are Tools All We Need? Unveiling the Tool-Use Tax in LLM Agents](https://arxiv.org/abs/2605.00136)
+- [TUR-DPO: Topology- and Uncertainty-Aware Direct Preference Optimization](https://arxiv.org/abs/2605.00224)
 
 ### TechCrunch
 
-- [Nicolas Sauvage is betting on the boring parts of AI](https://techcrunch.com/2026/05/04/nicolas-sauvage-is-betting-on-the-boring-parts-of-ai/)
-- [We’ll take it: a TikToker rallies pledges to buy Spirit Airlines after its abrupt weekend collapse](https://techcrunch.com/2026/05/03/well-take-it-a-tiktoker-rallies-pledges-to-buy-spirit-airlines-after-its-abrupt-weekend-collapse/)
-- [‘This is fine’ creator says AI startup stole his art](https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/)
-- [In Harvard study, AI offered more accurate emergency room diagnoses than two human doctors](https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/)
-- [AI-generated actors and scripts are now ineligible for Oscars](https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/)
+- [As workers worry about AI, Nvidia’s Jensen Huang says AI is ‘creating an enormous number of jobs’](https://techcrunch.com/2026/05/04/as-workers-worry-about-ai-nvidias-jensen-huang-says-ai-is-creating-an-enormous-number-of-jobs/)
+- [Geothermal startup Fervo Energy to raise up to $1.3B in IPO](https://techcrunch.com/2026/05/04/geothermal-startup-fervo-energy-to-raise-up-to-1-3b-in-ipo/)
+- [US government warns of severe CopyFail bug affecting major versions of Linux](https://techcrunch.com/2026/05/04/u-s-government-warns-of-severe-copyfail-bug-affecting-major-versions-of-linux/)
+- [OpenAI’s cozy partner Cerebras is on track for a blockbuster IPO](https://techcrunch.com/2026/05/04/openais-cozy-partner-cerebras-is-on-track-for-a-blockbuster-ipo/)
+- [Image AI models now drive app growth, beating chatbot upgrades](https://techcrunch.com/2026/05/04/image-ai-models-now-drive-app-growth-beating-chatbot-upgrades/)
 
 ---
 
 ## 📊 Intelligence Summary
 
-- **Total Headlines Collected:** 8
-- **Sources Active:** 2
-- **Collection Time:** 2026-05-04 11:00:23 UTC
+- **Total Headlines Collected:** 11
+- **Sources Active:** 3
+- **Collection Time:** 2026-05-05 10:28:33 UTC
 - **Status:** ✅ Operational
 
 ---
