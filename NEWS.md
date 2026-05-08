@@ -2,43 +2,41 @@
 
 **Automated News Collection - Updated Daily**
 
-**Last Update:** 2026-05-07 11:03:56 UTC
+**Last Update:** 2026-05-08 10:19:49 UTC
 
 ---
 
-## 🔥 Latest Headlines (May 07, 2026)
+## 🔥 Latest Headlines (May 08, 2026)
 
 
 ### Hacker News
 
-- [DNSSEC disruption affecting .de domains – Resolved](https://status.denic.de/pages/incident/592577eab611ce1e0d00046f/69fa60ef9d12f5057a974f38)
-- [Agents can now create Cloudflare accounts, buy domains, and deploy](https://blog.cloudflare.com/agents-stripe-projects/)
-- [AI didn't delete your database, you did](https://idiallo.com/blog/ai-didnt-delete-your-database-you-did)
-- [Three Inverse Laws of AI](https://susam.net/inverse-laws-of-robotics.html)
+- [AI slop is killing online communities](https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/)
+- [Chrome removes claim of On-device Al not sending data to Google Servers](https://old.reddit.com/r/chrome/comments/1t5qayz/chrome_removes_claim_of_ondevice_al_not_sending/)
 
 ### ArXiv
 
-- [CreativityBench: Evaluating Agent Creative Reasoning via Affordance-Based Tool Repurposing](https://arxiv.org/abs/2605.02910)
-- [Stable Agentic Control: Tool-Mediated LLM Architecture for Autonomous Cyber Defense](https://arxiv.org/abs/2605.03034)
-- [Computing Thiele Rules on Interval Elections and their Generalizations](https://arxiv.org/abs/2605.03067)
-- [Making the Invisible Visible: Understanding the Mismatch Between Organizational Goals and Worker Experiences in AI Adoption](https://arxiv.org/abs/2605.03078)
-- [Programmatic Context Augmentation for LLM-based Symbolic Regression](https://arxiv.org/abs/2605.03101)
+- [Understanding Annotator Safety Policy with Interpretability](https://arxiv.org/abs/2605.05329)
+- [ZAYA1-8B Technical Report](https://arxiv.org/abs/2605.05365)
+- [Partial Evidence Bench: Benchmarking Authorization-Limited Evidence in Agentic Systems](https://arxiv.org/abs/2605.05379)
+- [BALAR : A Bayesian Agentic Loop for Active Reasoning](https://arxiv.org/abs/2605.05386)
+- [Intelligent CCTV for Urban Design: AI-Based Analysis of Soft Infrastructure at Intersections](https://arxiv.org/abs/2605.05402)
 
 ### TechCrunch
 
-- [Five architects of the AI economy explain where the wheels are coming off](https://techcrunch.com/2026/05/06/five-architects-of-the-ai-economy-explain-where-the-wheels-are-coming-off/)
-- [Is xAI a neocloud now?](https://techcrunch.com/2026/05/06/is-xai-a-neocloud-now/)
-- [Microsoft’s AI data center push is colliding with its clean power goals](https://techcrunch.com/2026/05/06/microsofts-ai-data-center-push-is-colliding-with-its-clean-power-goals/)
-- [Robinhood’s venture fund IPO attracted 150,000+ retail investors, CEO says](https://techcrunch.com/2026/05/06/robinhoods-venture-fund-ipo-attracted-150000-retail-investors-ceo-says/)
-- [How Elon Musk left OpenAI, according to Greg Brockman](https://techcrunch.com/2026/05/06/how-elon-musk-left-openai-according-to-greg-brockman/)
+- [OpenAI launches new voice intelligence features in its API](https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/)
+- [Kodiak AI raises $100M at a steep discount, sending its stock tumbling 37%](https://techcrunch.com/2026/05/07/kodiak-ai-raises-100m-at-a-steep-discount-sending-its-stock-tumbling-37/)
+- [Voi founders’ new AI startup Pit has become the latest rising star out of Stockholm](https://techcrunch.com/2026/05/07/voi-founders-new-ai-startup-pit-has-become-the-latest-rising-star-out-of-stockholm/)
+- [Hackers deface school login pages after claiming another Instructure hack](https://techcrunch.com/2026/05/07/hackers-deface-school-login-pages-after-claiming-another-instructure-hack/)
+- [OpenAI introduces new ‘Trusted Contact’ safeguard for cases of possible self-harm](https://techcrunch.com/2026/05/07/openai-introduces-new-trusted-contact-safeguard-for-cases-of-possible-self-harm/)
 
 ---
 
 ## 📊 Intelligence Summary
 
-- **Total Headlines Collected:** 14
+- **Total Headlines Collected:** 12
 - **Sources Active:** 3
-- **Collection Time:** 2026-05-07 11:03:56 UTC
+- **Collection Time:** 2026-05-08 10:19:49 UTC
 - **Status:** ✅ Operational
 
 ---
