@@ -2,35 +2,41 @@
 
 **Automated News Collection - Updated Daily**
 
-**Last Update:** 2026-05-10 10:07:44 UTC
+**Last Update:** 2026-05-11 11:59:21 UTC
 
 ---
 
-## 🔥 Latest Headlines (May 10, 2026)
+## 🔥 Latest Headlines (May 11, 2026)
 
 
 ### Hacker News
 
-- [A recent experience with ChatGPT 5.5 Pro](https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/)
-- [Using Claude Code: The unreasonable effectiveness of HTML](https://twitter.com/trq212/status/2052809885763747935)
-- [AI is breaking two vulnerability cultures](https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures)
-- [LLMs corrupt your documents when you delegate](https://arxiv.org/abs/2604.15597)
+- [Local AI needs to be the norm](https://unix.foo/posts/local-ai-needs-to-be-norm/)
+- [Meta's embrace of AI is making its employees miserable](https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html)
+
+### ArXiv
+
+- [GraphDC: A Divide-and-Conquer Multi-Agent System for Scalable Graph Algorithm Reasoning](https://arxiv.org/abs/2605.06671)
+- [More Thinking, More Bias: Length-Driven Position Bias in Reasoning Models](https://arxiv.org/abs/2605.06672)
+- [Fast and Effective Redistricting Optimization via Composite-Move Tabu Search](https://arxiv.org/abs/2605.06682)
+- [State Representation and Termination for Recursive Reasoning Systems](https://arxiv.org/abs/2605.06690)
+- [Hidden Coalitions in Multi-Agent AI: A Spectral Diagnostic from Internal Representations](https://arxiv.org/abs/2605.06696)
 
 ### TechCrunch
 
+- [Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail attempts](https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/)
+- [We’re feeling cynical about xAI’s big deal with Anthropic](https://techcrunch.com/2026/05/10/were-feeling-cynical-about-xais-big-deal-with-anthropic/)
 - [Voice AI in India is hard. Wispr Flow is betting on it anyway.](https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/)
 - [So you’ve heard these AI terms and nodded along; let’s fix that](https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/)
 - [Nvidia has already committed $40B to equity AI deals this year](https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/)
-- [Laid-off Oracle workers tried to negotiate better severance. Oracle said no.](https://techcrunch.com/2026/05/08/laid-off-oracle-workers-tried-to-negotiate-better-severance-oracle-said-no/)
-- [Cloudflare says AI made 1,100 jobs obsolete, even as revenue hit a record high](https://techcrunch.com/2026/05/08/cloudflare-says-ai-made-1100-jobs-obsolete-even-as-revenue-hit-a-record-high/)
 
 ---
 
 ## 📊 Intelligence Summary
 
-- **Total Headlines Collected:** 9
-- **Sources Active:** 2
-- **Collection Time:** 2026-05-10 10:07:44 UTC
+- **Total Headlines Collected:** 12
+- **Sources Active:** 3
+- **Collection Time:** 2026-05-11 11:59:21 UTC
 - **Status:** ✅ Operational
 
 ---
