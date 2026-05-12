@@ -2,41 +2,43 @@
 
 **Automated News Collection - Updated Daily**
 
-**Last Update:** 2026-05-11 11:59:21 UTC
+**Last Update:** 2026-05-12 11:14:50 UTC
 
 ---
 
-## 🔥 Latest Headlines (May 11, 2026)
+## 🔥 Latest Headlines (May 12, 2026)
 
 
 ### Hacker News
 
 - [Local AI needs to be the norm](https://unix.foo/posts/local-ai-needs-to-be-norm/)
-- [Meta's embrace of AI is making its employees miserable](https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html)
+- [Postmortem: TanStack NPM supply-chain compromise](https://tanstack.com/blog/npm-supply-chain-compromise-postmortem)
+- [Gmail registration now requires scanning a QR code and sending a text message](https://discuss.privacyguides.net/t/google-account-registration-now-requires-sending-an-sms-via-phone-instead-of-receiving-an-sms/36082)
+- [If AI writes your code, why use Python?](https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055)
 
 ### ArXiv
 
-- [GraphDC: A Divide-and-Conquer Multi-Agent System for Scalable Graph Algorithm Reasoning](https://arxiv.org/abs/2605.06671)
-- [More Thinking, More Bias: Length-Driven Position Bias in Reasoning Models](https://arxiv.org/abs/2605.06672)
-- [Fast and Effective Redistricting Optimization via Composite-Move Tabu Search](https://arxiv.org/abs/2605.06682)
-- [State Representation and Termination for Recursive Reasoning Systems](https://arxiv.org/abs/2605.06690)
-- [Hidden Coalitions in Multi-Agent AI: A Spectral Diagnostic from Internal Representations](https://arxiv.org/abs/2605.06696)
+- [Where Reliability Lives in Vision-Language Models: A Mechanistic Study of Attention, Hidden States, and Causal Circuits](https://arxiv.org/abs/2605.08200)
+- [Spatial Priming Outperforms Semantic Prompting: A Grid-Based Approach to Improving LLM Accuracy on Chart Data Extraction](https://arxiv.org/abs/2605.08220)
+- [Auto-Rubric as Reward: From Implicit Preferences to Explicit Multimodal Generative Criteria](https://arxiv.org/abs/2605.08354)
+- [Embeddings for Preferences, Not Semantics](https://arxiv.org/abs/2605.08360)
+- [On Distinguishing Capability Elicitation from Capability Creation in Post-Training: A Free-Energy Perspective](https://arxiv.org/abs/2605.08368)
 
 ### TechCrunch
 
-- [Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail attempts](https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/)
-- [We’re feeling cynical about xAI’s big deal with Anthropic](https://techcrunch.com/2026/05/10/were-feeling-cynical-about-xais-big-deal-with-anthropic/)
-- [Voice AI in India is hard. Wispr Flow is betting on it anyway.](https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/)
-- [So you’ve heard these AI terms and nodded along; let’s fix that](https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/)
-- [Nvidia has already committed $40B to equity AI deals this year](https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/)
+- [Thinking Machines wants to build an AI that actually listens while it talks](https://techcrunch.com/2026/05/11/thinking-machines-wants-to-build-an-ai-that-actually-listens-while-it-talks/)
+- [Riding an AI rally, Robinhood preps second retail venture IPO](https://techcrunch.com/2026/05/11/riding-an-ai-rally-robinhood-preps-second-retail-venture-ipo/)
+- [GM just laid off hundreds of IT workers to hire those with stronger AI skills](https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/)
+- [Daniel Ek-backed defense tech Helsing to raise $1.2B at $18B valuation](https://techcrunch.com/2026/05/11/daniel-ek-backed-defense-tech-helsing-to-raise-1-2b-at-18b-valuation/)
+- [Digg tries again, this time as an AI news aggregator](https://techcrunch.com/2026/05/11/digg-tries-again-this-time-as-an-ai-news-aggregator/)
 
 ---
 
 ## 📊 Intelligence Summary
 
-- **Total Headlines Collected:** 12
+- **Total Headlines Collected:** 14
 - **Sources Active:** 3
-- **Collection Time:** 2026-05-11 11:59:21 UTC
+- **Collection Time:** 2026-05-12 11:14:50 UTC
 - **Status:** ✅ Operational
 
 ---
