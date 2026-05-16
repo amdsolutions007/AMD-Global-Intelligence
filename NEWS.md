@@ -2,18 +2,19 @@
 
 **Automated News Collection - Updated Daily**
 
-**Last Update:** 2026-05-15 11:14:22 UTC
+**Last Update:** 2026-05-16 10:09:42 UTC
 
 ---
 
-## 🔥 Latest Headlines (May 15, 2026)
+## 🔥 Latest Headlines (May 16, 2026)
 
 
 ### Hacker News
 
-- [Setting up a free *.city.state.us locality domain (2025)](https://fredchan.org/blog/locality-domains-guide/)
+- [I believe there are entire companies right now under AI psychosis](https://twitter.com/mitchellh/status/2055380239711457578)
 - [RTX 5090 and M4 MacBook Air: Can It Game?](https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/)
 - [AI is making me dumb](https://jpain.io/god-damn-ai-is-making-me-dumb/)
+- [Codex is now in the ChatGPT mobile app](https://openai.com/index/work-with-codex-from-anywhere/)
 
 ### ArXiv
 
@@ -25,19 +26,19 @@
 
 ### TechCrunch
 
-- [Elon Musk’s SpaceXAI has been bleeding staff since its merger](https://techcrunch.com/2026/05/14/elon-musks-spacexai-has-been-bleeding-staff-since-its-merger/)
-- [OpenAI says Codex is coming to your phone](https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/)
-- [What happens when AI starts building itself?](https://techcrunch.com/2026/05/14/what-happens-when-ai-starts-building-itself/)
-- [OpenAI is reportedly preparing legal action against Apple; it wouldn’t be the first partner to feel burned](https://techcrunch.com/2026/05/14/openai-is-reportedly-preparing-legal-action-against-apple-it-wouldnt-be-the-first-partner-to-feel-burned/)
-- [Cerebras raises $5.5B, then stock pops $108%, in the first huge tech IPO of 2026](https://techcrunch.com/2026/05/14/cerebras-raises-5-5b-kicking-off-2026s-ipo-season-with-a-bang/)
+- [RJ Scaringe has raised more than $12B across three startups and investors still want more](https://techcrunch.com/2026/05/15/rj-scaringe-has-raised-more-than-12-billion-across-three-startups-and-investors-still-want-more/)
+- [General Catalyst posted VC rage bait and it worked, especially on a16z](https://techcrunch.com/2026/05/15/general-catalyst-posted-vc-rage-bait-and-it-worked-especially-on-a16z/)
+- [Silicon Valley’s vacationland needs a new energy provider just as AI is driving prices up](https://techcrunch.com/2026/05/15/silicon-valleys-vacationland-needs-a-new-energy-provider-just-as-ai-is-driving-prices-up/)
+- [OpenAI launches ChatGPT for personal finance, will let you connect bank accounts](https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/)
+- [US orders travelers on Air Force One to throw away gifts, pins, and burner phones after China trip](https://techcrunch.com/2026/05/15/us-orders-travelers-on-air-force-one-to-throw-away-gifts-pins-and-burner-phones-after-china-trip/)
 
 ---
 
 ## 📊 Intelligence Summary
 
-- **Total Headlines Collected:** 13
+- **Total Headlines Collected:** 14
 - **Sources Active:** 3
-- **Collection Time:** 2026-05-15 11:14:22 UTC
+- **Collection Time:** 2026-05-16 10:09:42 UTC
 - **Status:** ✅ Operational
 
 ---
