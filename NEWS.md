@@ -2,36 +2,43 @@
 
 **Automated News Collection - Updated Daily**
 
-**Last Update:** 2026-05-17 09:33:44 UTC
+**Last Update:** 2026-05-18 10:27:20 UTC
 
 ---
 
-## 🔥 Latest Headlines (May 17, 2026)
+## 🔥 Latest Headlines (May 18, 2026)
 
 
 ### Hacker News
 
-- [I believe there are entire companies right now under AI psychosis](https://twitter.com/mitchellh/status/2055380239711457578)
-- [Moving away from Tailwind, and learning to structure my CSS](https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/)
-- [Bun Rust rewrite: "codebase fails basic miri checks, allows for UB in safe rust"](https://github.com/oven-sh/bun/issues/30719)
-- [A 0-click exploit chain for the Pixel 10](https://projectzero.google/2026/05/pixel-10-exploit.html)
-- [Amazon workers under pressure to up their AI usage are making up tasks](https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks)
+- [I don't think AI will make your processes go faster](https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/)
+- [AI is a technology not a product](https://daringfireball.net/2026/05/ai_is_technology_not_a_product)
+- [AI subscriptions are a ticking time bomb for enterprise](https://www.thestateofbrand.com/news/ai-subscription-time-bomb)
+- [HTML Lists](https://blog.frankmtaylor.com/2026/05/13/you-dont-know-html-lists/)
+
+### ArXiv
+
+- [DeepSlide: From Artifacts to Presentation Delivery](https://arxiv.org/abs/2605.15202)
+- [SDOF: Taming the Alignment Tax in Multi-Agent Orchestration with State-Constrained Dispatch](https://arxiv.org/abs/2605.15204)
+- [Does Theory of Mind Improvement Really Benefit Human-AI Interactions? Empirical Findings from Interactive Evaluations](https://arxiv.org/abs/2605.15205)
+- [SkillSmith: Compiling Agent Skills into Boundary-Guided Runtime Interfaces](https://arxiv.org/abs/2605.15215)
+- [Fair outputs, Biased Internals: Causal Potency and Asymmetry of Latent Bias in LLMs for High-Stakes Decisions](https://arxiv.org/abs/2605.15217)
 
 ### TechCrunch
 
+- [Why trust is a big question at the Elon Musk-OpenAI trial](https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/)
+- [If you’re giving a commencement speech in 2026, maybe don’t mention AI](https://techcrunch.com/2026/05/17/if-youre-giving-a-commencement-speech-in-2026-maybe-dont-mention-ai/)
+- [TechCrunch Mobility: The AI skills arms race is coming for automotive](https://techcrunch.com/2026/05/17/techcrunch-mobility-the-ai-skills-arms-race-is-coming-for-automotive/)
 - [The haves and have nots of the AI gold rush](https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/)
 - [Marketing operating system Nectar Social raises $30M Series A led by Menlo](https://techcrunch.com/2026/05/16/marketing-operating-system-nectar-social-raises-30m-series-a-in-round-led-by-menlo/)
-- [Research repository ArXiv will ban authors for a year if they let AI do all the work](https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/)
-- [The offline desk gadget that actually got me to sit up straight](https://techcrunch.com/2026/05/16/the-offline-desk-gadget-that-actually-got-me-to-sit-up-straight/)
-- [OpenAI co-founder Greg Brockman takes charge of product strategy](https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/)
 
 ---
 
 ## 📊 Intelligence Summary
 
-- **Total Headlines Collected:** 10
-- **Sources Active:** 2
-- **Collection Time:** 2026-05-17 09:33:44 UTC
+- **Total Headlines Collected:** 14
+- **Sources Active:** 3
+- **Collection Time:** 2026-05-18 10:27:20 UTC
 - **Status:** ✅ Operational
 
 ---
