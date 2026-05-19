@@ -2,43 +2,44 @@
 
 **Automated News Collection - Updated Daily**
 
-**Last Update:** 2026-05-18 10:27:20 UTC
+**Last Update:** 2026-05-19 10:16:35 UTC
 
 ---
 
-## 🔥 Latest Headlines (May 18, 2026)
+## 🔥 Latest Headlines (May 19, 2026)
 
 
 ### Hacker News
 
+- [Elon Musk has lost his lawsuit against Sam Altman and OpenAI](https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/)
 - [I don't think AI will make your processes go faster](https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/)
+- [We stopped AI bot spam in our GitHub repo using Git's –author flag](https://archestra.ai/blog/only-responsible-ai)
 - [AI is a technology not a product](https://daringfireball.net/2026/05/ai_is_technology_not_a_product)
-- [AI subscriptions are a ticking time bomb for enterprise](https://www.thestateofbrand.com/news/ai-subscription-time-bomb)
-- [HTML Lists](https://blog.frankmtaylor.com/2026/05/13/you-dont-know-html-lists/)
+- [Anthropic acquires Stainless](https://www.anthropic.com/news/anthropic-acquires-stainless)
 
 ### ArXiv
 
-- [DeepSlide: From Artifacts to Presentation Delivery](https://arxiv.org/abs/2605.15202)
-- [SDOF: Taming the Alignment Tax in Multi-Agent Orchestration with State-Constrained Dispatch](https://arxiv.org/abs/2605.15204)
-- [Does Theory of Mind Improvement Really Benefit Human-AI Interactions? Empirical Findings from Interactive Evaluations](https://arxiv.org/abs/2605.15205)
-- [SkillSmith: Compiling Agent Skills into Boundary-Guided Runtime Interfaces](https://arxiv.org/abs/2605.15215)
-- [Fair outputs, Biased Internals: Causal Potency and Asymmetry of Latent Bias in LLMs for High-Stakes Decisions](https://arxiv.org/abs/2605.15217)
+- [AgentWall: A Runtime Safety Layer for Local AI Agents](https://arxiv.org/abs/2605.16265)
+- [ANNEAL: Adapting LLM Agents via Governed Symbolic Patch Learning](https://arxiv.org/abs/2605.16309)
+- [From Prompts to Protocols: An AI Agent for Laboratory Automation](https://arxiv.org/abs/2605.16552)
+- [Skim: Speculative Execution for Fast and Efficient Web Agents](https://arxiv.org/abs/2605.16565)
+- [Scalable Uncertainty Reasoning in Knowledge Graphs](https://arxiv.org/abs/2605.16568)
 
 ### TechCrunch
 
-- [Why trust is a big question at the Elon Musk-OpenAI trial](https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/)
-- [If you’re giving a commencement speech in 2026, maybe don’t mention AI](https://techcrunch.com/2026/05/17/if-youre-giving-a-commencement-speech-in-2026-maybe-dont-mention-ai/)
-- [TechCrunch Mobility: The AI skills arms race is coming for automotive](https://techcrunch.com/2026/05/17/techcrunch-mobility-the-ai-skills-arms-race-is-coming-for-automotive/)
-- [The haves and have nots of the AI gold rush](https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/)
-- [Marketing operating system Nectar Social raises $30M Series A led by Menlo](https://techcrunch.com/2026/05/16/marketing-operating-system-nectar-social-raises-30m-series-a-in-round-led-by-menlo/)
+- [Solar to dominate energy by 2035, but AI data centers will keep fossil fuels in business](https://techcrunch.com/2026/05/19/solar-to-dominate-energy-in-2035-but-data-centers-will-keep-fossil-fuels-in-business/)
+- [Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare](https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/)
+- [Elon Musk has lost his lawsuit against Sam Altman and OpenAI](https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/)
+- [Kin Health raises $9M to build an AI notetaker for patients](https://techcrunch.com/2026/05/18/kin-health-raises-9m-to-build-an-ai-notetaker-for-patients/)
+- [South Korea’s LetinAR is building optics behind AI glasses](https://techcrunch.com/2026/05/18/south-koreas-letinar-is-building-the-optics-behind-ai-glasses/)
 
 ---
 
 ## 📊 Intelligence Summary
 
-- **Total Headlines Collected:** 14
+- **Total Headlines Collected:** 15
 - **Sources Active:** 3
-- **Collection Time:** 2026-05-18 10:27:20 UTC
+- **Collection Time:** 2026-05-19 10:16:35 UTC
 - **Status:** ✅ Operational
 
 ---
