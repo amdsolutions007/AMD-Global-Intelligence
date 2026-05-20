@@ -2,36 +2,36 @@
 
 **Automated News Collection - Updated Daily**
 
-**Last Update:** 2026-05-19 10:16:35 UTC
+**Last Update:** 2026-05-20 10:07:23 UTC
 
 ---
 
-## 🔥 Latest Headlines (May 19, 2026)
+## 🔥 Latest Headlines (May 20, 2026)
 
 
 ### Hacker News
 
+- [I’ve joined Anthropic](https://twitter.com/karpathy/status/2056753169888334312)
 - [Elon Musk has lost his lawsuit against Sam Altman and OpenAI](https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/)
-- [I don't think AI will make your processes go faster](https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/)
-- [We stopped AI bot spam in our GitHub repo using Git's –author flag](https://archestra.ai/blog/only-responsible-ai)
-- [AI is a technology not a product](https://daringfireball.net/2026/05/ai_is_technology_not_a_product)
+- [The last six months in LLMs in five minutes](https://simonwillison.net/2026/May/19/5-minute-llms/)
 - [Anthropic acquires Stainless](https://www.anthropic.com/news/anthropic-acquires-stainless)
+- [We stopped AI bot spam in our GitHub repo using Git's –author flag](https://archestra.ai/blog/only-responsible-ai)
 
 ### ArXiv
 
-- [AgentWall: A Runtime Safety Layer for Local AI Agents](https://arxiv.org/abs/2605.16265)
-- [ANNEAL: Adapting LLM Agents via Governed Symbolic Patch Learning](https://arxiv.org/abs/2605.16309)
-- [From Prompts to Protocols: An AI Agent for Laboratory Automation](https://arxiv.org/abs/2605.16552)
-- [Skim: Speculative Execution for Fast and Efficient Web Agents](https://arxiv.org/abs/2605.16565)
-- [Scalable Uncertainty Reasoning in Knowledge Graphs](https://arxiv.org/abs/2605.16568)
+- [Position: Let's Develop Data Probes to Fundamentally Understand How Data Affects LLM Performance](https://arxiv.org/abs/2605.18801)
+- [Operationalizing Document AI: A Microservice Architecture for OCR and LLM Pipelines in Production](https://arxiv.org/abs/2605.18818)
+- [Evaluating the Utility of Personal Health Records in Personalized Health AI](https://arxiv.org/abs/2605.18937)
+- [Learn-by-Wire Training Control Governance: Bounded Autonomous Training Under Stress for Stability and Efficiency](https://arxiv.org/abs/2605.19008)
+- [AgentNLQ: A General-Purpose Agent for Natural Language to SQL](https://arxiv.org/abs/2605.19010)
 
 ### TechCrunch
 
-- [Solar to dominate energy by 2035, but AI data centers will keep fossil fuels in business](https://techcrunch.com/2026/05/19/solar-to-dominate-energy-in-2035-but-data-centers-will-keep-fossil-fuels-in-business/)
-- [Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare](https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/)
-- [Elon Musk has lost his lawsuit against Sam Altman and OpenAI](https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/)
-- [Kin Health raises $9M to build an AI notetaker for patients](https://techcrunch.com/2026/05/18/kin-health-raises-9m-to-build-an-ai-notetaker-for-patients/)
-- [South Korea’s LetinAR is building optics behind AI glasses](https://techcrunch.com/2026/05/18/south-koreas-letinar-is-building-the-optics-behind-ai-glasses/)
+- [‘Ask YouTube’ brings AI-powered conversational search to video, adds Gemini Omni to Shorts](https://techcrunch.com/2026/05/19/ask-youtube-brings-ai-powered-conversational-search-to-video-adds-gemini-omni-to-shorts/)
+- [Google just declared itself a contender in AI design at IO 2026](https://techcrunch.com/2026/05/19/ai-design-tools-are-the-next-big-battleground-and-google-is-going-all-in-at-io-2026/)
+- [You can now talk to your Gmail inbox, as seen at Google IO 2026](https://techcrunch.com/2026/05/19/you-can-now-talk-to-your-gmail-inbox-as-seen-at-google-io-2026/)
+- [How to use Google’s new AI agents to go beyond your standard searches](https://techcrunch.com/2026/05/19/how-to-use-googles-new-ai-agents-to-go-beyond-your-standard-searches/)
+- [From teen hacker to Iron Dome researcher, this founder raised $28M to fight AI phishing](https://techcrunch.com/2026/05/19/from-teen-hacker-to-iron-dome-researcher-this-founder-raised-28m-to-fight-ai-phishing/)
 
 ---
 
@@ -39,7 +39,7 @@
 
 - **Total Headlines Collected:** 15
 - **Sources Active:** 3
-- **Collection Time:** 2026-05-19 10:16:35 UTC
+- **Collection Time:** 2026-05-20 10:07:23 UTC
 - **Status:** ✅ Operational
 
 ---
