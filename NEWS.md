@@ -2,20 +2,20 @@
 
 **Automated News Collection - Updated Daily**
 
-**Last Update:** 2026-05-20 10:07:23 UTC
+**Last Update:** 2026-05-21 10:14:51 UTC
 
 ---
 
-## 🔥 Latest Headlines (May 20, 2026)
+## 🔥 Latest Headlines (May 21, 2026)
 
 
 ### Hacker News
 
 - [I’ve joined Anthropic](https://twitter.com/karpathy/status/2056753169888334312)
-- [Elon Musk has lost his lawsuit against Sam Altman and OpenAI](https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/)
-- [The last six months in LLMs in five minutes](https://simonwillison.net/2026/May/19/5-minute-llms/)
-- [Anthropic acquires Stainless](https://www.anthropic.com/news/anthropic-acquires-stainless)
-- [We stopped AI bot spam in our GitHub repo using Git's –author flag](https://archestra.ai/blog/only-responsible-ai)
+- [An OpenAI model has disproved a central conjecture in discrete geometry](https://openai.com/index/model-disproves-discrete-geometry-conjecture/)
+- [Tennessee man jailed 37 days for Trump meme wins settlement after lawsuit](https://www.fire.org/news/victory-tennessee-man-jailed-37-days-trump-meme-wins-835000-settlement-after-first-amendment)
+- [Show HN: Forge – Guardrails take an 8B model from 53% to 99% on agentic tasks](https://github.com/antoinezambelli/forge)
+- [Incident Report: Railway Blocked by Google Cloud [resolved]](https://status.railway.com/incident/I23M92U0)
 
 ### ArXiv
 
@@ -27,11 +27,11 @@
 
 ### TechCrunch
 
-- [‘Ask YouTube’ brings AI-powered conversational search to video, adds Gemini Omni to Shorts](https://techcrunch.com/2026/05/19/ask-youtube-brings-ai-powered-conversational-search-to-video-adds-gemini-omni-to-shorts/)
-- [Google just declared itself a contender in AI design at IO 2026](https://techcrunch.com/2026/05/19/ai-design-tools-are-the-next-big-battleground-and-google-is-going-all-in-at-io-2026/)
-- [You can now talk to your Gmail inbox, as seen at Google IO 2026](https://techcrunch.com/2026/05/19/you-can-now-talk-to-your-gmail-inbox-as-seen-at-google-io-2026/)
-- [How to use Google’s new AI agents to go beyond your standard searches](https://techcrunch.com/2026/05/19/how-to-use-googles-new-ai-agents-to-go-beyond-your-standard-searches/)
-- [From teen hacker to Iron Dome researcher, this founder raised $28M to fight AI phishing](https://techcrunch.com/2026/05/19/from-teen-hacker-to-iron-dome-researcher-this-founder-raised-28m-to-fight-ai-phishing/)
+- [Imperagen raises £5 million to use quantum physics, AI on enzyme engineering](https://techcrunch.com/2026/05/20/imperagen-raises-5-million-to-redefine-enzyme-engineering/)
+- [Anthropic says it’s about to have its first profitable quarter](https://techcrunch.com/2026/05/20/anthropic-says-its-about-to-have-its-first-profitable-quarter/)
+- [The SpaceX IPO filing is filled with AI bets, Starship dreams, and Elon Musk at the center](https://techcrunch.com/2026/05/20/the-spacex-ipo-filing-ai-bets-starship-dreams-elon-musk/)
+- [xAI burned $6.4B last year — SpaceX’s IPO filing shows why the spending is far from over](https://techcrunch.com/2026/05/20/xai-burned-6-4b-last-year-spacexs-ipo-filing-shows-why-the-spending-is-far-from-over/)
+- [Musk’s xAI is being sued over its data center generators — now it’s buying $2.8B more](https://techcrunch.com/2026/05/20/musks-xai-is-being-sued-over-its-data-center-generators-now-its-buying-2-8b-more/)
 
 ---
 
@@ -39,7 +39,7 @@
 
 - **Total Headlines Collected:** 15
 - **Sources Active:** 3
-- **Collection Time:** 2026-05-20 10:07:23 UTC
+- **Collection Time:** 2026-05-21 10:14:51 UTC
 - **Status:** ✅ Operational
 
 ---
