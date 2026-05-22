@@ -2,36 +2,36 @@
 
 **Automated News Collection - Updated Daily**
 
-**Last Update:** 2026-05-21 10:14:51 UTC
+**Last Update:** 2026-05-22 10:05:04 UTC
 
 ---
 
-## 🔥 Latest Headlines (May 21, 2026)
+## 🔥 Latest Headlines (May 22, 2026)
 
 
 ### Hacker News
 
-- [I’ve joined Anthropic](https://twitter.com/karpathy/status/2056753169888334312)
 - [An OpenAI model has disproved a central conjecture in discrete geometry](https://openai.com/index/model-disproves-discrete-geometry-conjecture/)
+- [Project Hail Mary – Stellar Navigation Chart](https://valhovey.github.io/gaia-mary/)
+- [AI is just unauthorised plagiarism at a bigger scale](https://axelk.ee/ai-is-just-unauthorised-plagiarism-at-a-bigger-scale/)
 - [Tennessee man jailed 37 days for Trump meme wins settlement after lawsuit](https://www.fire.org/news/victory-tennessee-man-jailed-37-days-trump-meme-wins-835000-settlement-after-first-amendment)
-- [Show HN: Forge – Guardrails take an 8B model from 53% to 99% on agentic tasks](https://github.com/antoinezambelli/forge)
-- [Incident Report: Railway Blocked by Google Cloud [resolved]](https://status.railway.com/incident/I23M92U0)
+- [Google's Antigravity bait and switch](https://www.0xsid.com/blog/antigravity-bait-n-switch)
 
 ### ArXiv
 
-- [Position: Let's Develop Data Probes to Fundamentally Understand How Data Affects LLM Performance](https://arxiv.org/abs/2605.18801)
-- [Operationalizing Document AI: A Microservice Architecture for OCR and LLM Pipelines in Production](https://arxiv.org/abs/2605.18818)
-- [Evaluating the Utility of Personal Health Records in Personalized Health AI](https://arxiv.org/abs/2605.18937)
-- [Learn-by-Wire Training Control Governance: Bounded Autonomous Training Under Stress for Stability and Efficiency](https://arxiv.org/abs/2605.19008)
-- [AgentNLQ: A General-Purpose Agent for Natural Language to SQL](https://arxiv.org/abs/2605.19010)
+- [SOLAR: A Self-Optimizing Open-Ended Autonomous Agent for Lifelong Learning and Continual Adaptation](https://arxiv.org/abs/2605.20189)
+- [Tool-Augmented Agent for Closed-loop Optimization,Simulation,and Modeling Orchestration](https://arxiv.org/abs/2605.20190)
+- [OSCToM: RL-Guided Adversarial Generation for High-Order Theory of Mind](https://arxiv.org/abs/2605.20423)
+- [AgentCo-op: Retrieval-Based Synthesis of Interoperable Multi-Agent Workflows](https://arxiv.org/abs/2605.20425)
+- [High Quality Embeddings for Horn Logic Reasoning](https://arxiv.org/abs/2605.20467)
 
 ### TechCrunch
 
-- [Imperagen raises £5 million to use quantum physics, AI on enzyme engineering](https://techcrunch.com/2026/05/20/imperagen-raises-5-million-to-redefine-enzyme-engineering/)
-- [Anthropic says it’s about to have its first profitable quarter](https://techcrunch.com/2026/05/20/anthropic-says-its-about-to-have-its-first-profitable-quarter/)
-- [The SpaceX IPO filing is filled with AI bets, Starship dreams, and Elon Musk at the center](https://techcrunch.com/2026/05/20/the-spacex-ipo-filing-ai-bets-starship-dreams-elon-musk/)
-- [xAI burned $6.4B last year — SpaceX’s IPO filing shows why the spending is far from over](https://techcrunch.com/2026/05/20/xai-burned-6-4b-last-year-spacexs-ipo-filing-shows-why-the-spending-is-far-from-over/)
-- [Musk’s xAI is being sued over its data center generators — now it’s buying $2.8B more](https://techcrunch.com/2026/05/20/musks-xai-is-being-sued-over-its-data-center-generators-now-its-buying-2-8b-more/)
+- [Finnish phone-maker HMD bundles Indian AI chatbot onto new smartphone in push to reach local market](https://techcrunch.com/2026/05/21/finnish-phone-maker-hmd-bundles-indian-ai-chatbot-onto-new-smartphone-in-push-to-reach-local-market/)
+- [Spotify and Universal Music strike deal allowing fan-made AI covers and remixes](https://techcrunch.com/2026/05/21/spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes/)
+- [Convective Capital raises an $85 million fund to build disaster resilience](https://techcrunch.com/2026/05/21/convective-capital-raises-an-85-million-fund-to-build-disaster-resilience/)
+- [Trump delays AI security executive order, saying language ‘could have been a blocker’](https://techcrunch.com/2026/05/21/trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-leading/)
+- [Spotify adds AI-powered Q&A and briefing generation features to podcasts](https://techcrunch.com/2026/05/21/spotify-adds-ai-powered-qa-and-briefing-generation-features-to-podcasts/)
 
 ---
 
@@ -39,7 +39,7 @@
 
 - **Total Headlines Collected:** 15
 - **Sources Active:** 3
-- **Collection Time:** 2026-05-21 10:14:51 UTC
+- **Collection Time:** 2026-05-22 10:05:04 UTC
 - **Status:** ✅ Operational
 
 ---
