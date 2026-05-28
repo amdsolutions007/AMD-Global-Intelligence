@@ -2,41 +2,44 @@
 
 **Automated News Collection - Updated Daily**
 
-**Last Update:** 2026-05-27 10:23:45 UTC
+**Last Update:** 2026-05-28 10:26:56 UTC
 
 ---
 
-## 🔥 Latest Headlines (May 27, 2026)
+## 🔥 Latest Headlines (May 28, 2026)
 
 
 ### Hacker News
 
-- [Using AI to write better code more slowly](https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/)
+- [I'm Tired of Talking to AI](https://orchidfiles.com/im-tired-of-ai-generated-answers/)
 - [Spain blocks prediction markets Polymarket, Kalshi over lack of gambling licence](https://www.reuters.com/business/spain-blocks-prediction-markets-polymarket-kalshi-over-lack-gambling-licences-2026-05-26/)
+- [YouTube to automatically label AI-generated videos](https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/)
+- [I think Anthropic and OpenAI have found product-market fit](https://simonwillison.net/2026/May/27/product-market-fit/)
+- [DuckDuckGo search saw 28% more visits after Google said people love AI mode](https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/)
 
 ### ArXiv
 
-- [BrickAnything: Geometry-Conditioned Buildable Brick Generation with Structure-Aware Tokenization](https://arxiv.org/abs/2605.26182)
-- [Can LLMs Introspect? A Reality Check](https://arxiv.org/abs/2605.26242)
-- [Is Agent Memory a Database? Rethinking Data Foundations for Long-Term AI Agent Memory](https://arxiv.org/abs/2605.26252)
-- [Personalizing Embodied Multimodal Large Language Model Agents over Long-term User Interactions](https://arxiv.org/abs/2605.26256)
-- [Constraint acquisition needs better benchmarks](https://arxiv.org/abs/2605.26279)
+- [Identifying and Understanding Human Values in Text: A Tailorable LLM-based Architecture](https://arxiv.org/abs/2605.27373)
+- [Soro: A Lightweight Foundation Model and Chatbot for Tajik](https://arxiv.org/abs/2605.27379)
+- [On the Origin of Synthetic Information by Means of Steganographic Inheritance](https://arxiv.org/abs/2605.27551)
+- [DynaSchedBench: Calibrated Dynamic Scheduling Benchmarks and Observability Paradox in LLM-based Scheduling Agents](https://arxiv.org/abs/2605.27566)
+- [Why LLMs Fail at Causal Discovery and How Interventional Agents Escape](https://arxiv.org/abs/2605.27567)
 
 ### TechCrunch
 
-- [Airbnb-backed WeRoad raises $58M to take its group travel platform to the US](https://techcrunch.com/2026/05/27/airbnb-backed-weroad-raises-58m-to-take-its-group-travel-platform-to-the-us/)
-- [DuckDuckGo installs are up 30% as users reject being ‘force-fed’ Google’s AI Search](https://techcrunch.com/2026/05/26/duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search/)
-- [SpaceX’s Starlink nabs American Airlines contract, another win for its IPO](https://techcrunch.com/2026/05/26/spacexs-starlink-nabs-american-airlines-contract-another-win-for-its-ipo/)
-- [This startup is betting India’s gig economy can train the world’s robots](https://techcrunch.com/2026/05/26/human-archive-taps-into-indias-services-startups-to-collect-data-for-physical-ai/)
-- [Universal Music Group and TikTok renew agreement to combat unauthorized AI music](https://techcrunch.com/2026/05/26/universal-music-group-and-tiktok-renew-agreement-to-combat-unauthorized-ai-music/)
+- [Vertu wants CEOs to run companies from an AI foldable starting at $6,880](https://techcrunch.com/2026/05/28/vertu-wants-ceos-to-run-companies-from-an-ai-foldable-starting-at-6880/)
+- [Why Google’s AI can’t spell Google (or anything else)](https://techcrunch.com/2026/05/27/why-googles-ai-cant-spell-google-or-anything-else/)
+- [Triomics nabs $22M to bring oncology-specific AI to cancer centers](https://techcrunch.com/2026/05/27/triomics-nabs-22m-to-bring-oncology-specific-ai-to-cancer-centers/)
+- [In more good news for Amazon, Snowflake signs $6B deal with AWS for AI CPU chips](https://techcrunch.com/2026/05/27/in-more-good-news-for-amazon-snowflake-signs-6b-deal-with-aws-for-ai-cpu-chips/)
+- [Meta launches Instagram, Facebook, and WhatsApp subscriptions, with more to come, including AI plans](https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/)
 
 ---
 
 ## 📊 Intelligence Summary
 
-- **Total Headlines Collected:** 12
+- **Total Headlines Collected:** 15
 - **Sources Active:** 3
-- **Collection Time:** 2026-05-27 10:23:45 UTC
+- **Collection Time:** 2026-05-28 10:26:56 UTC
 - **Status:** ✅ Operational
 
 ---
