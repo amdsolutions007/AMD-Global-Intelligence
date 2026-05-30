@@ -2,44 +2,34 @@
 
 **Automated News Collection - Updated Daily**
 
-**Last Update:** 2026-05-29 10:20:09 UTC
+**Last Update:** 2026-05-30 09:37:17 UTC
 
 ---
 
-## 🔥 Latest Headlines (May 29, 2026)
+## 🔥 Latest Headlines (May 30, 2026)
 
 
 ### Hacker News
 
-- [I'm Tired of Talking to AI](https://orchidfiles.com/im-tired-of-ai-generated-answers/)
-- [YouTube to automatically label AI-generated videos](https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/)
-- [I think Anthropic and OpenAI have found product-market fit](https://simonwillison.net/2026/May/27/product-market-fit/)
-- [DuckDuckGo search saw 28% more visits after Google said people love AI mode](https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/)
-- [Tech CEOs are apparently suffering from AI psychosis](https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/)
-
-### ArXiv
-
-- [Behavior-Induced Mirror-Prox Temporal-Difference Learning for Faster Off-Policy Prediction](https://arxiv.org/abs/2605.28849)
-- [Behavior-Aware Auxiliary Corrections for Off-Policy Temporal-Difference Prediction](https://arxiv.org/abs/2605.28855)
-- [The Cognitive Categorical Transformer: Category-Theoretic Inductive Biases for Language Modeling](https://arxiv.org/abs/2605.28864)
-- [Ultra-Reduced-Impact-Encased-Logging (URIEL): propose a new method for selective sustainable logging and post-harvest silvicultural treatment in tropical forest using airborne robotics systems](https://arxiv.org/abs/2605.28883)
-- [Review Arcade: On the Human Alignment and Gameability of LLM Reviews](https://arxiv.org/abs/2605.28897)
+- [Please Use AI](https://shawnsmucker.substack.com/p/please-use-ai)
+- [Disagreement among frontier LLMs on real-world fact-checks](https://lenz.io/research/llm-disagreement)
+- [Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue](https://llmgame.scalex.dev)
 
 ### TechCrunch
 
-- [Glean’s top line crosses $300M as AI budget-cutting becomes its major selling point](https://techcrunch.com/2026/05/28/gleans-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/)
-- [Waymo dominates autonomous vehicle registrations as Tesla trails behind](https://techcrunch.com/2026/05/28/waymo-dominates-texas-autonomous-vehicle-registrations-as-tesla-trails-behind/)
-- [Asana acquires no-code agent-builder StackAI](https://techcrunch.com/2026/05/28/asana-acquires-no-code-agent-builder-stack-ai/)
-- [Anthropic raises $65 billion, nears $1T valuation ahead of IPO](https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/)
-- [Just like gold and oil, we’ll soon be able to trade AI token futures](https://techcrunch.com/2026/05/28/just-like-gold-and-oil-well-soon-be-able-to-trade-ai-token-futures/)
+- [Coders are refusing to work without AI — and that could come back to bite them](https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/)
+- [So you’ve heard these AI terms and nodded along; let’s fix that](https://techcrunch.com/2026/05/29/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/)
+- [What happens when companies become too AI-pilled?](https://techcrunch.com/video/what-happens-when-companies-become-too-ai-pilled/)
+- [After Nvidia’s $20B not-acqui-hire, AI chip startup Groq reportedly raising $650M](https://techcrunch.com/2026/05/29/after-nvidias-20b-not-acqui-hire-ai-chip-startup-groq-reportedly-raising-650m/)
+- [Cognition’s Scott Wu says AI coding agents shouldn’t replace humans](https://techcrunch.com/2026/05/29/cognitions-scott-wu-says-ai-coding-agents-shouldnt-replace-humans/)
 
 ---
 
 ## 📊 Intelligence Summary
 
-- **Total Headlines Collected:** 15
-- **Sources Active:** 3
-- **Collection Time:** 2026-05-29 10:20:09 UTC
+- **Total Headlines Collected:** 8
+- **Sources Active:** 2
+- **Collection Time:** 2026-05-30 09:37:17 UTC
 - **Status:** ✅ Operational
 
 ---
