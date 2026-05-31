@@ -2,34 +2,36 @@
 
 **Automated News Collection - Updated Daily**
 
-**Last Update:** 2026-05-30 09:37:17 UTC
+**Last Update:** 2026-05-31 09:52:49 UTC
 
 ---
 
-## 🔥 Latest Headlines (May 30, 2026)
+## 🔥 Latest Headlines (May 31, 2026)
 
 
 ### Hacker News
 
 - [Please Use AI](https://shawnsmucker.substack.com/p/please-use-ai)
-- [Disagreement among frontier LLMs on real-world fact-checks](https://lenz.io/research/llm-disagreement)
-- [Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue](https://llmgame.scalex.dev)
+- [Domain expertise has always been the real moat](https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/)
+- [Notes from the Mistral AI Now Summit](https://koenvangilst.nl/lab/mistral-ai-now-summit)
+- [OpenRouter raises $113M Series B](https://openrouter.ai/announcements/series-b)
+- [Anthropic surpasses OpenAI to become most valuable AI startup](https://qazinform.com/news/anthropic-surpasses-openai-to-become-worlds-most-valuable-ai-startup)
 
 ### TechCrunch
 
+- [Meta is reportedly developing an AI pendant](https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/)
+- [I put Google’s 24/7 AI assistant Gemini Spark to work, and it’s actually pretty useful](https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/)
+- [The groupthink boom: what three top VCs really think about the AI frenzy](https://techcrunch.com/2026/05/30/the-groupthink-boom-what-three-top-vcs-really-think-about-the-ai-frenzy/)
 - [Coders are refusing to work without AI — and that could come back to bite them](https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/)
 - [So you’ve heard these AI terms and nodded along; let’s fix that](https://techcrunch.com/2026/05/29/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/)
-- [What happens when companies become too AI-pilled?](https://techcrunch.com/video/what-happens-when-companies-become-too-ai-pilled/)
-- [After Nvidia’s $20B not-acqui-hire, AI chip startup Groq reportedly raising $650M](https://techcrunch.com/2026/05/29/after-nvidias-20b-not-acqui-hire-ai-chip-startup-groq-reportedly-raising-650m/)
-- [Cognition’s Scott Wu says AI coding agents shouldn’t replace humans](https://techcrunch.com/2026/05/29/cognitions-scott-wu-says-ai-coding-agents-shouldnt-replace-humans/)
 
 ---
 
 ## 📊 Intelligence Summary
 
-- **Total Headlines Collected:** 8
+- **Total Headlines Collected:** 10
 - **Sources Active:** 2
-- **Collection Time:** 2026-05-30 09:37:17 UTC
+- **Collection Time:** 2026-05-31 09:52:49 UTC
 - **Status:** ✅ Operational
 
 ---
