@@ -2,36 +2,36 @@
 
 **Automated News Collection - Updated Daily**
 
-**Last Update:** 2026-06-09 10:13:57 UTC
+**Last Update:** 2026-06-10 10:25:25 UTC
 
 ---
 
-## 🔥 Latest Headlines (June 09, 2026)
+## 🔥 Latest Headlines (June 10, 2026)
 
 
 ### Hacker News
 
-- [LLMs are eroding my software engineering career and I don't know what to do](https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/)
+- [macOS Container Machines](https://github.com/apple/container/blob/main/docs/container-machine.md)
 - [Apple reveals new AI architecture built around Google Gemini models](https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/)
-- [Siri AI](https://www.apple.com/apple-intelligence/)
 - [xAI is looking more like a datacentre REIT than a frontier lab](https://martinalderson.com/posts/xais-new-rental-business/)
-- [AI is slowing down](https://www.wheresyoured.at/ai-is-slowing-down/)
+- [CEOs who think AI replaces their employees are just bad CEOs](https://www.techdirt.com/2026/06/09/ceos-who-think-ai-replaces-their-employees-are-just-bad-ceos/)
+- [Siri AI](https://www.apple.com/apple-intelligence/)
 
 ### ArXiv
 
-- [PathoSage: Towards Multi-Source Evidence Adjudication in Pathology via Experience-Aware Agentic Workflow](https://arxiv.org/abs/2606.07549)
-- [OmniMem: Perturbation-aware Memory Compression for Streaming Audio-Visual LLMs](https://arxiv.org/abs/2606.07577)
-- [Syll: Open-Source Personal Automation with Cross-Surface Execution](https://arxiv.org/abs/2606.07594)
-- [A case study of evaluating AI agents on a neuroscience data-to-discovery pipeline](https://arxiv.org/abs/2606.07718)
-- [Why Limit the Residual Stream to Layers and Not Tokens? Persistent Memory for Continuous Latent Reasoning](https://arxiv.org/abs/2606.07720)
+- [Business World Model](https://arxiv.org/abs/2606.10044)
+- [Deployment-Time Memorization in Foundation-Model Agents](https://arxiv.org/abs/2606.10062)
+- [Exploratory Responsiveness and Adaptive Rigidity under AI-Assisted Optimization](https://arxiv.org/abs/2606.10086)
+- [Predictive Assistance and the Temporal Dynamics of Exploratory Compression](https://arxiv.org/abs/2606.10094)
+- [From Senses to Decisions: The Information Flow of Auditory and Visual Perception in Multimodal LLMs](https://arxiv.org/abs/2606.10147)
 
 ### TechCrunch
 
-- [Evotrex raises $30M to build the RV that doesn’t need a charging station](https://techcrunch.com/2026/06/09/anker-backed-evotrex-raises-30m-to-build-its-off-grid-rv/)
-- [Why Apple’s slow-and-steady AI bet is starting to look pretty smart](https://techcrunch.com/2026/06/08/why-apples-slow-and-steady-ai-bet-is-starting-to-look-pretty-smart/)
-- [As OpenAI files for IPO, Sam Altman’s eye-scanning company is doing layoffs, report says](https://techcrunch.com/2026/06/08/as-openai-files-for-ipo-sam-altmans-eye-scanning-company-is-doing-layoffs-report-says/)
-- [Apple’s WWDC AI demos looked more real after $250M false ad settlement](https://techcrunch.com/2026/06/08/apples-wwdc-ai-demos-looked-more-real-after-250m-false-ad-settlement/)
-- [OpenAI files confidentially for IPO, following Anthropic](https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/)
+- [Meta signs first AI data center deal in India with Reliance](https://techcrunch.com/2026/06/10/meta-signs-first-ai-data-center-deal-in-india-with-reliance/)
+- [Google just fired a warning shot in the AI subscription price wars](https://techcrunch.com/2026/06/09/google-just-fired-a-warning-shot-in-the-ai-subscription-price-wars/)
+- [GM joins race to build batteries for AI data centers and the grid](https://techcrunch.com/2026/06/09/gm-bets-big-on-energy-storage-for-data-centers-and-the-grid/)
+- [Hey, Siri, here’s what I actually want from AI](https://techcrunch.com/2026/06/09/hey-siri-heres-what-i-actually-want-from-ai/)
+- [Anthropic’s Fable 5 can make weirdly fun video games with the click of a button](https://techcrunch.com/2026/06/09/anthropics-fable-5-can-make-weirdly-fun-video-games-with-the-click-of-a-button/)
 
 ---
 
@@ -39,7 +39,7 @@
 
 - **Total Headlines Collected:** 15
 - **Sources Active:** 3
-- **Collection Time:** 2026-06-09 10:13:57 UTC
+- **Collection Time:** 2026-06-10 10:25:25 UTC
 - **Status:** ✅ Operational
 
 ---
