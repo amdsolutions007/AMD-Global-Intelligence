@@ -2,36 +2,36 @@
 
 **Automated News Collection - Updated Daily**
 
-**Last Update:** 2026-06-10 10:25:25 UTC
+**Last Update:** 2026-06-11 10:31:18 UTC
 
 ---
 
-## 🔥 Latest Headlines (June 10, 2026)
+## 🔥 Latest Headlines (June 11, 2026)
 
 
 ### Hacker News
 
 - [macOS Container Machines](https://github.com/apple/container/blob/main/docs/container-machine.md)
-- [Apple reveals new AI architecture built around Google Gemini models](https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/)
-- [xAI is looking more like a datacentre REIT than a frontier lab](https://martinalderson.com/posts/xais-new-rental-business/)
+- [Building an HTML-first site doubled our users overnight](https://mohkohn.co.uk/writing/html-first/)
+- [German ruling declares Google liable for false answers in AI Overviews](https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/)
 - [CEOs who think AI replaces their employees are just bad CEOs](https://www.techdirt.com/2026/06/09/ceos-who-think-ai-replaces-their-employees-are-just-bad-ceos/)
-- [Siri AI](https://www.apple.com/apple-intelligence/)
+- [Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable](https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/)
 
 ### ArXiv
 
-- [Business World Model](https://arxiv.org/abs/2606.10044)
-- [Deployment-Time Memorization in Foundation-Model Agents](https://arxiv.org/abs/2606.10062)
-- [Exploratory Responsiveness and Adaptive Rigidity under AI-Assisted Optimization](https://arxiv.org/abs/2606.10086)
-- [Predictive Assistance and the Temporal Dynamics of Exploratory Compression](https://arxiv.org/abs/2606.10094)
-- [From Senses to Decisions: The Information Flow of Auditory and Visual Perception in Multimodal LLMs](https://arxiv.org/abs/2606.10147)
+- [From Explicit Elements to Implicit Intent: A Predefined Library for Auditable Behavioral Inference](https://arxiv.org/abs/2606.11207)
+- [Position: Hippocampal Explicit Memory Is the Cornerstone for AGI](https://arxiv.org/abs/2606.11245)
+- [Can AI Agents Synthesize Scientific Conclusions?](https://arxiv.org/abs/2606.11337)
+- [Knowing When to Ask: Self-Gated Clarification for Hierarchical Language Agents](https://arxiv.org/abs/2606.11349)
+- [Automated Mediator for Human Negotiation: Pre-Mediation via a Structured LLM Pipeline](https://arxiv.org/abs/2606.11379)
 
 ### TechCrunch
 
-- [Meta signs first AI data center deal in India with Reliance](https://techcrunch.com/2026/06/10/meta-signs-first-ai-data-center-deal-in-india-with-reliance/)
-- [Google just fired a warning shot in the AI subscription price wars](https://techcrunch.com/2026/06/09/google-just-fired-a-warning-shot-in-the-ai-subscription-price-wars/)
-- [GM joins race to build batteries for AI data centers and the grid](https://techcrunch.com/2026/06/09/gm-bets-big-on-energy-storage-for-data-centers-and-the-grid/)
-- [Hey, Siri, here’s what I actually want from AI](https://techcrunch.com/2026/06/09/hey-siri-heres-what-i-actually-want-from-ai/)
-- [Anthropic’s Fable 5 can make weirdly fun video games with the click of a button](https://techcrunch.com/2026/06/09/anthropics-fable-5-can-make-weirdly-fun-video-games-with-the-click-of-a-button/)
+- [Opendoor’s India exit is fueling a bigger conversation about AI and outsourcing](https://techcrunch.com/2026/06/10/opendoors-india-exit-is-fueling-a-bigger-conversation-about-ai-and-outsourcing/)
+- [Anthropic’s Dario Amodei has just one direct report](https://techcrunch.com/2026/06/10/anthropics-dario-amodei-has-just-one-direct-report/)
+- [xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims](https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/)
+- [Why Andrew Yang is building instead of waiting for Washington](https://techcrunch.com/video/why-andrew-yang-is-building-instead-of-waiting-for-washington/)
+- [Cybercriminals claim breach of Oracle PeopleSoft servers at 100-plus organizations](https://techcrunch.com/2026/06/10/cybercriminals-claim-breach-of-oracle-peoplesoft-servers-at-100-plus-organizations/)
 
 ---
 
@@ -39,7 +39,7 @@
 
 - **Total Headlines Collected:** 15
 - **Sources Active:** 3
-- **Collection Time:** 2026-06-10 10:25:25 UTC
+- **Collection Time:** 2026-06-11 10:31:18 UTC
 - **Status:** ✅ Operational
 
 ---
