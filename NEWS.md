@@ -2,44 +2,34 @@
 
 **Automated News Collection - Updated Daily**
 
-**Last Update:** 2026-06-12 10:30:12 UTC
+**Last Update:** 2026-06-13 10:00:07 UTC
 
 ---
 
-## 🔥 Latest Headlines (June 12, 2026)
+## 🔥 Latest Headlines (June 13, 2026)
 
 
 ### Hacker News
 
-- [Building an HTML-first site doubled our users overnight](https://mohkohn.co.uk/writing/html-first/)
-- [Pokémon Go Scans Trained the Navigation Tech for Military Drones](https://dronexl.co/2026/06/09/pokemon-go-scans-niantic-vantor-military-drone-navigation/)
 - [AI agent bankrupted their operator while trying to scan DN42](https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/)
-- [Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable](https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/)
-- [AI agent runs amok in Fedora and elsewhere](https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/)
-
-### ArXiv
-
-- [ToolSense: A Diagnostic Framework for Auditing Parametric Tool Knowledge in LLMs](https://arxiv.org/abs/2606.12451)
-- [Arbor: Tree Search as a Cognition Layer for Autonomous Agents](https://arxiv.org/abs/2606.12563)
-- [Strategic Decision Support for AI Agents](https://arxiv.org/abs/2606.12587)
-- [Pythagoras-Prover: Advancing Efficient Formal Proving via Augmented Lean Formalisation](https://arxiv.org/abs/2606.12594)
-- [PersonaDrive: Human-Style Retrieval-Augmented VLA Agents for Closed-Loop Driving Simulation](https://arxiv.org/abs/2606.12616)
+- [Open source AI must win](https://opensourceaimustwin.com/?share=v2)
+- [Anthropic apologizes for invisible Claude Fable guardrails](https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail)
 
 ### TechCrunch
 
-- [Cheaper, faster, and culturally aware, Avataar’s video AI is built for India’s scale](https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/)
-- [Equal AI raises $30M to screen calls so Indians don’t have to](https://techcrunch.com/2026/06/11/equal-ai-raises-30m-to-screen-calls-so-indians-dont-have-to/)
-- [Theker just raised $85M to build the factory robot that doesn’t specialize in anything](https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/)
-- [Jeff Bezos’s Prometheus raises $12B to build an ‘artificial general engineer’ for the physical world](https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/)
-- [Meta’s Edits app is getting an AI assistant and a desktop version](https://techcrunch.com/2026/06/11/metas-edits-app-is-getting-an-ai-assistant-and-a-desktop-version/)
+- [Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI](https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/)
+- [Meta’s months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it](https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/)
+- [Chinese cybercrime operation that used AI to scam ‘hundreds of thousands of victims’ sued by Google](https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/)
+- [SpaceX IPO closes up 19% and delivers the world’s first trillionaire](https://techcrunch.com/2026/06/12/spacex-ipo-closes-up-19-and-delivers-the-worlds-first-trillionaire/)
+- [Mistral is rumored to be raising €3B at €20B valuation](https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/)
 
 ---
 
 ## 📊 Intelligence Summary
 
-- **Total Headlines Collected:** 15
-- **Sources Active:** 3
-- **Collection Time:** 2026-06-12 10:30:12 UTC
+- **Total Headlines Collected:** 8
+- **Sources Active:** 2
+- **Collection Time:** 2026-06-13 10:00:07 UTC
 - **Status:** ✅ Operational
 
 ---
