@@ -2,44 +2,40 @@
 
 **Automated News Collection - Updated Daily**
 
-**Last Update:** 2026-06-17 10:32:59 UTC
+**Last Update:** 2026-06-18 10:30:32 UTC
 
 ---
 
-## 🔥 Latest Headlines (June 17, 2026)
+## 🔥 Latest Headlines (June 18, 2026)
 
 
 ### Hacker News
 
-- [Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?](https://news.ycombinator.com/item?id=48542100)
-- [TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)](https://tinywind.io)
-- [I admire Fabrice Bellard. He is almost certainly a better overall programmer](https://twitter.com/ID_AA_Carmack/status/2064095424420487226)
-- [CrankGPT](https://crankgpt.com)
-- [Feds freaked over Fable 5 after 'fix this code', not jailbreak, say researchers](https://www.theregister.com/security/2026/06/15/feds-freaked-over-fable-5-after-simple-fix-this-code-prompt-not-jailbreak-says-researcher/5255827)
+- [Sixty percent of US consumers say 'AI' in brand messaging is a turnoff](https://wpvip.com/future-of-the-web-2026/)
 
 ### ArXiv
 
-- [Beyond Parallel Sampling: Diverse Query Initialization for Agentic Search](https://arxiv.org/abs/2606.17209)
-- [When Rules Learn: A Self-Evolving Agent for Legal Case Retrieval](https://arxiv.org/abs/2606.17220)
-- [SkillChain-Gym: A Benchmark for Reskilling-Aware Production-Inventory Control under Disruptions](https://arxiv.org/abs/2606.17266)
-- [Skill-Constrained Model Predictive Control for Resilient Manufacturing Supply Chains](https://arxiv.org/abs/2606.17269)
-- [Nothing from Something: Can a Language Model Discover 0?](https://arxiv.org/abs/2606.17289)
+- [NAVI-Orbital: First In-Orbit Demonstration of a Zero-Shot Vision-Language Model for Autonomous Earth Observation](https://arxiv.org/abs/2606.18271)
+- [CaVe-VLM-CoT: An Interpretable Vision-Language Model Framework](https://arxiv.org/abs/2606.18385)
+- [Searching for Synergy in Shared Workspace Human-AI Collaboration](https://arxiv.org/abs/2606.18413)
+- [CEO-Bench: Can Agents Play the Long Game?](https://arxiv.org/abs/2606.18543)
+- [DeFAb: A Verifiable Benchmark for Defeasible Abduction in Foundation Models](https://arxiv.org/abs/2606.18557)
 
 ### TechCrunch
 
-- [Anthropic’s latest feud with the Trump admin may actually help it, sales data suggests](https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/)
-- [Apple plans to change its Hide My Email privacy feature that could make it less effective](https://techcrunch.com/2026/06/16/apple-plans-to-change-its-hide-my-email-privacy-feature-that-could-make-it-less-effective/)
-- [Snap finally debuts its long-awaited AR glasses, Specs, and, oof, they aren’t cheap](https://techcrunch.com/2026/06/16/snap-finally-debuts-its-long-awaited-ar-glasses-specs-and-oof-they-arent-cheap/)
-- [Sixty percent of US consumers say ‘AI’ in brand messaging is a turnoff, survey finds](https://techcrunch.com/2026/06/16/sixty-percent-of-u-s-consumers-say-ai-in-brand-messaging-is-a-turnoff-survey-finds/)
-- [DOJ claims xAI’s unpermitted gas turbines are a matter of ‘national, economic, and energy security’](https://techcrunch.com/2026/06/16/doj-claims-xais-unpermitted-gas-turbines-are-a-matter-of-national-economic-and-energy-security/)
+- [How to turn off AI in your Google Docs](https://techcrunch.com/2026/06/17/how-to-turn-off-ai-in-your-google-docs/)
+- [AI is hurting Apple in more ways than one: it may force iPhone price increases](https://techcrunch.com/2026/06/17/ai-is-hurting-apple-in-more-ways-than-one-it-may-force-iphone-price-increases/)
+- [Chi-Hua Chien saw Facebook coming — now he says the real AI winners won’t be selling AI](https://techcrunch.com/2026/06/17/chi-hua-chien-saw-facebook-coming-now-he-says-the-real-ai-winners-wont-be-selling-ai/)
+- [NEA’s Tiffany Luck says enterprises are still figuring out their AI ROI](https://techcrunch.com/video/neas-tiffany-luck-says-enterprises-are-still-figuring-out-their-ai-roi/)
+- [World leaders want American AI. They just don’t want America to be able to turn it off.](https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/)
 
 ---
 
 ## 📊 Intelligence Summary
 
-- **Total Headlines Collected:** 15
+- **Total Headlines Collected:** 11
 - **Sources Active:** 3
-- **Collection Time:** 2026-06-17 10:32:59 UTC
+- **Collection Time:** 2026-06-18 10:30:32 UTC
 - **Status:** ✅ Operational
 
 ---
