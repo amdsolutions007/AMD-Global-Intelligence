@@ -2,17 +2,20 @@
 
 **Automated News Collection - Updated Daily**
 
-**Last Update:** 2026-06-19 10:30:45 UTC
+**Last Update:** 2026-06-20 10:01:47 UTC
 
 ---
 
-## 🔥 Latest Headlines (June 19, 2026)
+## 🔥 Latest Headlines (June 20, 2026)
 
 
 ### Hacker News
 
-- [Sixty percent of US consumers say 'AI' in brand messaging is a turnoff](https://wpvip.com/future-of-the-web-2026/)
+- [Hyundai buys Boston Dynamics](https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/)
+- [Norway imposes near ban on AI in elementary school](https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/)
+- [Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28](https://www.jvm-weekly.com/p/project-valhalla-explained-how-a)
 - [Emacs 31 is around the corner: The changes I'm daily driving](https://www.rahuljuliato.com/posts/emacs-31-around-the-corner)
+- [AI Engineer Claims to Have Cracked Linear A](https://aiclambake.com/clamtakes/linear-a/)
 
 ### ArXiv
 
@@ -24,19 +27,19 @@
 
 ### TechCrunch
 
-- [Source: Elastic agrees to buy CRV-backed DeductiveAI for up to $85M](https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/)
-- [AI inference startup Baseten reportedly raising $1.5B months after its last mega-round](https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/)
-- [Snap spins off AI video team into new company, Dotmo, due to costs](https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/)
-- [OpenAI is bringing on some big guns in the lead-up to its IPO](https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/)
-- [Almost half of US singles feel negatively about AI in dating, Match says](https://techcrunch.com/2026/06/18/almost-half-of-u-s-singles-feel-negatively-about-ai-in-dating-match-says/)
+- [Every fusion startup that has raised over $100M](https://techcrunch.com/2026/06/19/every-fusion-startup-that-has-raised-over-100m/)
+- [Is the US government’s Anthropic ban accidentally helping the brand?](https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/)
+- [Billionaire Ambani wants AI in every call, app, and home](https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/)
+- [The CEO of Allbirds’ new AI biz has a plan, but no team](https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/)
+- [Source: Elastic agrees to buy CRV-backed Deductive AI for up to $85M](https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/)
 
 ---
 
 ## 📊 Intelligence Summary
 
-- **Total Headlines Collected:** 12
+- **Total Headlines Collected:** 15
 - **Sources Active:** 3
-- **Collection Time:** 2026-06-19 10:30:45 UTC
+- **Collection Time:** 2026-06-20 10:01:47 UTC
 - **Status:** ✅ Operational
 
 ---
