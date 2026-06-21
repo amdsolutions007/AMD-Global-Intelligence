@@ -2,44 +2,36 @@
 
 **Automated News Collection - Updated Daily**
 
-**Last Update:** 2026-06-20 10:01:47 UTC
+**Last Update:** 2026-06-21 10:14:27 UTC
 
 ---
 
-## 🔥 Latest Headlines (June 20, 2026)
+## 🔥 Latest Headlines (June 21, 2026)
 
 
 ### Hacker News
 
 - [Hyundai buys Boston Dynamics](https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/)
 - [Norway imposes near ban on AI in elementary school](https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/)
-- [Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28](https://www.jvm-weekly.com/p/project-valhalla-explained-how-a)
-- [Emacs 31 is around the corner: The changes I'm daily driving](https://www.rahuljuliato.com/posts/emacs-31-around-the-corner)
+- [GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2](https://arrowtsx.dev/bigger-models/)
 - [AI Engineer Claims to Have Cracked Linear A](https://aiclambake.com/clamtakes/linear-a/)
-
-### ArXiv
-
-- [Deontic Policies for Runtime Governance of Agentic AI Systems](https://arxiv.org/abs/2606.19464)
-- [Measuring Curriculum Alignment across Topical Coverage, Competency, and Cognitive Depth: A Longitudinal Framework Applied to CS2013 and CS2023](https://arxiv.org/abs/2606.19469)
-- [Diffusion Language Models: An Experimental Analysis](https://arxiv.org/abs/2606.19475)
-- [Hidden Anchors in Multi-Agent LLM Deliberation](https://arxiv.org/abs/2606.19494)
-- [DeXposure-Claw: An Agentic System for DeFi Risk Supervision](https://arxiv.org/abs/2606.19501)
+- [A new bill takes aim at government pressure to silence lawful online speech](https://www.eff.org/deeplinks/2026/06/new-bill-takes-aim-government-pressure-silence-lawful-online-speech)
 
 ### TechCrunch
 
+- [Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’](https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/)
+- [In the Weights is your new AI-centric vanity search](https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/)
+- [Nobel laureate John Jumper is leaving DeepMind for rival Anthropic](https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/)
 - [Every fusion startup that has raised over $100M](https://techcrunch.com/2026/06/19/every-fusion-startup-that-has-raised-over-100m/)
 - [Is the US government’s Anthropic ban accidentally helping the brand?](https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/)
-- [Billionaire Ambani wants AI in every call, app, and home](https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/)
-- [The CEO of Allbirds’ new AI biz has a plan, but no team](https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/)
-- [Source: Elastic agrees to buy CRV-backed Deductive AI for up to $85M](https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/)
 
 ---
 
 ## 📊 Intelligence Summary
 
-- **Total Headlines Collected:** 15
-- **Sources Active:** 3
-- **Collection Time:** 2026-06-20 10:01:47 UTC
+- **Total Headlines Collected:** 10
+- **Sources Active:** 2
+- **Collection Time:** 2026-06-21 10:14:27 UTC
 - **Status:** ✅ Operational
 
 ---
