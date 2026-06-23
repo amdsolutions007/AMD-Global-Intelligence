@@ -2,35 +2,34 @@
 
 **Automated News Collection - Updated Daily**
 
-**Last Update:** 2026-06-22 10:52:55 UTC
+**Last Update:** 2026-06-23 10:15:02 UTC
 
 ---
 
-## 🔥 Latest Headlines (June 22, 2026)
+## 🔥 Latest Headlines (June 23, 2026)
 
 
 ### Hacker News
 
-- [Loupe – A iOS app that raises awareness about what native apps can see](https://github.com/mysk-research/loupe)
-- [The brain was not designed for this much bad news](https://www.sciencedaily.com/releases/2026/06/260614012006.htm)
 - [Apertus – Open Foundation Model for Sovereign AI](https://apertvs.ai/)
-- [Slow breathing modulates brain function and risk behavior](https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9)
+- [Canada plans 'nuclear renaissance' with up to 10 reactors built by 2040](https://www.cbc.ca/news/politics/federal-nuclear-strategy-9.7244509)
+- [Danish privacy activist Lars Andersen raided by police](https://twitter.com/LarsAnders1620/status/2068208864747540516#m)
 
 ### TechCrunch
 
-- [Polymarket reportedly paid creators to post deceptive videos about fake bets](https://techcrunch.com/2026/06/21/polymarket-reportedly-paid-creators-to-post-deceptive-videos-about-fake-bets/)
-- [When the Trump administration cracks down on Anthropic, who benefits?](https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/)
-- [Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27](https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/)
-- [Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’](https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/)
-- [In the Weights is your new AI-centric vanity search](https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/)
+- [The running list: major tech layoffs in 2026 where employers cited AI](https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/)
+- [OpenAI launches new initiative to help find and patch open source bugs](https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/)
+- [The AI world is getting ‘loopy’](https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/)
+- [AI chipmaker Groq confirms $650M raise, re-staffs after Nvidia’s $20B not-acqui-hire deal](https://techcrunch.com/2026/06/22/ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidias-20b-not-acqui-hire-deal/)
+- [Nvidia wants to cut data center water use, but that’s not the same as fixing AI’s water problem](https://techcrunch.com/2026/06/22/nvidia-wants-to-cut-data-center-water-use-but-thats-not-the-same-as-fixing-ais-water-problem/)
 
 ---
 
 ## 📊 Intelligence Summary
 
-- **Total Headlines Collected:** 9
+- **Total Headlines Collected:** 8
 - **Sources Active:** 2
-- **Collection Time:** 2026-06-22 10:52:55 UTC
+- **Collection Time:** 2026-06-23 10:15:02 UTC
 - **Status:** ✅ Operational
 
 ---
