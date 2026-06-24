@@ -2,34 +2,40 @@
 
 **Automated News Collection - Updated Daily**
 
-**Last Update:** 2026-06-23 10:15:02 UTC
+**Last Update:** 2026-06-24 10:04:41 UTC
 
 ---
 
-## 🔥 Latest Headlines (June 23, 2026)
+## 🔥 Latest Headlines (June 24, 2026)
 
 
 ### Hacker News
 
-- [Apertus – Open Foundation Model for Sovereign AI](https://apertvs.ai/)
 - [Canada plans 'nuclear renaissance' with up to 10 reactors built by 2040](https://www.cbc.ca/news/politics/federal-nuclear-strategy-9.7244509)
-- [Danish privacy activist Lars Andersen raided by police](https://twitter.com/LarsAnders1620/status/2068208864747540516#m)
+
+### ArXiv
+
+- [RIFT-Bench: Dynamic Red-teaming For Agentic AI Systems](https://arxiv.org/abs/2606.23927)
+- [Neuro-Symbolic Drive: Rule-Grounded Faithful Reasoning for Driving VLAs](https://arxiv.org/abs/2606.23938)
+- [Critique of Agent Model](https://arxiv.org/abs/2606.23991)
+- [Safe and Generalizable Hierarchical Multi-Agent RL via Constraint Manifold Control](https://arxiv.org/abs/2606.24010)
+- [Reinforcement Learning Towards Broadly and Persistently Beneficial Models](https://arxiv.org/abs/2606.24014)
 
 ### TechCrunch
 
-- [The running list: major tech layoffs in 2026 where employers cited AI](https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/)
-- [OpenAI launches new initiative to help find and patch open source bugs](https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/)
-- [The AI world is getting ‘loopy’](https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/)
-- [AI chipmaker Groq confirms $650M raise, re-staffs after Nvidia’s $20B not-acqui-hire deal](https://techcrunch.com/2026/06/22/ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidias-20b-not-acqui-hire-deal/)
-- [Nvidia wants to cut data center water use, but that’s not the same as fixing AI’s water problem](https://techcrunch.com/2026/06/22/nvidia-wants-to-cut-data-center-water-use-but-thats-not-the-same-as-fixing-ais-water-problem/)
+- [India’s MoEngage bets that the future of marketing is millions of AI agents](https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/)
+- [Superhuman acquires AI detection startup GPTZero](https://techcrunch.com/2026/06/23/superhuman-acquires-ai-detection-startup-gptzero/)
+- [After betting the firm on Anthropic, Menlo Ventures raises victorious $3B fund](https://techcrunch.com/2026/06/23/after-betting-the-firm-on-anthropic-menlo-ventures-raises-victorious-3b-fund/)
+- [Anthropic’s Claude Tag is learning your company, one Slack message at a time](https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/)
+- [HaloBraid raises $7M from Seven Seven Six to end the six-hour hair salon appointment](https://techcrunch.com/2026/06/23/halobraid-raises-7m-from-seven-seven-six-to-end-the-six-hour-hair-salon-appointment/)
 
 ---
 
 ## 📊 Intelligence Summary
 
-- **Total Headlines Collected:** 8
-- **Sources Active:** 2
-- **Collection Time:** 2026-06-23 10:15:02 UTC
+- **Total Headlines Collected:** 11
+- **Sources Active:** 3
+- **Collection Time:** 2026-06-24 10:04:41 UTC
 - **Status:** ✅ Operational
 
 ---
