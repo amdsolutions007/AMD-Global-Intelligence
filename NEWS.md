@@ -2,16 +2,17 @@
 
 **Automated News Collection - Updated Daily**
 
-**Last Update:** 2026-06-24 10:04:41 UTC
+**Last Update:** 2026-06-25 10:03:38 UTC
 
 ---
 
-## 🔥 Latest Headlines (June 24, 2026)
+## 🔥 Latest Headlines (June 25, 2026)
 
 
 ### Hacker News
 
-- [Canada plans 'nuclear renaissance' with up to 10 reactors built by 2040](https://www.cbc.ca/news/politics/federal-nuclear-strategy-9.7244509)
+- [OpenAI unveils its first custom chip, built by Broadcom](https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/)
+- [Anthropic says Alibaba illicitly extracted Claude AI model capabilities](https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/)
 
 ### ArXiv
 
@@ -23,19 +24,19 @@
 
 ### TechCrunch
 
-- [India’s MoEngage bets that the future of marketing is millions of AI agents](https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/)
-- [Superhuman acquires AI detection startup GPTZero](https://techcrunch.com/2026/06/23/superhuman-acquires-ai-detection-startup-gptzero/)
-- [After betting the firm on Anthropic, Menlo Ventures raises victorious $3B fund](https://techcrunch.com/2026/06/23/after-betting-the-firm-on-anthropic-menlo-ventures-raises-victorious-3b-fund/)
-- [Anthropic’s Claude Tag is learning your company, one Slack message at a time](https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/)
-- [HaloBraid raises $7M from Seven Seven Six to end the six-hour hair salon appointment](https://techcrunch.com/2026/06/23/halobraid-raises-7m-from-seven-seven-six-to-end-the-six-hour-hair-salon-appointment/)
+- [Cellebrite said it cut off Russia, but Russia used is tools anyway](https://techcrunch.com/2026/06/25/cellebrite-said-it-cut-off-russia-but-russia-used-is-tools-anyway/)
+- [Elon suffers another day short of trillionaire status](https://techcrunch.com/2026/06/24/elon-suffers-another-day-short-of-trillionaire-status/)
+- [AI was supposed to kill engineering jobs, but new data suggests they’re the most resilient](https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient/)
+- [AI researchers continue to leave Google for its rivals](https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/)
+- [Companies are scrambling to stop employees from maxing out AI budgets with small tasks](https://techcrunch.com/2026/06/24/companies-are-scrambling-to-stop-employees-from-maxing-out-ai-budgets-with-small-tasks/)
 
 ---
 
 ## 📊 Intelligence Summary
 
-- **Total Headlines Collected:** 11
+- **Total Headlines Collected:** 12
 - **Sources Active:** 3
-- **Collection Time:** 2026-06-24 10:04:41 UTC
+- **Collection Time:** 2026-06-25 10:03:38 UTC
 - **Status:** ✅ Operational
 
 ---
